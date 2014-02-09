@@ -7,6 +7,7 @@
 - Challenges will be bigger and more vague. A lot of the problem will be how strategizing how to approach the problem: like debugging or researching a problem.
 - The emphasis of challenges are on the process of problem solving, not the solution.
 - Code quality is #1.
+- Do NOT use rails scaffold & rails generation. The only exception is Rails generate migration. Please don't generate models, don't generate controllers or views. We are learning to write code, don't let Rails write it for you. Besides, rails generate/scaffold commands generate a lot of crappy and unnecessary code.
 - Don't be attached to your code, my job is to be critical and opinionated :)
 - I will do my best to pair with all of you several times throughout the phase.
 - I will be conducting code reviews for specific challenges. Some of these will happen on github's pull requests and others will happen live, face to face.
@@ -14,12 +15,4 @@
 - Don't burn out, take care of each other.
 - All our challenge solutions/repos should be under phase organization.
 - I'm always interruptible and so are you.
-
-## Our github workflow:
-
-- Clone the challenge repo.
-- Create your own branch (github usernames separated by dashes)
-- Your work should happen in a series of small and concise commit messages. Basically, your solution shouldn't be a 1 gigantic commit.
-- Continuously push your branch to github.
-- When you're satisfied with your solution, submit a pull request.
-- We never ever ever push to master, like ever.
+- Make sure you check out [Phase 3 Git Workflow](https://github.com/Devbootcamp/phase-3-guide/blob/master/git-workflow.md#phase-3-github-workflow)
