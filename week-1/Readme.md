@@ -9,7 +9,7 @@
 - 6p
   - Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
   - Prepare rails related questions based on your intro to rails challenge.
-  - Get ready for testing: readings-discussions/rspec.md
+  - [Get ready for testing](https://github.com/sea-lions-2014/phase-3-guide/blob/master/week-1/discussions/rspec.md)
 
 ### Day 2 - Build an app and test it
 
