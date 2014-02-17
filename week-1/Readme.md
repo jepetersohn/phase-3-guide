@@ -7,8 +7,9 @@
 - 2p - Welcome to Phase 3
 - pm - [Intro to Rails challenge](https://github.com/sea-lions-2014/intro-to-rails-challenge)
 - 6p
+  - Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
   - Prepare rails related questions based on your intro to rails challenge.
-  - Get ready for testing(readings-discussions/rspec.md).
+  - Get ready for testing: readings-discussions/rspec.md
 
 ### Day 2 - Build an app and test it
 
@@ -20,14 +21,16 @@
   - [Bank Account](https://github.com/sea-lions-2014/rspec-drill-bank-account-challenge)
   - [Cookie](https://github.com/sea-lions-2014/rspec-drill-test-a-cookie-challenge)
   - [Todo](https://github.com/sea-lions-2014/rspec-drill-simple-todo-challenge)
-  - Prepare testing/Rspec questions based on challenges and readings.
+  - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/sh/tms1v3cjny3khwv/02m1J7EK5s/Books/4%20Testing%20-%20TDD/The%20RSpec%20Book%20v2.pdf)
 
 ## Day 3: Capybara and TDD/BDD
 - 9a - Testing/Rspec Q&A / TDD (red green refactor) and Capybara Intro
 - am - TDD the app you did yesterday (focus on model and controller testing)
 - 2p - TDD live demo
 - pm - [Todo MVC challenge](https://github.com/sea-lions-2014/todomvc-rails-challenge)
-- 6p - [Rspec Rails challenge](https://github.com/sea-lions-2014/sf-rspec-rails-challenge)
+- 6p
+  - [Rspec Rails challenge](https://github.com/sea-lions-2014/sf-rspec-rails-challenge)
+  - Read chapters 1 of [Rails Antipatterns](https://www.dropbox.com/sh/tms1v3cjny3khwv/XHUZ8ndPU1/Books/5%20Sinatra%20and%20Rails/Rails%20Antipatterns%20-%20Refactoring%20Best%20Practices.pdf)
 
 ## Day 4: Rails Patterns and Debugging
 - 9a - TDD/Capybara Q&A and Rails Patterns intro:
@@ -37,7 +40,10 @@
 - am - Ping pong pairing with intentional mess with your partner
 - 2p - Ruby exceptions and debugger gem
 - pm - [Refactor-this challenge](https://github.com/Devbootcamp/refactor-this-challenge)
-- 6p - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
+- 6p
+  - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
+  - Get with your team, plan your app
+  - Read chapters 3 and 4 of [Rails Antipatterns](https://www.dropbox.com/sh/tms1v3cjny3khwv/XHUZ8ndPU1/Books/5%20Sinatra%20and%20Rails/Rails%20Antipatterns%20-%20Refactoring%20Best%20Practices.pdf)
 
 ## Day 5 - THE App
 - 9a - Ajax on Rails
