@@ -9,19 +9,20 @@
 - pm - [Karmaville Tabs]()
 - 6p - [Awesome Menus](https://github.com/Devbootcamp/challenge-awesome-menus)
 
-### Day 2 Data Migration and Javascript Patterns
+### Day 2 Javascript Patterns
 
-- 9a - Custom rake tasks
-- am - [Migrating Sweet Articles](https://github.com/Devbootcamp/sweet_articles)
+- 9a - Javascript design patterns
+- am - Build miniQuery v1.0
 - 2p - Javascript design patterns
 - pm
-  - [Post it baord v1](https://socrates.devbootcamp.com/challenges/332)
-  - [Post it board v2](https://socrates.devbootcamp.com/challenges/333)
-  - [TODO] something javascript patterny...
+  - Build miniQuery v2.0
+  - Build miniQuery v3.0
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  - [Post it baord v1](https://socrates.devbootcamp.com/challenges/332)
+  - [Post it board v2](https://socrates.devbootcamp.com/challenges/333)
 
-### Day 3 Client-side heave apps
+### Day 3 Client-side heavy apps
 
 - 9a - Building 1 Page Apps
 - am - [build a thick client on Rails](https://github.com/Devbootcamp/challenge-build-a-thick-client-on-rails)
