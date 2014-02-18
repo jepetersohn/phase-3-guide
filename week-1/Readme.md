@@ -25,8 +25,8 @@
 
 ## Day 3: Capybara and TDD/BDD
 - 9a - Testing/Rspec Q&A / TDD (red green refactor) and Capybara Intro
-- am - TDD the app you did yesterday (focus on model and controller testing)
-- 2p - TDD live demo
+- am - TDD the app you did yesterday (focus on model and controller testing) and add feature tests to it using capybara.
+- 2p - TDD live demo with feature testing.
 - pm - [Todo MVC challenge](https://github.com/sea-lions-2014/todomvc-rails-challenge)
 - 6p
   - [Rspec Rails challenge](https://github.com/sea-lions-2014/sf-rspec-rails-challenge)
