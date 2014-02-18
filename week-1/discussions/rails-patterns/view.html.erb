@@ -1,0 +1,24 @@
+<!-- Your views should be as logicless as possible. Critics of Rails would argue that Rails allows too much logic in the views. Having said that, your views will have ruby logic, but it should be minimized and the controller should do most of the work (which in itself can delegate work to the model). Examples: -->
+
+<!-- Your views shouldn't be doing the logic on line 2. This is the job of the controller. The controller should as the the model to find and then hand the view what it needs   -->
+<% post = Post.find(params[:id]) %>
+<h1><%= post.title %></h1>
+<p><%= post.body %></p>
+
+<!--
+Logic on lines 11 and 17 don't belong here. The controller should be doing the work and handing over a @published_posts and @unpublished_posts vars to the view. The controller should then delegate these method calls to the model (.published, .unpublished). Hopefully you're seeing the pattern here. -->
+<ul>
+  <h1>published posts</h1>
+  <%= @posts.select(&:published).each do |post| %>
+    <li><%= post.title  %></li>
+  <% end %>
+</ul>
+<ul>
+  <h1>unpublished posts</h1>
+  <%= @posts.reject(&:published).each do |post| %>
+    <li><%= post.title  %></li>
+  <% end %>
+</ul>
+
+
+
