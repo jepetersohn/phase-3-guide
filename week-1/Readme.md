@@ -37,9 +37,11 @@
   - What belongs in the controller
   - What belongs in a model
   - Organize your code with modules and concerns
-- am - Ping pong pairing with intentional mess with your partner
+- am - [Refactor-this challenge](https://github.com/Devbootcamp/refactor-this-challenge) 
 - 2p - Ruby exceptions and debugger gem
-- pm - [Refactor-this challenge](https://github.com/Devbootcamp/refactor-this-challenge)
+- pm 
+  - [Fix this]()
+  - Ping pong pairing with intentional mess with your partner
 - 6p
   - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
   - Get with your team, plan your app
