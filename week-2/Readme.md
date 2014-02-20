@@ -7,7 +7,7 @@
   - [Grocery List](https://github.com/sea-lions-2014/behavior-drill-grocery-list-challenge)
 - 2p - Caching
 - pm - [Karmaville Tabs]()
-- 6p - [Awesome Menus](https://github.com/Devbootcamp/challenge-awesome-menus)
+- 6p - [Awesome Menus](https://github.com/sea-lions-2014/awesome-menus-challenge)
 
 ### Day 2 Javascript Patterns
 
