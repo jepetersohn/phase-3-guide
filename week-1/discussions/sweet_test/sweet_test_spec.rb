@@ -13,9 +13,9 @@ class Awesome
 end
 
 describe Awesome do
+  let(:awesome) { Awesome.new }
   describe "#ness" do
     it "is inititalized with zero" do
-      awesome = Awesome.new
       expect(awesome.ness).to.eq(0)
       expect(awesome.ness).to_not.eq(3)
     end
@@ -23,15 +23,15 @@ describe Awesome do
 
   describe "#hello" do
     it "it raises an Argument error if no name is given" do
-      awesome = Awesome.new
       expect { awesome.hello }.to.raise_error(ArgumentError)
     end
   end
 
   describe "#ness_up" do
     it "increments the ness" do
-      awesome = Awesome.new
-      expect { awesome.ness_up }.to.change { awesome.ness }
+      # pop quiz: why do we have to do line 33? remember our lib is not as sofisticated as Rspec, so the let doesn't really run before each it, it just defines a method...this one is tricky, come talk to me abut it :)
+      a = awesome
+      expect { a.ness_up }.to.change { a.ness }
     end
   end
 end

@@ -12,6 +12,10 @@ def expect expectation=nil, &block
   SweetTest::Expectation.new expectation, &block
 end
 
+def let name, &block
+  define_method name, &block
+end
+
 module SweetTest
   class Expectation
     def initialize actual, &block
