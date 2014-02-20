@@ -33,24 +33,22 @@
   - Read chapters 1 of [Rails Antipatterns](https://www.dropbox.com/sh/tms1v3cjny3khwv/XHUZ8ndPU1/Books/5%20Sinatra%20and%20Rails/Rails%20Antipatterns%20-%20Refactoring%20Best%20Practices.pdf)
 
 ## Day 4: Rails Patterns and Debugging
-- 9a - TDD/Capybara Q&A and Rails Patterns intro:
+- 9a - Rails Patterns intro:
   - What belongs in the controller
   - What belongs in a model
   - Organize your code with modules and concerns
 - am - [Refactor-this challenge](https://github.com/Devbootcamp/refactor-this-challenge) 
-- 2p - Ruby exceptions and debugger gem
-- pm 
-  - [Fix this]()
-  - Ping pong pairing with intentional mess with your partner
+- 2p - Agile lecture: how to plan a project in an Agile team environment
+- pm - [*overflow challenge](https://github.com/sea-lions-2014/overflow-challenge)
 - 6p
+  - Continue working on your *overflow app   
   - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
-  - Get with your team, plan your app
   - Read chapters 3 and 4 of [Rails Antipatterns](https://www.dropbox.com/sh/tms1v3cjny3khwv/XHUZ8ndPU1/Books/5%20Sinatra%20and%20Rails/Rails%20Antipatterns%20-%20Refactoring%20Best%20Practices.pdf)
 
 ## Day 5 - THE App
 - 9a - Ajax on Rails
 - am - THE app
-- 2p - Q&A and Travis CI
+- 2p - Procs/Blocks/Lambdas
 - pm - THE app
 - 6p - THE app
 
