@@ -4,7 +4,7 @@
 - 9a - Projects presentations, Q&A
 - am
   - [Karmaville 1](https://github.com/sea-lions-2014/karma-ville-1-too-slow-challenge)
-  - [Grocery List](https://socrates.devbootcamp.com/challenges/316)
+  - [Grocery List](https://github.com/sea-lions-2014/behavior-drill-grocery-list-challenge)
 - 2p - Caching
 - pm - [Karmaville Tabs]()
 - 6p - [Awesome Menus](https://github.com/Devbootcamp/challenge-awesome-menus)
