@@ -3,7 +3,7 @@
 ### Day 1 Performance and Caching techniques
 - 9a - Projects presentations, Q&A
 - am
-  - [Karmaville 1](https://github.com/Devbootcamp/karmaville)
+  - [Karmaville 1](https://github.com/sea-lions-2014/karma-ville-1-too-slow-challenge)
   - [Grocery List](https://socrates.devbootcamp.com/challenges/316)
 - 2p - Caching
 - pm - [Karmaville Tabs]()
