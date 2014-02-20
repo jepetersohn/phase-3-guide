@@ -54,8 +54,9 @@ class Github
 end
 
 class User
-  delegate :github_feed, :github_profile, :github_repos, :to => :github
+  delegate :feed, :profile, :repos, :to => :github
   def github
     Github.new(self.username)
   end
 end
+

@@ -11,7 +11,8 @@ class PostsController << ApplicationController
     # good
     # create a class method on Post model called published that does the work behidn the scenes.
     @posts = Post.published
-    # This line of code should make you uncomfortable. It doesn't belong here, but it doesn't also translate perfectly into a simple method on the model like we did above. If logic like this in the controller makes you feel uncomfortable and gives you nightmares, then I did my job :)
+
+    # This next line of code should make you uncomfortable. It doesn't belong here, but it doesn't also translate perfectly into a simple method on the model like we did above. If logic like this in the controller makes you feel uncomfortable and gives you nightmares, then I did my job :)
     # We have to differeciate between code smells and strategies to refactor code. Detecting codes smells is the hardest part, you need to train your nose to smell it...mmm that smells bad. What to do about it is a different problem.
     @posts.map! { |post| post.title.gsub('-', ' ') }
     # better strategies:
@@ -25,7 +26,7 @@ class PostsController << ApplicationController
 
   def create
     @post = Post.new params[:post]
-    # lines 29 and 30 smell bad. They are dipping inside the post and doing work that should be handled by the model.
+    # lines 32 and 37 smell bad. They are dipping inside the post and doing work that should be handled by the model.
 
     # The model should take care of it's own. If we want to store the titles downcased, then the model should take care of that in a before_save callback.
     @post.title = @post.title.downcase # bonus: what's the difference between downcase and downcase!, why aren't we using donwcase! ?
@@ -34,6 +35,7 @@ class PostsController << ApplicationController
 
     # bonus: what's the difference between before_save and before_create ?
     @post.published_date = params[:post][:date].strftime("at %I:%M%p")
+
     if @post.save
       redirect_to @post
     else

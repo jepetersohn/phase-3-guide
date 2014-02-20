@@ -29,7 +29,7 @@ describe Awesome do
 
   describe "#ness_up" do
     it "increments the ness" do
-      # pop quiz: why do we have to do line 33? remember our lib is not as sofisticated as Rspec, so the let doesn't really run before each it, it just defines a method...this one is tricky, come talk to me abut it :)
+      # pop quiz: why do we have to do line 33? remember our lib is not as sofisticated as Rspec, so the let doesn't really run before each it, it just defines a method...this one is tricky, come talk to me abut it :)k
       a = awesome
       expect { a.ness_up }.to.change { a.ness }
     end
