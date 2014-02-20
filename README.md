@@ -15,4 +15,4 @@
 - Don't burn out, take care of each other.
 - All our challenge solutions/repos should be under phase organization.
 - I'm always interruptible and so are you.
-- Make sure you check out [Phase 3 Git Workflow](https://github.com/Devbootcamp/phase-3-guide/blob/master/git-workflow.md#phase-3-github-workflow)
+- Make sure you check out [Phase 3 Git Workflow](https://github.com/sea-lions-2014/phase-3-guide/blob/master/git-workflow.md#phase-3-github-workflow)
