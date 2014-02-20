@@ -37,7 +37,7 @@
   - What belongs in the controller
   - What belongs in a model
   - Organize your code with modules and concerns
-- am - [Refactor-this challenge](https://github.com/Devbootcamp/refactor-this-challenge) 
+- am - [Refactor-this challenge](https://github.com/sea-lions-2014/refactor-this-challenge) 
 - 2p - Agile lecture: how to plan a project in an Agile team environment
 - pm - [*overflow challenge](https://github.com/sea-lions-2014/overflow-challenge)
 - 6p
