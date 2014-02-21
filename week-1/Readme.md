@@ -64,10 +64,15 @@
 - 6p - THE app
 
 ## Weekend
-- Week recap: what did we learn? Am I confused/unsure about something? Can I write specific questions about the week.
-- Read lots of code:
-  - review 2 other projects
-  - [read open source rails projects](http://www.opensourcerails.com/)
-- TDD your way through a simple app (Todo, Blog, simple eCommerce, etc). Write all your questions.
+- Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
+- [read open source rails projects](http://www.opensourcerails.com/)
+- Go through all of our lectures and discussions:
+  - sweet test
+  - metaprogramming
+  - rails patterns
+  - exception and debugging
+  - rspec
+  - ajax on rails
+  - block/procs/lambdas
 - Continue working on THE app (if you wish).
 
