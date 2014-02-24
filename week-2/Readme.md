@@ -11,9 +11,9 @@
 
 ### Day 2 Javascript Patterns
 
-- 9a - Javascript design patterns
+- 9a - Javascript namespacing patterns
 - am - Build miniQuery v1.0
-- 2p - Javascript design patterns
+- 2p - miniQuery live, Q & A
 - pm
   - Build miniQuery v2.0
   - Build miniQuery v3.0
