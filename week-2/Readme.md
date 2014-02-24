@@ -1,13 +1,15 @@
 ## Week 2
 
-### Day 1 Performance and Caching techniques
+### Day 1 Performance
 - 9a - Projects presentations
 - am
   - [Karmaville 1](https://github.com/sea-lions-2014/karma-ville-1-too-slow-challenge)
   - [Grocery List](https://github.com/sea-lions-2014/behavior-drill-grocery-list-challenge)
 - 2p - Test mocks, stubs and doubles
 - pm - [Ajax Tabs](https://github.com/sea-lions-2014/ajax-tabs-challenge)
-- 6p - [Awesome Menus](https://github.com/sea-lions-2014/awesome-menus-challenge)
+- 6p
+  - [Javascript the Right wasy](http://jstherightway.org/)   
+  - [Awesome Menus](https://github.com/sea-lions-2014/awesome-menus-challenge)
 
 ### Day 2 Javascript Patterns
 
