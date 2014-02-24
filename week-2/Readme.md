@@ -11,7 +11,7 @@
 
 ### Day 2 Javascript Patterns
 
-- 9a - Javascript namespacing patterns
+- 9a - Javascript modules (object literals, module pattern and IIFE)
 - am - Build miniQuery v1.0
 - 2p - miniQuery live, Q & A
 - pm
