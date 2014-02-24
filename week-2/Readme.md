@@ -1,11 +1,11 @@
 ## Week 2
 
 ### Day 1 Performance and Caching techniques
-- 9a - Projects presentations, Q&A
+- 9a - Projects presentations
 - am
   - [Karmaville 1](https://github.com/sea-lions-2014/karma-ville-1-too-slow-challenge)
   - [Grocery List](https://github.com/sea-lions-2014/behavior-drill-grocery-list-challenge)
-- 2p - Caching
+- 2p - Test mocks, stubs and doubles
 - pm - [Ajax Tabs](https://github.com/sea-lions-2014/ajax-tabs-challenge)
 - 6p - [Awesome Menus](https://github.com/sea-lions-2014/awesome-menus-challenge)
 
