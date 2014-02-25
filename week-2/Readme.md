@@ -14,11 +14,10 @@
 ### Day 2 Javascript Patterns
 
 - 9a - Javascript modules (object literals, module pattern and IIFE)
-- am - [Build miniQuery Release 0](https://github.com/sea-lions-2014/miniQuery-challenge)
+- am - [Build miniQuery](https://github.com/sea-lions-2014/miniQuery-challenge)
 - 2p - miniQuery live, Q & A
 - pm
-  - [Build miniQuery Release 1](https://github.com/sea-lions-2014/miniQuery-challenge)
-  - [Build miniQuery Release 2](https://github.com/sea-lions-2014/miniQuery-challenge)
+  - [Build miniQuery](https://github.com/sea-lions-2014/miniQuery-challenge)
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [Post it baord v1](https://socrates.devbootcamp.com/challenges/332)
