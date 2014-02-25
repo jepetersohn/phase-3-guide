@@ -26,9 +26,9 @@
 ### Day 3 Client-side heavy apps
 
 - 9a - Ajax/Ajax on Rails booster
-- am - [build a thick client on Rails](https://github.com/Devbootcamp/challenge-build-a-thick-client-on-rails)
+- am - [build a thick client on Rails](https://github.com/sea-lions-2014/build-a-thick-client-on-rails-challenge)
 - 2p - Model, View and Controller relationships in Rails.
-- pm - [build a thick client on Rails](https://github.com/Devbootcamp/challenge-build-a-thick-client-on-rails)
+- pm - [build a thick client on Rails]https://github.com/sea-lions-2014/build-a-thick-client-on-rails-challenge)
 - 6p
   - Work on your project pitch
   - Review the week:
