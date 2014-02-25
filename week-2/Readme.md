@@ -25,9 +25,9 @@
 
 ### Day 3 Client-side heavy apps
 
-- 9a - Building 1 Page Apps
+- 9a - Ajax/Ajax on Rails booster
 - am - [build a thick client on Rails](https://github.com/Devbootcamp/challenge-build-a-thick-client-on-rails)
-- 2p - JS frameworks (Backbone, Ember and Angular)
+- 2p - Model, View and Controller relationships in Rails.
 - pm - [build a thick client on Rails](https://github.com/Devbootcamp/challenge-build-a-thick-client-on-rails)
 - 6p
   - Work on your project pitch
@@ -42,14 +42,14 @@
 
 - 9a - Project pitches and team selections
 - am - Get with your team and plan your project
-- 2p - Booster session (optional)
+- 2p - link_to and form_for booster
 - pm - Work on your project.
 
 ### Day 5 Final Project
 
 - 9a - Project standup (each team will give 1 update)
 - am - Work on your project.
-- 2p - Booster session (optional)
+- 2p - live code tabs challenge
 - pm - Work on your project.
 
 
