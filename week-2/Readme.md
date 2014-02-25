@@ -16,7 +16,7 @@
 - 9a - Javascript modules (object literals, module pattern and IIFE)
 - am - [Build miniQuery](https://github.com/sea-lions-2014/miniQuery-challenge)
 - 2p - miniQuery live, Q & A
-- pm
+- pm - Javascript scopes
   - [Build miniQuery](https://github.com/sea-lions-2014/miniQuery-challenge)
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
