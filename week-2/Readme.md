@@ -27,7 +27,9 @@
 
 - 9a - Ajax/Ajax on Rails booster
 - am - [build a thick client on Rails](https://github.com/sea-lions-2014/build-a-thick-client-on-rails-challenge)
-- 2p - Model, View and Controller relationships in Rails.
+- 2p 
+   - link_to and form_for booster
+   - ActiveRecord booster
 - pm - [build a thick client on Rails](https://github.com/sea-lions-2014/build-a-thick-client-on-rails-challenge)
 - 6p
   - Work on your project pitch
@@ -42,7 +44,7 @@
 
 - 9a - Project pitches and team selections
 - am - Get with your team and plan your project
-- 2p - link_to and form_for booster
+- 2p - Model, View and Controller relationships in Rails.
 - pm - Work on your project.
 
 ### Day 5 Final Project
