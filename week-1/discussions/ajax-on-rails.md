@@ -1,4 +1,4 @@
-[here is the repo](https://github.com/sea-lions-2014/ajax-on-rails)
+[here is the repo](../../../../ajax-on-rails)
 
 - Branch master: vanilla app, no ajax
 - Branch ajax_no_remote: ajax without using remote => true
