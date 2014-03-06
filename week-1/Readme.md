@@ -42,16 +42,16 @@
 - pm
   - [*overflow challenge](../../../../overflow-challenge)
 - 6p
-  - Continue working on your *overflow app
+  - Continue working on your [*overflow challenge](../../../../overflow-challenge)
   - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
   - Read chapters 3 and 4 of [Rails Antipatterns](https://www.dropbox.com/sh/tms1v3cjny3khwv/XHUZ8ndPU1/Books/5%20Sinatra%20and%20Rails/Rails%20Antipatterns%20-%20Refactoring%20Best%20Practices.pdf)
 
 ## Day 5 - THE App
 - 9a - Ajax on Rails
-- am - THE app
+- am - [*overflow challenge](../../../../overflow-challenge)
 - 2p - Procs/Blocks/Lambdas
-- pm - THE app
-- 6p - THE app
+- pm - [*overflow challenge](../../../../overflow-challenge)
+- 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
@@ -64,5 +64,5 @@
   - rspec
   - ajax on rails
   - block/procs/lambdas
-- Continue working on THE app (if you wish).
+- Continue working on [*overflow challenge](../../../../overflow-challenge).
 
