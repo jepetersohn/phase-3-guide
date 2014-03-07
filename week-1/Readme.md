@@ -13,7 +13,7 @@
 
 ### Day 2 - Build an app and test it
 
-- 9a - Rails Q&A
+- 9a - Rails Q&A, link_to and form_for booster
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p - Testing refresher and Rack Test intro
 - pm - Let's test the app we built in the morning
