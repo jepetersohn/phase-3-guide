@@ -17,6 +17,8 @@ Good Hunting!
 
 ## Student Repos
 
+## Make sure to branch and pull request instead of pushing to master...
+
 [Joe Wilmoth](http://blogjoe.herokuapp.com) - [GitHub Repo](https://github.com/jbwilmoth/rails_blog)
 
 
