@@ -17,5 +17,4 @@ Good Hunting!
 
 ## Student Repos
 
-* YOUR NAME - YOUR REPO
 [Joe Wilmoth](http://blogjoe.herokuapp.com) - [GitHub Repo](https://github.com/jbwilmoth/rails_blog)
