@@ -37,7 +37,3 @@ Hold on to your butts.
 ## Curriculum
 
 * [Phase 2 -> Phase 3 Weekend Home Work](./week_0)
-
-## Pull Requests
-
-[Joe Wilmoth](http://blogjoe.herokuapp.com)
