@@ -18,3 +18,4 @@ Good Hunting!
 ## Student Repos
 
 [Joe Wilmoth](http://blogjoe.herokuapp.com) - [GitHub Repo](https://github.com/jbwilmoth/rails_blog)
+[Chris Prater](http://enigmatic-fjord-8286.herokuapp.com) - [Github Repo](https://github.com/cprater/rails_blog)
