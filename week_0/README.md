@@ -23,4 +23,4 @@ Good Hunting!
 [Chris Prater](http://enigmatic-fjord-8286.herokuapp.com) - [Github Repo](https://github.com/cprater/rails_blog)
 
 
-[Andrew Wittrock](http://floating-harbor-3845.herokuapp.com) - [Github Repo]()
+[Andrew Wittrock](http://floating-harbor-3845.herokuapp.com) - [Github Repo](https://github.com/Birdrock/rails_blog)
