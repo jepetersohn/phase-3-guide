@@ -19,6 +19,8 @@
   - All School Intros
   - Breakfast
 - am - Intro to Rails Lecture
+    - Repo: https://github.com/foxes-2014/intro-to-rails-example
+    - Video: http://talks.devbootcamp.com/introduction-to-rails
 - am - [Sinatra to Rails Challenge](./day_1/sinatra_to_rails_challenge.md)
 - Noon - Subway for Lunch
 - 1p - Lightning Talks
