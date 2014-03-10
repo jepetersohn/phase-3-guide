@@ -19,4 +19,12 @@ Good Hunting!
 
 * YOUR NAME - YOUR REPO
 
+## Make sure to branch and pull request instead of pushing to master...
+
+[Joe Wilmoth](http://blogjoe.herokuapp.com) - [GitHub Repo](https://github.com/jbwilmoth/rails_blog)
+
+[Chris Prater](http://enigmatic-fjord-8286.herokuapp.com) - [Github Repo](https://github.com/cprater/rails_blog)
+
+[Andrew Wittrock](http://floating-harbor-3845.herokuapp.com) - [Github Repo](https://github.com/Birdrock/rails_blog)
+
 Matt [repo](https://github.com/oconn/Sample-Blog)

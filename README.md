@@ -37,3 +37,4 @@ Hold on to your butts.
 ## Curriculum
 
 * [Phase 2 -> Phase 3 Weekend Home Work](./week_0)
+* [Week 1](./week_1)
