@@ -33,7 +33,7 @@
 - am - [TDD Telephone](./day_2/tdd_telephone.md)
 - 1p - Mocking/Stubbing Lecture
 - pm - [Rails / Rspec Challenge](#)
-- After Core Hours - [Git With It](./day_2/git_with_it).md)
+- After Core Hours - [Git With It](./day_2/git_with_it.md)
 
 ## Day 3: Agile Overview / DBC Overflow
 
