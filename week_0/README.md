@@ -1,10 +1,10 @@
 # Week 0
 
-We'll be kicking off Phase 3 by diving in to Rails (yes, finally!). Some parts of Rails will look similar to what you've been doing in Sinatra -- others won't. 
+We'll be kicking off Phase 3 by diving in to Rails (yes, finally!). Some parts of Rails will look similar to what you've been doing in Sinatra -- others won't.
 
 Here's your homework for this weekend:
 
-* Go through "Rails the Sinatra Way" and "Rails the Rails Way": 
+* Go through "Rails the Sinatra Way" and "Rails the Rails Way":
 https://gist.github.com/keithtom/2956bfa3c603e21e6b6c
 * Go through this intro to Rails: https://github.com/dontmitch/intro_to_rails
 * If you find or know of other great introductory Rails resources, share them on your cohort mailing list
@@ -26,5 +26,7 @@ Good Hunting!
 [Chris Prater](http://enigmatic-fjord-8286.herokuapp.com) - [Github Repo](https://github.com/cprater/rails_blog)
 
 [Andrew Wittrock](http://floating-harbor-3845.herokuapp.com) - [Github Repo](https://github.com/Birdrock/rails_blog)
+
+Jay Rogers - [Github Repo](https://github.com/jayrogers889csa/rails_blog)
 
 Matt [repo](https://github.com/oconn/Sample-Blog)
