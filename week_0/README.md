@@ -30,3 +30,5 @@ Good Hunting!
 Jay Rogers - [Github Repo](https://github.com/jayrogers889csa/rails_blog)
 
 Matt [repo](https://github.com/oconn/Sample-Blog)
+
+[Jack Dubnicek](http://basic-rails-blog.herokuapp.com) - [GitHub Repo](https://github.com/jdubnicek/basic-rails-blog)
