@@ -31,10 +31,10 @@
 
 [Overview](./day_2/overview.md)
 
-- 8a - RSpec/Capybara Lecture
+- 8a - Lecture: Intro to RSpec/RSpec Rails
 - am - [TDD Telephone](./day_2/tdd_telephone.md)
-- 1p - Mocking/Stubbing Lecture
-- pm - [Rails / Rspec Challenge](#)
+- 1p - Lecture: Integration and Isolation Testing
+- pm - [Rails / Rspec Challenge](https://github.com/foxes-2014/rails-with-rspec-challenge)
 - After Core Hours - [Git With It](./day_2/git_with_it.md)
 
 ## Day 3: Agile Overview / DBC Overflow
