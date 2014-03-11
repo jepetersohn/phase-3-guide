@@ -34,6 +34,8 @@
 - 8a - Lecture: Intro to RSpec/RSpec Rails
 - am - [TDD Telephone](./day_2/tdd_telephone.md)
 - 1p - Lecture: Integration and Isolation Testing
+    - Example Repo: https://github.com/foxes-2014/integration-isolation-example
+    - Video: http://talks.devbootcamp.com/integration-and-isolation
 - pm - [Rails / Rspec Challenge](https://github.com/foxes-2014/rails-with-rspec-challenge)
 - After Core Hours - [Git With It](./day_2/git_with_it.md)
 
