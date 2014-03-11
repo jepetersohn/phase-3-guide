@@ -29,8 +29,6 @@
 
 ## Day 2: Testing
 
-[Overview](./day_2/overview.md)
-
 - 8a - Lecture: Intro to RSpec/RSpec Rails
 - am - [TDD Telephone](./day_2/tdd_telephone.md)
 - 1p - Lecture: Integration and Isolation Testing
@@ -40,6 +38,10 @@
 - After Core Hours - [Git With It](./day_2/git_with_it.md)
 
 ## Day 3: Agile Overview / DBC Overflow
+
+- 8am - Lecture: Agile and You
+- day - Choose Your Own Adventure
+- After Core Hours - [Micro Challenge](./day_3/microchallenge.md)
 
 ## Day 4:  DBC Overflow
 
