@@ -40,6 +40,10 @@
 ## Day 3: Agile Overview / DBC Overflow
 
 - 8am - Lecture: Agile and You
+  - [Agile Manifesto](http://agilemanifesto.org/)
+  - [Sheriff's Lecture on Agile](https://gist.github.com/amgando/f2b8aade174a272096a6)
+  - [Agile Workflow Diagram](http://www.softwaysolutions.com/blog/wp-content/uploads/2012/10/scrum_process_big3.jpg)
+  - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - day - Choose Your Own Adventure
 - After Core Hours - [Micro Challenge](./day_3/microchallenge.md)
 
