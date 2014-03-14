@@ -1,4 +1,4 @@
-[here is the repo](../../../../ajax-on-rails)
+[here is the repo](../../../../../rails_on_ajax)
 
 - Branch master: vanilla app, no ajax
 - Branch ajax_no_remote: ajax without using remote => true
