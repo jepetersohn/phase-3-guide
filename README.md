@@ -38,3 +38,4 @@ Hold on to your butts.
 
 * [Phase 2 -> Phase 3 Weekend Home Work](./week_0)
 * [Week 1](./week_1)
+* [Week 2](./week_2)
