@@ -15,9 +15,18 @@
 ## Day 2
 
 - am - Lecture: Jasmine and OOJS
+    - Code: [https://github.com/alycit/oojs-racer](https://github.com/alycit/oojs-racer)
+    - Video: [http://talks.devbootcamp.com/jasmine-and-oojs](http://talks.devbootcamp.com/jasmine-and-oojs)
+    - Useful Sites:
+      - [http://jasmine.github.io/](http://jasmine.github.io/)
+      - [Jasmine Spy Cheatsheet](http://tobyho.com/2011/12/15/jasmine-spy-cheatsheet/)
+      - [Jasmine Gem](https://github.com/pivotal/jasmine-gem)
+      - [Jasmine Fixture](https://github.com/searls/jasmine-fixture)
+      - [Jasmine jQuery](https://github.com/velesin/jasmine-jquery)
+      - [Jasmine ajax](https://github.com/pivotal/jasmine-ajax)
 - am - Behaviour Drill: [OOJS Cookies and Ovens](https://github.com/foxes-2014/behavior-drill-cookies-and-ovens-challenge)
 - am/pm - Behaviour Drill: [Post-Its 1](https://github.com/foxes-2014/behavior-drill-post-it-board-v1-challenge)
-- pm - Behaviour Drill: [Post-Its 2](https://github.com/foxes-2014/behavior-drill-post-it-board-v2-challenge)      
+- pm - Behaviour Drill: [Post-Its 2](https://github.com/foxes-2014/behavior-drill-post-it-board-v2-challenge)
 - After Hours Microchallenge: [Persistence](./day_2/persistence-microchallenge.md)
 
 ## Day 3
