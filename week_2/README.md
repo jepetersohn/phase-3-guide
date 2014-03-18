@@ -19,7 +19,7 @@
 - am/pm - Behaviour Drill: [Post-Its 1](https://github.com/foxes-2014/behavior-drill-post-it-board-v1-challenge)
 - pm - Behaviour Drill: [Post-Its 2](https://github.com/foxes-2014/behavior-drill-post-it-board-v2-challenge)      
 - pm - Challenge: [Migrating Some Sweet Articles](https://github.com/foxes-2014/migrating-some-sweet-articles-challenge)
-- After Hours Microchallenge: [Persistence](./day_1/persistence-microchallenge.md)
+- After Hours Microchallenge: [Persistence](./day_2/persistence-microchallenge.md)
 
 ## Day 3
 
