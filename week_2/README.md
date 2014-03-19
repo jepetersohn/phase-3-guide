@@ -31,6 +31,19 @@
 
 ## Day 3
 
+- am - Lecture: Continuous Integration
+    - Public Example Repo: https://github.com/ryanbriones/dbc-continuous
+    - Foxes Example Repo: https://github.com/foxes-2014/continuous-integration-example
+    - Video: http://talks.devbootcamp.com/continuous-integration
+- am - Finish Challenges, Microchallenge from Day 2
+- 1:10pm - Final Project pitches
+- ~1:45pm - Voting
+- ~2:00pm - Final Projects start!
+
 ## Day 4
 
+- all day: final projects
+
 ## Day 5
+
+- all day: final projects
