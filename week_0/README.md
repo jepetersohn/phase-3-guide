@@ -2,7 +2,8 @@
 
 * Go through [Learning Rails](./learning-rails.md)
 * Go through these [Rails intro notes](https://github.com/devbootcamp/intro_to_rails) from a 2013 Squirrel
-* If you find or know of other great introductory Rails resources, share them on your cohort mailing list
 * Watch this presentation on TDD: http://www.youtube.com/watch?v=HhwElTL-mdI
 (Also, for extra credit convert it to a MOV and Dropbox it to the rest of us). Take markdown notes on the video and **share a link to your notes as a gist**.
-* **Build a blog application** using Rails and deploy it to Heroku. Then issue a pull request to this guide adding the URL to your repo below. The Heroku URL should be included in the README file of your project.
+* **Build a small application** using Rails and deploy it to Heroku. Then issue a pull request to this guide adding the URL to your repo below. The Heroku URL should be included in the README file of your project.
+* **[Create a blog and a blog post](./blog.md)**
+* If you find or know of other great introductory Rails resources, share them on your cohort mailing list
