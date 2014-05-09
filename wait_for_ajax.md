@@ -7,7 +7,7 @@ module CapybaraHelpers
     end
   end
 end
- 
+
 class AjaxStillWorking < Capybara::ElementNotFound;end
 ```
 
@@ -15,7 +15,7 @@ class AjaxStillWorking < Capybara::ElementNotFound;end
 ```ruby
 RSpec.configure do |config|
   config.include CapybaraHelpers
-  
+
   #... the rest of the config code
 end
 ```

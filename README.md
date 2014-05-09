@@ -1,18 +1,110 @@
 # Phase 3 guide
 
-## Overview:
+## Welcome to Phase 3
+
+Welcome from your teachers.  Phase 3 is the most exciting
+phase here at DBC.  In this phase we no longer view you as students or
+developers-in-training, rather we look at you to be valuable, albeit junior,
+collaborators in the craft of software development.  This will define how we
+interact and how we assign and tackle challenges.  Similarly, and you should no
+longer think of yourselves as "classmates" but rather "teammates" or
+"coworkers."
+
+## Daily Schedule
+
+- Daily standup at 9 a.m.
+  - Be on time, this will be an expectation upon graduation
+  - Each person will answer **the three questions**
+    - What you did yesterday (or, lessons learned from yesterday's challenges)
+    - What you plan to do today
+    - Any blockers
+- Lectures
+  - We will lecture around 9:15 and 2:00 daily
+  - ...but we will ocassionally have surprise break-outs
+  - ...and we may occasionally drop lectures if we think we'll be interrupting
+    your flow
+
+## Challenges
 
 - Daily standup at 9 a.m., each person will talk about what they've worked on yesterday (lessons learned from yesterday's challenges), what they're planing today and any blockers.
 - Phase 3 will try to simulate more real world experiences, and you should no longer think of yourselves as classmates but rather teammates or coworkers.
 - Challenges will be bigger and more vague. A lot of the problem will be how strategizing how to approach the problem: like debugging or researching a problem.
 - The emphasis of challenges are on the process of problem solving, not the solution.
 - Code quality is #1.
-- Do NOT use rails scaffold & rails generation. The only exception is Rails generate migration. Please don't generate models, don't generate controllers or views. We are learning to write code, don't let Rails write it for you. Besides, rails generate/scaffold commands generate a lot of crappy and unnecessary code.
-- Don't be attached to your code, my job is to be critical and opinionated :)
-- I will do my best to pair with all of you several times throughout the phase.
-- I will be conducting code reviews for specific challenges. Some of these will happen on github's pull requests and others will happen live, face to face.
-- This is a no-shame ask anything environment.
+- Challenges will be bigger and more vague. A lot of the problem will be how strategizing how to approach the problem: like debugging or researching a problem.
+- The emphasis of challenges is on the process of problem solving, not the
+  solution.  _We expect that you can complete any challenge at this point.  HOW
+you complete it is at stake_.
+
+## Rails
+
+Rails is a powerful tool.  While you've had to write and re-write the same
+boilerplate code dozens of times in Sinatra skeleton, Rails will make it
+**much** easier to get up and running and take the boilerplate away.
+
+That said, Rails can become _too_ "zealous" in its code generation.  While we
+bless your *exploration* of the powers of `rails generate` **do not use it** in
+these challenges.  The ability to write Rails code (models, controllers, and
+views) from a blank editor screen is a skill you need to develop.  An
+interviewer will be none-too-impressed if your ability to write a controller is
+hamstrung by access to the Rails generators.
+
+**EXCEPTION**:  You may feel free to `rails generate migration`.  Why?  Because
+figuring out time-stamps is irritating.
+
+## Feedback
+
+Don't be attached to your code, our job is to be critical and opinionated :)
+Occasionally a criticism will be reducible to a question of style.  Both of us
+are professional Rails developers.  We may occasionally give you guidance that
+is justified by "that's not idiomatic Rails."  That's "taste" and while we hope
+you have aquired some sense of it in the previous phases, we will try to help
+you further refine it during our time together.
+
+
+### On Taste
+
+![quote by Ira Glass on beginners](ira-glass-quote.jpg)
+
+-- Ira Glass
+
+### On Feedback Style
+
+In Phase 3, part of our goal is to debug your thought process.  If you say you
+are weak, we will give you exercises.  If you give us a bad process, we will ask
+you to find your own weakness.  If you criticise the challenges we give you, we
+will make you fix them.  If you complain that something "doesn't work" we will
+ask you to explain what you've done to understand the problem.
+
+In short, we're going to ask you to be completely **responsible**.  Lamentably
+this expectation seems to have gone out of fashion these days, but that is not
+the case here.
+
+## De Sententiis (On Opinions)
+
+When someone gives you an observation, it is your obligation to hold them
+accountable to that opinion.  When a coach comes along and says "ERB sucks,
+HAML is the bomb" it is your **job** to ask that individiual:  "Wombat Salar,
+why do you say this?  What problem does this solve?  What companies are using
+this?  Who are the main contributors on this?  What's their philosophy?  What's
+the point of view behind this thing?"
+
+While it's important to leave your mind open for input, it's also important to
+know when you need *not* heed some advice.  As Kipling says in "If:"
+
+    If you can trust yourself when all men doubt you,
+        But make allowance for their doubting too;...
+    Yours is the Earth and everything that’s in it
+
+## Review
+
+We will do our best to pair with all of you several times throughout the phase.
+We will be conducting code reviews for specific challenges. Some of these will
+happen on github's pull requests and others will happen live, face to face.
+
+## Conclusion
+
 - Don't burn out, take care of each other.
+- This is a no-shame ask-anything environment.
 - All our challenge solutions/repos should be under phase organization.
-- I'm always interruptible and so are you.
 - Make sure you check out [Phase 3 Git Workflow](../../../phase-3-guide/blob/master/git-workflow.md#phase-3-github-workflow)

@@ -20,7 +20,7 @@
   - [Build miniQuery](../../../../miniQuery-challenge)
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-  - [Post it baord v1](../../../../behavior-drill-post-it-board-v1-challenge)
+  - [Post it board v1](../../../../behavior-drill-post-it-board-v1-challenge)
   - [Post it board v2](../../../../behavior-drill-post-it-board-v2-challenge)
 
 ### Day 3 Client-side heavy apps

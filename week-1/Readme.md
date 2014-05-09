@@ -3,7 +3,7 @@
 ### Day 1 - Intro
 
 - 9a - Welcome new phase 1 students
-- am - Teach phase 1 something.
+- am - Teach phase 2 something.
 - 2p - Welcome to Phase 3
 - pm - [Intro to Rails challenge](../../../../intro-to-rails-challenge)
 - 6p
@@ -30,7 +30,6 @@
 - pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
 - 6p
   - [Rspec Rails challenge](../../../../sf-rspec-rails-challenge)
-  - Read chapters 1 of [Rails Antipatterns](https://www.dropbox.com/sh/tms1v3cjny3khwv/XHUZ8ndPU1/Books/5%20Sinatra%20and%20Rails/Rails%20Antipatterns%20-%20Refactoring%20Best%20Practices.pdf)
 
 ## Day 4: Rails Patterns and Debugging
 - 9a - Rails Patterns intro:
@@ -65,4 +64,4 @@
   - ajax on rails
   - block/procs/lambdas
 - Continue working on [*overflow challenge](../../../../overflow-challenge).
-
+- Read [Uncle Bob Martin's "Where is the Foreman?"](http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html) and [Leon Gersing's "The Last Thing We Need"](http://leongersing.tumblr.com/post/77931655536/the-last-thing-we-need) and reflect on what sort of organization you want to work in.
