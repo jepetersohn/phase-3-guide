@@ -7,7 +7,10 @@
 - [Request Specs and Capybara](http://railscasts.com/episodes/257-request-specs-and-capybara)
 - [How I Test](http://railscasts.com/episodes/275-how-i-test)
 - [Rspec Cheat Sheet](http://cheat.errtheblog.com/s/rspec)
+- [Another Rspec Cheat Sheet (Includes Shoulda, Paperclip and Capybara)](https://gist.github.com/steveclarke/2353100)
 - [Rails/Rspec example code](https://github.com/awesomefoundation/awesomebits/tree/master/spec)
+- [Better Specs](http://betterspecs.org/). Sweet styleguide for yor your specs.
+- [Transpec](http://yujinakayama.me/transpec/). A magical tool for converting your specs to the latest RSpec syntax.
 
 ```ruby
 1000.times { puts "please do not copy and paste, you'll be hurting yourself." }
