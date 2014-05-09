@@ -105,8 +105,8 @@ happen on github's pull requests and others will happen live, face to face.
 ## Conclusion
 
 - Don't be attached to your code, my job is to be critical and opinionated :)
-- I will do my best to pair with all of you several times throughout the phase.
-- I will be conducting code reviews for specific challenges. Some of these will happen on github's pull requests and others will happen live, face to face.
+- Teachers will do their best to pair with all of you several times throughout the phase.
+- Teachers will be conducting code reviews for specific challenges. Some of these will happen on GitHub's pull requests and others will happen live, face to face.
 - This is a no-shame ask-anything environment.
 - All our challenge solutions/repos should be under phase organization.
 - Make sure you check out [Phase 3 Git Workflow](../../../phase-3-guide/blob/master/git-workflow.md#phase-3-github-workflow)
