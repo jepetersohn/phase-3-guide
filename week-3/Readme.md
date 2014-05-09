@@ -6,20 +6,20 @@
 - pm - Work on your project.
 
 ### Day 2 Final Project - New Team Lead
-I will jump on your team as the lead engineer. I will conduct code review, test coverage, task assignments, etc.
+A teacher will jump on your team as the lead engineer. This teacher will conduct code review, test coverage, task assignments, etc.
 
 - 9a - Project standup (each team will give 1 update)
-- am - Work on your project - shadi is your new team lead
+- am - Work on your project - teacher is your new team lead
 - 2p - Booster session (optional)
-- pm - Work on your project - shadi is your new team lead
+- pm - Work on your project - teacher is your new team lead
 
 ### Day 3 Final Project - Wrap it up
 I will jump on your team as the lead engineer. I will conduct code review, test coverage, task assignments, etc.
 
 - 9a - Project standup (each team will give 1 update)
-- am - Wrap up your project - shadi is your new team lead
+- am - Wrap up your project - teacher is your new team lead
 - 2p - Booster session (optional)
-- pm - Wrap up your project - shadi is your new team lead
+- pm - Wrap up your project - teacher is your new team lead
 
 
 ### Day 4 Final Project - Presentation Rehearsal
