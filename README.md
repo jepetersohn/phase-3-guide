@@ -1,5 +1,7 @@
 # Phase 3 Guide
 
+[Groups, Resources, and more!](../../wiki)
+
 ## Curriculum
 
 * [Phase 3 Prep Work](./week_0)
