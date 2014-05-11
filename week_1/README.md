@@ -54,10 +54,12 @@
 
 ## Day 4:  DBC Overflow
 
-- 9am - Railsy Talks
-	- Agile Refresher 
-- am/pm - Choose Your Own Adventure [group
-project](../group_project_process.md) - check out [this example](../../../../overflow-challenge). You should create a group project with roughly equal complexity to the overflow challenge, or use the overflow challenge if you're not feeling creative.
+- 9am 
+ 	- Railsy Talks
+	- Agile Refresher
+- am/pm - Choose Your Own Adventure group project - check out [this example](../../../../overflow-challenge). You should create a group project with roughly equal complexity to the overflow challenge, or use the overflow challenge if you're not feeling creative.
+  - This project should be created with TDD and using the [group project
+    process](../group_project_process.md)
 - 6pm
 	- Contine working on group project 
 	- Micro-challenges: [Virtual Attributes](./virtual_attributes_micro_challenge.md) & [Rails + AJAX](./rails_ajax_micro_challenge.md)
