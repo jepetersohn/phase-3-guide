@@ -4,7 +4,7 @@
 * form_for
 * virtual attributes
 * mass assignment
-* named routes + url helpers ARP
+* named routes + url helpers
 * custom routing
 * sessions
 * partials
