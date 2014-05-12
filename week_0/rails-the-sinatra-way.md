@@ -147,7 +147,7 @@ At this point, refreshing `localhost:3000` will give you another error message:
 
 This one is saying that it didn't find the file it expected to.  It tried to look in `pages/index`, and then `application/index` in the `/Users/dbc/Desktop/learning-rails/app/views` folder.  `locale` is for multi-language support, `formats` is about handling different response types (for example HTML, XML, JSON, etc...) and `handlers` are the supported templating languages for creating the response.  We shouldn't worry about `locale`, `formats` or `handlers` for now, but feel free to google it if you have time.
 
-At this point, I just copy the original `index.erb` from the Sinatra app into `app/views/pages/index.html.erb`:
+At this point, I just copy the original `index.erb` from the Sinatra app into `app/views/pages/index.html.erb` (with the exception of one line of embedded Ruby):
 
 ```html
 <div class="container">
@@ -156,6 +156,7 @@ At this point, I just copy the original `index.erb` from the Sinatra app into `a
     <p>Grandma says: "<span id="grandma_says"><%= @grandma %></span>"</p>
   <% end %>
   <form action="/grandma" method="post">
+    <%= hidden_field_tag :authenticity_token, form_authenticity_token -%>
     Say something to Grandma:
     <br>
     <input type="text" name="user_input">
@@ -163,6 +164,8 @@ At this point, I just copy the original `index.erb` from the Sinatra app into `a
   </form>
 </div>
 ```
+
+The line `<%= hidden_field_tag :authenticity_token, form_authenticity_token -%>` will generate an authenticity token for your form that will allow you to securely submit the form input to your application. Rails has form helpers that will take care of this for you, and we'll get into those soon enough, but for now, you can put that line into your form to get it working.
 
 Now, refresh `localhost:3000`. You should see something like this:
 
