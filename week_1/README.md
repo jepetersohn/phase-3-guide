@@ -6,7 +6,7 @@
 - am - Teach phase 2 something
 - 2p - Welcome to Phase 3
 	- [Railsy Talk Topic](./railsy_talk_topics.md) assignments
-- pm - Read the [Phase 3 Guide](../README) and [Github Workflow](./git-workflow.md)
+- pm - Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)
 	- [Intro to Rails challenge](../../../../intro-to-rails-challenge)
     - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge) 
 - 6pm
