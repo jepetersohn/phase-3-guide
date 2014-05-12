@@ -1,20 +1,22 @@
 ## Railsy Talk Topics
 
-1. link_to (including method: :delete)
+* link_to (including method: :delete)
 * form_for
-* virtual attr
-* mass attr
-* factorygirl gem
-* shoulda matchers gem
-* haml
-* sass
-* asset pipeline
+* virtual attributes
+* mass assignment
 * named routes + url helpers
 * custom routing
 * sessions
 * partials
-* refactoring views
 * form validation
 * flash
 * rails and ajax
+* asset pipeline
+* factorygirl gem
+* shoulda matchers gem
+* haml
+* sass
+* refactoring views
 * simple_form gem
+* prototyping websites
+* wireframing websites
