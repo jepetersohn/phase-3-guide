@@ -41,6 +41,7 @@
 - pm - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 6pm 
 	- Review [Github Workflow](../git-workflow.md)
+	- Review [Group Project Process](../group_project_process.md)
 	- Review Agile Practices
 		- [Agile Manifesto](http://agilemanifesto.org/)
   		- [Sheriff's Lecture on Agile](./agile.md)
@@ -54,8 +55,9 @@
 ## Day 4:  DBC Overflow
 
 - 9am - Railsy Talks
-	- Agile Refresher (agile refresher + spikes + git/feature branches + group overview + PR/commit messages (screenshots))
-- am/pm - Choose Your Own Adventure group project - check out [this example](../../../../overflow-challenge). You should create a group project with roughly equal complexity to the overflow challenge, or use the overflow challenge if you're not feeling creative.
+	- Agile Refresher 
+- am/pm - Choose Your Own Adventure [group
+project](../group_project_process.md) - check out [this example](../../../../overflow-challenge). You should create a group project with roughly equal complexity to the overflow challenge, or use the overflow challenge if you're not feeling creative.
 - 6pm
 	- Contine working on group project 
 	- Micro-challenges: [Virtual Attributes](./virtual_attributes_micro_challenge.md) & [Rails + AJAX](./rails_ajax_micro_challenge.md)

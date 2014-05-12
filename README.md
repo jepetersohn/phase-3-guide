@@ -105,4 +105,6 @@ know when you need *not* heed some advice.  As Kipling says in "If:"
 - Don't burn out, take care of each other.
 - This is a no-shame ask-anything environment.
 - All our challenge solutions/repos should be under phase organization.
-- Make sure you check out [Phase 3 Git Workflow](../../../phase-3-guide/blob/master/git-workflow.md#phase-3-github-workflow)
+- Make sure you check out [Phase 3 Git
+Workflow](./git-workflow.md#phase-3-github-workflow) and [Group Project
+Process](./group_project_process.md)
