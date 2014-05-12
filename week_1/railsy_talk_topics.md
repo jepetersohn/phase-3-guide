@@ -4,7 +4,7 @@
 * form_for
 * virtual attributes
 * mass assignment
-* named routes + url helpers
+* named routes + url helpers ARP
 * custom routing
 * sessions
 * partials
@@ -13,7 +13,7 @@
 * rails and ajax
 * asset pipeline
 * factorygirl gem
-* shoulda matchers gem
+* shoulda matchers gem - JLR
 * haml
 * sass
 * refactoring views
