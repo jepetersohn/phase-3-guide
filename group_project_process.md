@@ -37,4 +37,3 @@ Group Project Demos should include:
 - show simplecov test coverage
 - each member goes around and talks about what they worked on and any challenges (technical or not) they faced, including showing code *(this will not happen in the final project)*
 - discussion of the agile/team practices used -- trello, stand-ups, retros, estimation, TDD, CI, deployment etc
-
