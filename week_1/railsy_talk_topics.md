@@ -13,7 +13,7 @@
 * rails and ajax
 * asset pipeline
 * factorygirl gem
-* shoulda matchers gem - JLR
+* shoulda matchers gem
 * haml
 * sass
 * refactoring views
