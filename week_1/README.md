@@ -44,7 +44,7 @@
 	- Review [Group Project Process](../group_project_process.md)
 	- Review Agile Practices
 		- [Agile Manifesto](http://agilemanifesto.org/)
-  		- [Sheriff's Lecture on Agile](./agile.md)
+  		- [Sherif's Lecture on Agile](./agile.md)
   		- [Abi's Notes on SCRUM](./scrum.md)
   		- [SCRUM Workflow Diagram](http://www.softwaysolutions.com/blog/wp-content/uploads/2012/10/scrum_process_big3.jpg)
 	- Read up on good commit messages
