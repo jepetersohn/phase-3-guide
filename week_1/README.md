@@ -74,6 +74,8 @@ project](../group_project_process.md) - check out [this example](../../../../ove
 - 2pm - Railsy Talks
 - pm - Group Project Good Times (TM)
 - 5:45pm - Recap
+- 6pm
+	- Write a blog post tutorial on your Railsy Talk Topic.  Add the link to your blog post to the wiki.
 
 ## Weekend
 - Continue working on Group Project
