@@ -28,7 +28,7 @@
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
-  - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/sh/tms1v3cjny3khwv/02m1J7EK5s/Books/4%20Testing%20-%20TDD/The%20RSpec%20Book%20v2.pdf)
+  - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/s/7lt81jhiwku612q/Rspec_Book.pdf)
 
 
 ## Day 3: Testing and Patterns
