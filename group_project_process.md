@@ -6,15 +6,18 @@
 	* Commits that include views must include screenshot(s) 
 * Daily stand-ups
 * Retros every other day
+	* list the actions + person assigned from each retro in the wiki or README of your project 
 * Use trello for user story list with:
 	* current, backlog, and ice box boards
 	* all stories estimated
 	* all stories prioritized
 	* current stories are assigned to the team member(s) working on them
+	* list a link to your (public) trello board in your project's README
 * Wireframe your webite before writing code
+	* store the wireframe in your project's repo and link to it in the README 
 * Follow code styleguides:
 	* [AirBnB Ruby Styleguide](https://github.com/airbnb/ruby)
 	* [AirBnB JavaScript Styleguide](https://github.com/airbnb/javascript)
-* 80% test coverage - use [simplecov](https://www.ruby-toolbox.com/projects/simplecov) to get percentage
+* 80% (or more!) test coverage - use [simplecov](https://www.ruby-toolbox.com/projects/simplecov) to get percentage
 * Continuous Integration with [Travis CI](https://travis-ci.org/)
 * Deployed to Heroku
