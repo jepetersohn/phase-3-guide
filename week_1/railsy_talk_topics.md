@@ -1,7 +1,6 @@
 ## Railsy Talk Topics
 
-* link_to (including method: :delete)
-* form_for
+* form_for, link_to (including method: :delete, if, and unless)
 * virtual attributes
 * mass assignment
 * named routes + url helpers
