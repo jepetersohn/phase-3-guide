@@ -8,7 +8,7 @@
 * Retros every other day
 	* list the actions + person assigned from each retro in the wiki or README of your project 
 * Use trello for user story list with:
-	* current, backlog, and ice box boards
+	* current, backlog, ice box, and done boards
 	* all stories estimated
 	* all stories prioritized
 	* current stories are assigned to the team member(s) working on them
