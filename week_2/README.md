@@ -5,7 +5,7 @@
 ## Day 1: Web Performance
 
 - am: 
-	- Group Project [Demos](../../group_project_process.md#demos)
+	- Group Project [Demos](../../../group_project_process.md#demos)
 	- Lecture: Web Performance
     - Choose [Gemsy talk topics](./gemsy_talk_topics.md)
 - pm
