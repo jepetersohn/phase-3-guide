@@ -82,7 +82,7 @@ project](../group_project_process.md) - check out [this example](../../../../ove
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
 - Do the microchallenges (if you haven't already):
 	- [Strong Parameters](./strong_parameters.md)
-	-  [Custom Routing Challenge](./custom_routes.md)
+	- ds[Custom Routing Challenge](./custom_routes.md)
 	- [Virtual Attributes](./virtual_attributes_micro_challenge.md) 
 	- [Rails + AJAX](./rails_ajax_micro_challenge.md)
 - Read [Uncle Bob Martin's "Where is the Foreman?"](http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html) and [Leon Gersing's "The Last Thing We Need"](http://leongersing.tumblr.com/post/77931655536/the-last-thing-we-need) and reflect on what sort of organization you want to work in.

@@ -21,3 +21,20 @@
 * Continuous Integration with [Travis CI](https://travis-ci.org/)
 * Deployed to Heroku
 * Follow the [bug report](./bug_reports.md] guidelines
+
+## Demos
+
+Prior to demos (MVP or final), you should:
+
+- deploy to heroku
+- add links to github, heroku, and trello to the wiki
+- set up travis ci and add link to it on the wiki *(only for final demo)*
+
+Group Project Demos should include:
+
+- description of the project and what problems it solves
+- demo of the the app and the functionality *from heroku*
+- show simplecov test coverage
+- each member goes around and talks about what they worked on and any challenges (technical or not) they faced, including showing code *(this will not happen in the final project)*
+- discussion of the agile/team practices used -- trello, stand-ups, retros, estimation, TDD, CI, deployment etc
+
