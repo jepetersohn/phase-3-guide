@@ -20,6 +20,7 @@
 * Vagrant
 * Carrierwave
 * Draper
+* pusher-gem
 * CanCan
 * Vanity
 * ABingo
@@ -32,4 +33,4 @@
 * ActiveResource
 * acts_as_taggable_on
 * acts_as_list
-* pusher-gem
+* Turbolinks
