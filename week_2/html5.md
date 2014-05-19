@@ -8,3 +8,6 @@ Do some research into standard practices of web design, reset css, and HTML5. Us
 * Read: [HTML5 and the document outlining algorithm](http://web.archive.org/web/20120627103207/http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/)
 * Go through these slides: [Structure standards and HTML5](http://girldevelopit.com/assets/intermediate-html-css/class1.html#/17)
 	* Complete the exercises in the slides using the [practice files](http://girldevelopit.com/assets/intermediate-html-css/class1.zip)
+* Take a look at [HTML5 Boilerplate](http://html5boilerplate.com/)
+	* [HTML5-Rails gem](https://github.com/sporkd/html5-rails)
+	* [Guide to using HTML5 Boilerplate with Rails 3](http://railsapps.github.io/rails-html5-boilerplate.html)
