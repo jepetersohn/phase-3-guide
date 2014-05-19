@@ -25,7 +25,7 @@
 * ABingo
 * Fakeweb
 * VCR
-* Timcop
+* Timecop
 * Chronic
 * Inherited resources
 * Geocoder
