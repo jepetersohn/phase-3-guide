@@ -22,6 +22,9 @@ How does it look when
 
 You can try using [QuirkTools](http://quirktools.com/screenfly) to see a site in multiple browsers.
 
+### Reset alternatives
+- [Normalize.css](http://necolas.github.io/normalize.css/)
+- [Modernizr](http://modernizr.com/)
 
 ### Additional resources:
 - [Web Accessibility](http://girldevelopit.com/assets/web-accessibility/index.html)
