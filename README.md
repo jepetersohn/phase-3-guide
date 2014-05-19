@@ -1,10 +1,12 @@
 # Phase 3 Guide
 
+[Groups, Resources, and more!](../../wiki)
+
 ## Curriculum
 
-* [Phase 3 Prep Work](./week-0)
-* [Week 1](./week-1)
-* [Week 2](./week-2)
+* [Phase 3 Prep Work](./week_0)
+* [Week 1](./week_1)
+* [Week 2](./week_2)
 
 ## Introduction
 
@@ -31,7 +33,7 @@ you for the rest of your career.
 ## Challenges
 
 - Code quality is #1.
-- Challenges will be bigger and more vague. A lot of the problem will be how strategizing how to approach the problem: like debugging or researching a problem.
+- Challenges will be bigger and more vague. A lot of the problem will be strategizing how to approach the problem: like debugging or researching a problem.
 - The emphasis of challenges is on the process of problem solving, not the
   solution.  _We expect that you can complete any challenge at this point.  HOW
 you complete it is at stake_.
@@ -104,7 +106,6 @@ know when you need *not* heed some advice.  As Kipling says in "If:"
 
 - Don't burn out, take care of each other.
 - This is a no-shame ask-anything environment.
-- All our challenge solutions/repos should be under phase organization.
-- Make sure you check out [Phase 3 Git
-Workflow](./git-workflow.md#phase-3-github-workflow) and [Group Project
+- All our challenge solutions/repos should be under cohort organization.
+- Make sure you review [Phase 3 Git Workflow](./git-workflow.md#phase-3-github-workflow) and [Group Project
 Process](./group_project_process.md)
