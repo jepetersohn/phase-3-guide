@@ -21,7 +21,7 @@ Choose *one* gem.  Your talk should include:
 * Rapheal.js
 * d3.js - Julia
 * Haml
-* Coffescript
+* Coffescript - Brendan
 * New Relic
 * Hoptoad
 * Bluepill
