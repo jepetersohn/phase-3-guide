@@ -19,7 +19,7 @@ Choose *one* gem.  Your talk should include:
 * Compass
 * Spree
 * Rapheal.js
-* d3.js
+* d3.js - Julia
 * Haml
 * Coffescript
 * New Relic
