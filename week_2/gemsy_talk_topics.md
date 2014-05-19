@@ -12,7 +12,7 @@ Choose *one* gem.  Your talk should include:
 * ActiveAdmin
 * Formtastic
 * Resque
-* Sidekiq
+* Sidekiq - Timmy
 * Kaminari
 * Ransack
 * Paperclip
