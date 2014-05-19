@@ -26,7 +26,7 @@ Choose *one* gem.  Your talk should include:
 * New Relic
 * Hoptoad
 * Bluepill
-* Unicorn
+* Unicorn - Adrian
 * Vagrant
 * Carrierwave
 * Draper
