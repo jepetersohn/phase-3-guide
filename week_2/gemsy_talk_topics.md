@@ -32,7 +32,7 @@ Choose *one* gem.  Your talk should include:
 * pusher-gem
 * CanCan
 * Vanity
-* ABingo
+* ABingo - Johnathan
 * Fakeweb
 * VCR
 * Timecop
