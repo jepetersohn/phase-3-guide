@@ -5,7 +5,6 @@ Choose *one* gem.  Your talk should include:
 - using the gem in a Rails app and showing that code
 - Reading the source code of the gem and showing a piece of code you found interesting or learned from
 
-**Do not put your names here - do it in the [wiki](./wiki)**
 
 ### Gems
 
@@ -20,13 +19,13 @@ Choose *one* gem.  Your talk should include:
 * Compass
 * Spree
 * Rapheal.js
-* d3.js
+* d3.js - Julia
 * Haml
 * Coffescript
 * New Relic
 * Hoptoad
 * Bluepill
-* Unicorn - Adrian
+* Unicorn - Shaun
 * Vagrant
 * Carrierwave
 * Draper
