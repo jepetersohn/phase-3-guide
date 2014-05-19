@@ -12,6 +12,7 @@ Choose *one* gem.  Your talk should include:
 * ActiveAdmin
 * Formtastic
 * Resque
+* Sidekiq
 * Kaminari
 * Ransack
 * Paperclip
