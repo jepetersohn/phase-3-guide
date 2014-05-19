@@ -33,4 +33,4 @@
 * ActiveResource
 * acts_as_taggable_on
 * acts_as_list
-* Turbolinks
+* Turbolinks - Jared
