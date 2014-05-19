@@ -14,6 +14,7 @@
 - 6pm
 	- [Memcached microchallenge](memcached-microchallenge.md)
 	- [Html5 microchallenge](html5.md)
+	- [12 Factor microchallenge](12_factor.md)
 
 ## Day 2: JavaScript & Jasmine
 
