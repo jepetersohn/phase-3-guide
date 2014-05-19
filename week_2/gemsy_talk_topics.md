@@ -8,7 +8,7 @@ Choose *one* gem.  Your talk should include:
 
 ### Gems
 
-* Devise
+* Devise - Adam
 * ActiveAdmin
 * Formtastic
 * Resque
