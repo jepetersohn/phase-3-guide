@@ -7,10 +7,12 @@
 - am: 
 	- Group Project [Demos](../group_project_process.md#demos)
 	- Lecture: Web Performance
-    - Choose [Gemsy talk topics](./gemsy_talk_topics.md)
+    	- Choose [Gemsy talk topics](./gemsy_talk_topics.md)
+	- [Karmaville challenge](../../../../karmaville)
 - pm
 	- in-person group project code review
-	- [Karmaville challenge](../../../../karmaville)
+	- continue [Karmaville challenge](../../../../karmaville)
+	- Behavior Drill: [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge)
 - 6pm
 	- [Memcached microchallenge](memcached-microchallenge.md)
 	- [Html5 microchallenge](html5.md)
