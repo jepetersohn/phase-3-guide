@@ -14,7 +14,7 @@ Choose *one* gem.  Your talk should include:
 * Resque
 * Sidekiq - Timmy
 * Kaminari
-* Ransack
+* Ransack - Shaun
 * Paperclip
 * Compass
 * Spree
@@ -25,7 +25,7 @@ Choose *one* gem.  Your talk should include:
 * New Relic
 * Hoptoad
 * Bluepill
-* Unicorn - Shaun
+* Unicorn
 * Vagrant
 * Carrierwave
 * Draper
