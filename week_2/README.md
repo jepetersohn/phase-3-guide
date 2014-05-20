@@ -23,7 +23,7 @@
 - am 
 	- Lecture: Jasmine and OOJS
 	- [OOJS Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
-        - [miniQuery Challenge](../../../../miniQuery-challenge)
+	- [miniQuery Challenge](../../../../miniQuery-challenge)
 - pm 
 	- Talks
 	- continue miniQuery
