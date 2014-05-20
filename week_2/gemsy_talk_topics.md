@@ -17,7 +17,7 @@ Choose *one* gem.  Your talk should include:
 * Ransack - Shaun
 * Paperclip
 * Compass
-* Spree
+* Spree - Buck 
 * Rapheal.js
 * d3.js - Julia
 * Haml
