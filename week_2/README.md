@@ -21,7 +21,6 @@
 ## Day 2: JavaScript & Jasmine
 
 - am 
-	- Talks 
 	- Lecture: Jasmine and OOJS
 	- [OOJS Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
     - [miniQuery Challenge](../../../../miniQuery-challenge)
@@ -40,7 +39,6 @@
 
 - am
 	- Talks
-	- Discussion: Tech Community	
 	- Behaviour Drill: [Post-Its 2](../../../../behavior-drill-post-it-board-v2-challenge)
 	- [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
 - 2pm - PITCHES!!
@@ -65,4 +63,5 @@
 
 
 ## Weekend
-Finish final project MVP.  It should be testing, deployed, and you should be prepared with some slides.  Your demo should follow the [process for the group  project demos](../group_project_process#demos).
+ - Finish final project MVP.  It should be testing, deployed, and you should be prepared with some slides.  Your demo should follow the [process for the group  project demos](../group_project_process#demos).
+ - Write talk blog post and put link in submissions wiki
