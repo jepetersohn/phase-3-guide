@@ -1,6 +1,6 @@
 # Group Project Process
 
-* Follow the [Git workflow](../git-workflow.md)
+* Follow the [Git workflow](./git-workflow.md)
 	* **Every** pull request must be reviewed by someone who did not write the code
 	* Code Reviewer merges the Pull Request
 	* Commits that include views must include screenshot(s) 
