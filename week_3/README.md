@@ -6,7 +6,7 @@
 
 - 9am - MVP Presentation
 - am
-	- 9am - Cohort Standup (each team gives 1 update)   
+	- Cohort Standup (each team gives 1 update)   
 	- Work on Project
 - pm
 	- Work on project
