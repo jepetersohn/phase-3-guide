@@ -4,6 +4,8 @@
 
 ## Day 1: Final Project MVP
 
+Create a [pull request for your code review](./code_review_process.md) *before* presentations begin.
+
 - 9am - MVP Presentation
 - am
 	- Cohort Standup (each team gives 1 update)   
