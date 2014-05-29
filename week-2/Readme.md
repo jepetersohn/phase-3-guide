@@ -8,7 +8,7 @@
 - 2p - Test mocks, stubs and doubles
 - pm - [Ajax Tabs](../../../../ajax-tabs-challenge)
 - 6p
-  - [Javascript the Right wasy](http://jstherightway.org/)
+  - [Javascript the Right way](http://jstherightway.org/)
   - [Awesome Menus](../../../../awesome-menus-challenge)
 
 ### Day 2 Javascript Patterns
