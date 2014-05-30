@@ -12,12 +12,12 @@ Choose *one* gem.  Your talk should include:
 * ActiveAdmin
 * Formtastic
 * Resque
-* Sidekiq
+* Sidekiq - Timmy
 * Kaminari
-* Ransack
+* Ransack - Shaun
 * Paperclip
 * Compass
-* Spree
+* Spree - Buck 
 * Rapheal.js
 * d3.js - Julia
 * Haml
@@ -25,7 +25,7 @@ Choose *one* gem.  Your talk should include:
 * New Relic
 * Hoptoad
 * Bluepill
-* Unicorn - Shaun
+* Unicorn
 * Vagrant
 * Carrierwave
 * Draper
