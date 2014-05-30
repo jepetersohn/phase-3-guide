@@ -1,16 +1,30 @@
 ## Railsy Talk Topics
 
-* form_for, link_to (including method: :delete, if, and unless)
+* link_to (including method: :delete, if, and unless)
+* form_for
 * virtual attributes
-* strong parameters + mass assignment
-* named routes + url helpers
+* strong parameters (Rails 4)
+* mass assignment (Rails 3)
+* named routes (as)
+* url helpers (url and path)
 * custom routing
 * sessions
+* helpers
 * partials
 * form validation
 * flash
-* rails and ajax
+* nested forms
+* rails and ajax (remote)
+* rails, csrf, and jQuery ajax
 * asset pipeline
+* turbolinks
+* environment files
+* initializers
+* differences between Rails 3 and 4
+* concerns
+* service objects
+* Rspec mocks
+* Rspec stubbing
 * factorygirl gem
 * shoulda-matchers gem
 * haml
@@ -19,3 +33,7 @@
 * simple_form gem
 * prototyping websites
 * wireframing websites
+* visual/design styleguides
+* ActiveRecord serialize
+
+

@@ -1,29 +1,30 @@
 ## Gemsy Talk Topics
 
 Choose *one* gem.  Your talk should include:
-- an overview of the gem
+- an overview of the gem, library of framework
 - using the gem in a Rails app and showing that code
 - Reading the source code of the gem and showing a piece of code you found interesting or learned from
 
 
 ### Gems
 
-* Devise - Adam
+* Devise
 * ActiveAdmin
 * Formtastic
 * Resque
-* Sidekiq - Timmy
+* Sidekiq
 * Kaminari
-* Ransack - Shaun
+* Ransack
 * Paperclip
 * Compass
-* Spree - Buck 
+* Bourbon
+* Spree
 * Rapheal.js
-* d3.js - Julia
+* d3.js
 * Haml
-* Coffescript - Brendan
+* Coffescript
 * New Relic
-* Hoptoad
+* Airbrake
 * Bluepill
 * Unicorn
 * Vagrant
@@ -32,7 +33,7 @@ Choose *one* gem.  Your talk should include:
 * pusher-gem
 * CanCan
 * Vanity
-* ABingo - Johnathan
+* ABingo
 * Fakeweb
 * VCR
 * Timecop
@@ -42,4 +43,3 @@ Choose *one* gem.  Your talk should include:
 * ActiveResource
 * acts_as_taggable_on
 * acts_as_list
-* Turbolinks - Jared

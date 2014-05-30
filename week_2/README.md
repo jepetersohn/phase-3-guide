@@ -45,18 +45,9 @@
 - pm
 	- [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
 	- [Responsive Design microchallenge](./responsive_design.md)
-	- Optional: [Persistence](./persistence-microchallenge.md)
+	- Optional: [Persistence microchallenge](./persistence-microchallenge.md)
 - 6pm 
 	- Finish [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
-	- **start final project!**
-
-## Day 4
-
-- am
-	- Talks
-	- Final Projects
-- pm - Teacher consultation 
-- 6pm - Finish microchallenges
  	- finish microchallenges from [week 1](../week_1/README.md)
 	- [Memcached microchallenge](memcached-microchallenge.md)
 	- [Html5 microchallenge](html5.md)
@@ -64,7 +55,14 @@
 	- [Psuedo-selectors microchallenge](./psuedo_selectors.md)
 	- [Psuedo-elements & icon fonts microchallenge](./psuedo_elements.md)
 	- [Responsive Design microchallenge](./responsive_design.md)
-	
+
+## Day 4
+
+- am
+	- Talks
+	- Final Projects
+- pm - Teacher consultation
+
 
 
 
@@ -77,4 +75,4 @@
 ## Weekend
  - Finish final project MVP.  It should be testing, deployed, and you should be prepared with some slides.  Your demo should follow the [process for the group  project demos](../group_project_process#demos).
  - Write talk blog post and put link in submissions wiki
- - finish all microchallenges
+ - finish ALL microchallenges
