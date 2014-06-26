@@ -58,7 +58,7 @@
 
 - 9am
  	- Railsy Talks
- 	- Design & Frontend workshop
+ 	- [Design & Frontend workshop](./design_workshop.md)
 - 12:30 - Lunch
 - 2pm
 	- Agile Refresher
