@@ -17,7 +17,7 @@ Choose *one* gem.  Your talk should include:
 * Ransack
 * Paperclip -Tim
 * Compass
-* Bourbon
+* Bourbon ~ JESS
 * Spree
 * Rapheal.js
 * d3.js
