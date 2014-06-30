@@ -1,3 +1,6 @@
+# DO NOT MODIFY THIS FILE
+Choose your topic on the [wiki](./wiki)
+
 ## Gemsy Talk Topics
 
 Choose *one* gem.  Your talk should include:
@@ -15,9 +18,9 @@ Choose *one* gem.  Your talk should include:
 * Sidekiq
 * Kaminari
 * Ransack
-* Paperclip -Tim
+* Paperclip
 * Compass
-* Bourbon ~ JESS
+* Bourbon
 * Spree
 * Rapheal.js
 * d3.js
@@ -26,7 +29,7 @@ Choose *one* gem.  Your talk should include:
 * New Relic
 * Airbrake
 * Bluepill
-* Unicorn - Danielle
+* Unicorn
 * Vagrant
 * Carrierwave
 * Draper
