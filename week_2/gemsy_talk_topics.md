@@ -15,7 +15,7 @@ Choose *one* gem.  Your talk should include:
 * Sidekiq
 * Kaminari
 * Ransack
-* Paperclip
+* Paperclip -Tim
 * Compass
 * Bourbon
 * Spree
