@@ -33,6 +33,7 @@ Choose *one* gem.  Your talk should include:
 * Vagrant
 * Carrierwave
 * Draper
+* Erector
 * pusher-gem
 * CanCan
 * Vanity
