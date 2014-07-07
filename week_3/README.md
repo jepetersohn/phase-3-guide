@@ -6,13 +6,11 @@
 Create a [pull request for your code review](./code_review_process.md) *before* presentations begin.
 
 - 9am - MVP Presentation
-- am
-	- Cohort Standup (each team gives 1 update)
-	- Work on Project
+- am - Work on Project
+- am/pm - Github code review by instructor
 - pm
 	- Work on project
 	- Booster sessions - your choice (optional)
-	- Github code review by instructor
 - 6pm
 	- Skim through microchallenges from week 1 and week 2 if you haven't done them already
 
