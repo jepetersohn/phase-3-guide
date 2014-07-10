@@ -2,7 +2,7 @@
 
 **What's a demo?**
 
-The demo will be you and your teammates standing up in front of DBC and a few employers.  You will show your app and have slides (power point, keynote, etc).  The presentation should last ~10 minutes wiht 5 minutes for questions from the audience.  You should brainstorm questions that might be asked and prepare your answers ahead of time as best you can.
+The demo will be you and your teammates standing up in front of DBC and a few employers.  You will show your app and have slides (power point, keynote, etc).  The presentation should last ~10 minutes with 5 minutes for questions from the audience.  You should brainstorm questions that might be asked and prepare your answers ahead of time as best you can.
 
 **How to win at demo**
 
