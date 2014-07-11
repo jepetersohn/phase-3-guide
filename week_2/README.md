@@ -20,21 +20,21 @@
 
 ## Day 2: JavaScript & Jasmine
 
-- am 
+- am
 	- Lecture: Jasmine and OOJS
 	- [OOJS Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
 	- [miniQuery Challenge](../../../../miniQuery-challenge)
-- pm 
+- pm
 	- Talks
+	- Behaviour Drill: [Post-Its 1](../../../../behavior-drill-post-it-board-v1-challenge)
 	- continue miniQuery
 - 6pm
 	- Read [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-	- Behaviour Drill: [Post-Its 1](../../../../behavior-drill-post-it-board-v1-challenge)
 	- [Psuedo-selectors microchallenge](./psuedo_selectors.md)
 	- [Psuedo-elements & icon fonts microchallenge](./psuedo_elements.md)
 	- Prepare for pitches
-	
-	
+
+
 ## Day 3
 
 - am

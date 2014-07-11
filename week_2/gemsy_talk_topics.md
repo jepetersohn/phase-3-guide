@@ -1,3 +1,6 @@
+# DO NOT MODIFY THIS FILE
+Choose your topic on the [wiki](./wiki)
+
 ## Gemsy Talk Topics
 
 Choose *one* gem.  Your talk should include:
@@ -30,6 +33,7 @@ Choose *one* gem.  Your talk should include:
 * Vagrant
 * Carrierwave
 * Draper
+* Erector
 * pusher-gem
 * CanCan
 * Vanity

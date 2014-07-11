@@ -44,27 +44,29 @@
 - 6pm
 	- Review [Github Workflow](../git-workflow.md)
 	- Review [Group Project Process](../group_project_process.md)
+ 	- Micro-challenge: [Custom Routing Challenge](./custom_routes.md)
+	- Read up on good commit messages
+		- [5 Tipes for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+		- [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 	- Review Agile Practices
 		- [Agile Manifesto](http://agilemanifesto.org/)
   	- [Sherif's Lecture on Agile](./agile.md)
  		- [Abi's Notes on SCRUM](./scrum.md)
  		- [SCRUM Workflow Diagram](http://www.softwaysolutions.com/blog/wp-content/uploads/2012/10/scrum_process_big3.jpg)
-	- Read up on good commit messages
-		- [5 Tipes for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
-		- [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
- 	- Micro-challenge: [Custom Routing Challenge](./custom_routes.md)
 
 ## Day 4:  DBC Overflow
 
 - 9am
  	- Railsy Talks
+ 	- [Design & Frontend workshop](./design_workshop.md)
+- 12:30 - Lunch
+- 2pm
 	- Agile Refresher
-- am/pm - Choose Your Own Adventure [group
+  - Choose Your Own Adventure [group
 project](../group_project_process.md) - check out [this example](../../../../overflow-challenge). You should create a group project with roughly equal complexity to the overflow challenge, or use the overflow challenge if you're not feeling creative.
-  - This project should be created **with TDD** and using the [group project
+    - This project should be created **with TDD** and using the [group project
     process](../group_project_process.md)
 - 6pm
-	- Contine working on group project
 	- Micro-challenges: [Virtual Attributes](./virtual_attributes_micro_challenge.md) & [Rails + AJAX](./rails_ajax_micro_challenge.md)
 	- Check out [Agile Lean Resources](./agile_lean_developer.md)
   - Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
