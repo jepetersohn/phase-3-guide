@@ -23,13 +23,14 @@
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
-- 2p - Lecture: Integration and Isolation Testing
-- pm 
-  - [TDD Telephone](../../../../tdd-telephone-challenge)
-  - [Rails / Rspec Challenge](../../../../rails-with-rspec-challenge)
+- 2pm - Rails Patterns + Refactoring
+- pm - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 4:30pm - EE
 - 6p 
-  - Finish testing drills and Rails/Rspec Challenge
+  - Finish testing drills
+ 	- Micro-challenge: [Custom Routing Challenge](./custom_routes.md)
+	- Micro-challenge`: [Virtual Attributes](./virtual_attributes_micro_challenge.md)
+	- Micro-challenge: [Rails + AJAX](./rails_ajax_micro_challenge.md)
   - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/s/7lt81jhiwku612q/Rspec_Book.pdf)
 
 
@@ -39,12 +40,14 @@
 	- Railsy Talks
 	- Testing Q & A
 - am - [Todo MVC challenge](../../../../todomvc-rails-challenge)
-- 2pm - Rails Patterns + Refactoring
-- pm - [Refactor-this challenge](../../../../refactor-this-challenge)
+- 2p - Lecture: Integration and Isolation Testing
+- pm 
+  - [TDD Telephone](../../../../tdd-telephone-challenge)
+  - [Rails / Rspec Challenge](../../../../rails-with-rspec-challenge)
 - 6pm
+  - Finish Rspec Challenge
 	- Review [Github Workflow](../git-workflow.md)
 	- Review [Group Project Process](../group_project_process.md)
- 	- Micro-challenge: [Custom Routing Challenge](./custom_routes.md)
 	- Read up on good commit messages
 		- [5 Tipes for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
 		- [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
@@ -67,7 +70,6 @@ project](../group_project_process.md) - check out [this example](../../../../ove
     - This project should be created **with TDD** and using the [group project
     process](../group_project_process.md)
 - 6pm
-	- Micro-challenges: [Virtual Attributes](./virtual_attributes_micro_challenge.md) & [Rails + AJAX](./rails_ajax_micro_challenge.md)
 	- Check out [Agile Lean Resources](./agile_lean_developer.md)
   - Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
 

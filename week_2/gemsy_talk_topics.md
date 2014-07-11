@@ -3,13 +3,17 @@ Choose your topic on the [wiki](./wiki)
 
 ## Gemsy Talk Topics
 
+### Instructions
+
 Choose *one* gem.  Your talk should include:
 - an overview of the gem, library of framework
 - using the gem in a Rails app and showing that code
 - Reading the source code of the gem and showing a piece of code you found interesting or learned from
 
+Your talk should be **5-10** minutes and should be prepared in
+advance.
 
-### Gems
+### Gems/Libraries
 
 * Devise
 * ActiveAdmin

@@ -1,10 +1,20 @@
+# DO NOT MODIFY THIS FILE
+Choose your topic on the [wiki](./wiki)
+
 ## Railsy Talk Topics
+
+### Instructions
 
 Your talk should include:
 * explanation of what it does
 * where does this code go (file/folders)
 * example code
 * showing code using it in a Rails app
+
+Your talk should be **5-10** minutes and should be prepared in
+advance.
+
+### Topics
 
 * rails, csrf, and jQuery ajax
 * partials
