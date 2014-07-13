@@ -19,13 +19,16 @@
 
 - 9a
   - Rails Q&A
-  - Lecture: Intro to RSpec/RSpec Rails
+  - Lecture: Intro to RSpec
 - am 
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
-- 2pm - Rails Patterns + Refactoring
-- pm - [Refactor-this challenge](../../../../refactor-this-challenge)
+- 2pm - Lecture: Intro to TDD
+- pm
+  - [TDD Telephone](../../../../tdd-telephone-challenge)
+  - Lecture: Rails Patterns + Refactoring 
+  - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 4:30pm - EE
 - 6p 
   - Finish testing drills and challenge
@@ -41,13 +44,14 @@
 - 9am
 	- Railsy Talks
 	- Testing Q & A
-- am - [Todo MVC challenge](../../../../todomvc-rails-challenge)
-- 2p - Lecture: Integration and Isolation Testing
+	- Lecture: Intro to Rspec & Rails
+- am - 
+  - [Rails / Rspec Challenge](../../../../sf-rspec-rails-challenge)
+- 2p - Lecture: TDD, BDD, Feature and Unit Testing
 - pm 
-  - [TDD Telephone](../../../../tdd-telephone-challenge)
-  - [Rails / Rspec Challenge](../../../../rails-with-rspec-challenge)
+  - Do the feature tests for the Rails/Rspec Challenge
+  - [Todo MVC challenge](../../../../todomvc-rails-challenge)
 - 6pm
-  - Finish Rspec Challenge
   - Micro-challenge: [Strong Parameters](./strong_parameters.md)
   - Review [Github Workflow](../git-workflow.md)
   - Review [Group Project Process](../group_project_process.md)
