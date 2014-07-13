@@ -7,7 +7,7 @@
 - 2p - Welcome to Phase 3
 	- Choose Railsy Talk Topic
 - pm - Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)
-  - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge) ====
+  - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 6pm
 	- Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
   - Prepare rails related questions based on your intro to rails challenge.
