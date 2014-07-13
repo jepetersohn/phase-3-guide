@@ -11,8 +11,8 @@
   - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 6pm
   - Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
-  - **Prepare rails related questions based on your intro to rails challenge.**
-  - [Get ready for testing](./rspec_overview.md)
+  - **Prepare rails related questions based on your challenges.**
+  - **[Get ready for testing](./rspec_overview.md)**
 
 
 ## Day 2: Testing
@@ -33,6 +33,7 @@
   - Micro-challenge`: [Virtual Attributes](./virtual_attributes_micro_challenge.md)
   - Micro-challenge: [Rails + AJAX](./rails_ajax_micro_challenge.md)
   - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/s/7lt81jhiwku612q/Rspec_Book.pdf)
+  - **Prepare testing related questions based on your challenges**
 
 
 ## Day 3: Testing and Patterns
