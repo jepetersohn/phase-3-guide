@@ -5,7 +5,7 @@
 - 9a - Welcome new phase 1 students
 - am - Teach phase 2 something
 - 2p - Welcome to Phase 3
-	- Choose [Railsy Talk Topic](./rails_talk_topics.md)
+	- Choose [Railsy Talk Topic](./railsy_talk_topics.md)
 - pm 
   - **Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)**
   - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge)
