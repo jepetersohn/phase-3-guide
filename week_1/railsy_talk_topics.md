@@ -27,7 +27,7 @@ advance.
 * factorygirl gem
 * shoulda-matchers gem
 * HAML
-* SASS-Jake Wayne
+* SASS
 * flash
 * turbolinks
 * service objects
