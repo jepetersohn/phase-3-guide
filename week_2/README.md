@@ -21,6 +21,7 @@
 ## Day 2: JavaScript & Jasmine
 
 - am
+	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
 	- Lecture: Jasmine and OOJS
 	- [OOJS Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
 	- [miniQuery Challenge](../../../../miniQuery-challenge)
