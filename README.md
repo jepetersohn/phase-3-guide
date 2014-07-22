@@ -4,10 +4,10 @@
 
 ## Curriculum
 
-* [Phase 3 Prep Work](./week_0)
-* [Week 1](./week_1)
-* [Week 2](./week_2)
-* [Week 3](./week_3)
+* [Phase 3 Prep Work](./week-0)
+* [Week 1](./week-1)
+* [Week 2](./week-2)
+* [Week 3](./week-3)
 
 ## Introduction
 
