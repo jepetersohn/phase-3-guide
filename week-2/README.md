@@ -21,6 +21,7 @@
 ## Day 2: JavaScript & Jasmine
 
 - am
+	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
 	- Lecture: Jasmine and OOJS
 	- [OOJS Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
 	- [miniQuery Challenge](../../../../miniQuery-challenge)
@@ -32,6 +33,7 @@
 	- Read [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	- [Psuedo-selectors microchallenge](./psuedo_selectors.md)
 	- [Psuedo-elements & icon fonts microchallenge](./psuedo_elements.md)
+	- [Responsive Design microchallenge](./responsive_design.md)
 	- Prepare for pitches
 
 
@@ -48,13 +50,8 @@
 	- Optional: [Persistence microchallenge](./persistence-microchallenge.md)
 - 6pm 
 	- Finish [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
- 	- finish microchallenges from [week 1](../week_1/README.md)
-	- [Memcached microchallenge](memcached-microchallenge.md)
-	- [Html5 microchallenge](html5.md)
-	- [12 Factor microchallenge](12_factor.md)
-	- [Psuedo-selectors microchallenge](./psuedo_selectors.md)
-	- [Psuedo-elements & icon fonts microchallenge](./psuedo_elements.md)
-	- [Responsive Design microchallenge](./responsive_design.md)
+ 	- finish microchallenges from [week 1](../week-1/README.md) and this
+week.
 
 ## Day 4
 
@@ -73,6 +70,9 @@
 
 
 ## Weekend
- - Finish final project MVP.  It should be testing, deployed, and you should be prepared with some slides.  Your demo should follow the [process for the group  project demos](../group_project_process#demos).
- - Write talk blog post and put link in submissions wiki
- - finish ALL microchallenges
+ - **Finish final project MVP**.  It should be *tested, deployed*, and
+    you should be prepared with some slides.  Your demo should follow
+the *[process for the group  project
+demos](../group_project_process#demos)*.
+ - Write talk **blog post** and put link in submissions wiki
+ - **finish ALL microchallenges** (week 1 and week 2)

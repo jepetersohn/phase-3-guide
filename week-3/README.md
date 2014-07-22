@@ -37,7 +37,7 @@ Create a [pull request for your code review](./code_review_process.md) *before* 
 	- Wrap up your project
 	- Booster sessions - your choice (optional)
 - 6pm
-	- Read the [Demo Framework](./demo_framework.md)
+	- **Read the [Demo Framework](./demo_framework.md)**
 
 ## Day 4: Presentation Rehearsal
 
@@ -46,12 +46,12 @@ Create a [pull request for your code review](./code_review_process.md) *before* 
 	- Work on presentation
 	- Instructor consultation
 - pm
-	- Work on presentation 
+	- Work on presentation
 	- Presentation practice with an instructor
 	- Project final touches
 - 6pm
 	- Presentation practice
-	- Get some sleep!! 
+	- Get some sleep!!
 
 ## Day 5: Demo day + graduation!
 
@@ -59,6 +59,5 @@ Create a [pull request for your code review](./code_review_process.md) *before* 
 	- Presentations
 	- Employer networking
 - pm
-	- Retro
 	- Graduation
-	- Party!!   
+	- Party!! 
