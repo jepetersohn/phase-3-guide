@@ -150,3 +150,7 @@ must all show each other due respect.
 - All our challenge solutions/repos should be under phase organization.
 - Make sure you check out [Phase 3 Git Workflow](../../../phase-3-guide/blob/master/git-workflow.md#phase-3-github-workflow)
 - Don't burn out, take care of each other.
+
+### Student Handbook
+
+The [student handbook](../../..student-handbook) has information about DBC's agreements, policies, and rules. Please review it.
