@@ -14,43 +14,52 @@ Your talk should include:
 Your talk should be **5-10** minutes and should be prepared in
 advance.
 
+# DO NOT MODIFY THIS FILE
+Choose your topic on the [wiki](../../../wiki/railsy-talk-topics)
+
 ### Topics
 
+#### Views
+* routing, including url helpers (url and path), named routes (as), and
+custom routing
 * partials
 * helpers
-* layouts
-* asset pipeline
-* differences between Rails 3 and 4
 * nested forms
+* HAML
+* form validation
+* link_to (including method: :delete, if, and unless), form_for,
+button_to and all form helpers
+
+#### Assets (CSS & Javascript) & AJAX
+* asset pipeline, including manifest files, concationation, and
+minification
+* rails, csrf, and jQuery ajax
+* rails and ajax (remote)
+* turbolinks
+
+#### Rails Patterns
+* service objects
+* concerns
+
+#### General
+* differences between Rails 3 and 4
+* flash and sessions
+* environment files
+* initializers
+
+#### Data
+* ActiveRecord serialize
+* virtual attributes
+* strong parameters (Rails 4)
+* mass assignment (Rails 3)
+
+#### Testing
 * Rspec mocks
 * Rspec stubbing
 * factorygirl gem
 * shoulda-matchers gem
-* HAML
-* SASS
-* flash
-* turbolinks
-* service objects
-* environment files
-* initializers
-* form validation
-* concerns
-* ActiveRecord serialize
-* refactoring views
-* simple_form gem
-* prototyping websites
-* wireframing websites
-* visual/design styleguides
-* virtual attributes
-* strong parameters (Rails 4)
-* mass assignment (Rails 3)
-* sessions
-* link_to (including method: :delete, if, and unless)
-* form_for
-* named routes (as)
-* url helpers (url and path)
-* custom routing
-* rails, csrf, and jQuery ajax
-* rails and ajax (remote)
+
+
+
 
 

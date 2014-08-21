@@ -4,54 +4,101 @@
 
 ## Day 1: Web Performance
 
-- am: 
+- am:
+  - Choose [Gemsy talk topics](./gemsy_talk_topics.md)
 	- Group Project [Demos](../group_project_process.md#demos)
 	- Lecture: Web Performance
-    	- Choose [Gemsy talk topics](./gemsy_talk_topics.md)
 	- [Karmaville challenge](../../../../karmaville)
 - pm
 	- in-person group project code review
 	- continue [Karmaville challenge](../../../../karmaville)
-	- Behavior Drill: [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge)
+	- [AJAX with Tabs](../../../../ajax-tabs-challenge) - front-end
+performance
+  - 5:50pm Stand-up
 - 6pm
-	- [Memcached microchallenge](memcached-microchallenge.md)
-	- [Html5 microchallenge](html5.md)
-	- [12 Factor microchallenge](12_factor.md)
+	- [Choice of Challenges](#choice-of-challenges)
 
 ## Day 2: JavaScript & Jasmine
 
 - am
 	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
+- Release 0 & 1
 	- Lecture: Jasmine and OOJS
-	- [OOJS Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
-	- [miniQuery Challenge](../../../../miniQuery-challenge)
+	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
+- Release 2
 - pm
 	- Talks
-	- Behaviour Drill: [Post-Its 1](../../../../behavior-drill-post-it-board-v1-challenge)
-	- continue miniQuery
+	- [Choice of Challenges](#choice-of-challenges)
+  - 5:50pm Stand-up
 - 6pm
-	- Read [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-	- [Psuedo-selectors microchallenge](./psuedo_selectors.md)
-	- [Psuedo-elements & icon fonts microchallenge](./psuedo_elements.md)
-	- [Responsive Design microchallenge](./responsive_design.md)
 	- Prepare for pitches
+	- [Choice of Challenges](#choice-of-challenges)
 
 
 ## Day 3
 
 - am
 	- Talks
-	- Behaviour Drill: [Post-Its 2](../../../../behavior-drill-post-it-board-v2-challenge)
-	- [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
+	- [Choice of Challenges](#choice-of-challenges)
 - 2pm - PITCHES!!
 - pm
-	- [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
-	- [Responsive Design microchallenge](./responsive_design.md)
-	- Optional: [Persistence microchallenge](./persistence-microchallenge.md)
+	- [Choice of Challenges](#choice-of-challenges)
+  - 5:50pm Stand-up
 - 6pm 
-	- Finish [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
- 	- finish microchallenges from [week 1](../week-1/README.md) and this
+ 	- Start final projects
 week.
+
+-----
+## Choice of Challenges
+
+#### Break out options
+- Rails patterns & refactoring (*highly recommended*)
+- Rails & AJAX
+- Advanced Git
+- Redis
+- Understanding single page applications
+- Reading documentation
+- APIs in Rails
+
+### Rails
+- [Refactor-this challenge](../../../../refactor-this-challenge)
+- [Stackoverflow
+Workshop](../../../../stackoverflow-workshop-challenge) - Release 5
+- [Stackoverflow
+Workshop](../../../../stackoverflow-workshop-challenge) - Release 6
+- [Todo MVC challenge](../../../todomvc-rails-challenge)
+- [Memcached microchallenge](./memcached-microchallenge.md)
+- [Persistence microchallenge](./persistence-microchallenge.md)
+- [Custom Routing Microchallenge](./custom_routes.md)
+- [Strong Parameters Microchallenge](./strong_parameters.md)
+- [Virtual Attributes Microchallenge](./virtual_attributes_micro_challenge.md) 
+- [Rails + AJAX Microchallenge](./rails_ajax_micro_challenge.md)
+
+### JavaScript
+- [OOJS & Jasmine Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
+- Behavior Drill: [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge)
+- [miniQuery Challenge](../../../../miniQuery-challenge)
+- Behaviour Drill: [Post-Its 1](../../../../behavior-drill-post-it-board-v1-challenge)
+- Behaviour Drill: [Post-Its 2](../../../../behavior-drill-post-it-board-v2-challenge)
+- [Thick Client in Rails Challenge](../../../../build-a-thick-client-on-rails-challenge)
+
+Readings:
+- Read [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- Read [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+ - Read [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
+ - Read [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+### Front-end
+- [Responsive Design microchallenge](./responsive_design.md)
+- [Html5 microchallenge](html5.md)
+- [Psuedo-selectors microchallenge](./psuedo_selectors.md)
+- [Psuedo-elements & icon fonts microchallenge](./psuedo_elements.md)
+
+### Other stuff
+- [Git with it](git-with-it)
+- [12 Factor microchallenge](12_factor.md)
+-----
+
 
 ## Day 4
 
@@ -59,14 +106,14 @@ week.
 	- Talks
 	- Final Projects
 - pm - Teacher consultation
-
-
-
+- 5:50pm Stand-up
 
 ## Day 5
 
-- all day: final projects
-- finish all microchallenges
+- am & pm
+	- Talks
+	- Final Projects
+- 5:50pm Stand-up
 
 
 ## Weekend
@@ -75,4 +122,3 @@ week.
 the *[process for the group  project
 demos](../group_project_process#demos)*.
  - Write talk **blog post** and put link in submissions wiki
- - **finish ALL microchallenges** (week 1 and week 2)
