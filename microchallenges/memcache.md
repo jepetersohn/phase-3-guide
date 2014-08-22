@@ -40,6 +40,6 @@ Rails.cache.fetch do ... end
 
 Your caching strategy should address invalidation / expiration.
 
-Remember what I said earlier today -- the hard part isn't knowing *how* to optimize. The challenge is knowing *what* and *when* to optimize.
+Remember -- the hard part isn't knowing *how* to optimize. The challenge is knowing *what* and *when* to optimize.
 
 For extra-credit: setup Memcached on Heroku

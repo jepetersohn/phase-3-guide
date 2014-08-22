@@ -7,22 +7,24 @@
 - am:
   - Choose [Gemsy talk topics](./gemsy_talk_topics.md)
 	- Group Project [Demos](../group_project_process.md#demos)
+	- Lecture: Rails Patterns & Refactoring 
+  - [Refactor-this challenge](../../../../refactor-this-challenge)
+- pm
+	- *in-person group project code review*
 	- Lecture: Web Performance
 	- [Karmaville challenge](../../../../karmaville)
-- pm
-	- in-person group project code review
-	- continue [Karmaville challenge](../../../../karmaville)
 	- [AJAX with Tabs](../../../../ajax-tabs-challenge) - front-end
 performance
-  - 5:50pm Stand-up
+- 5:30pm Final Project Discussion
+- 5:50pm Stand-up
 - 6pm
-	- [Choice of Challenges](#choice-of-challenges)
+	- continue days challenges
+	- *Stretch*: [Choice of Challenges](#choice-of-challenges)
 
 ## Day 2: JavaScript & Jasmine
 
 - am
-	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
-- Release 0 & 1
+	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge) &mdash; Release 0 & 1
 	- Lecture: Jasmine and OOJS
 	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
 - Release 2
@@ -52,7 +54,6 @@ week.
 ## Choice of Challenges
 
 #### Break out options
-- Rails patterns & refactoring (*highly recommended*)
 - Rails & AJAX
 - Advanced Git
 - Redis
@@ -67,12 +68,13 @@ Workshop](../../../../stackoverflow-workshop-challenge) - Release 5
 - [Stackoverflow
 Workshop](../../../../stackoverflow-workshop-challenge) - Release 6
 - [Todo MVC challenge](../../../todomvc-rails-challenge)
-- [Memcached microchallenge](./memcached-microchallenge.md)
-- [Persistence microchallenge](./persistence-microchallenge.md)
-- [Custom Routing Microchallenge](./custom_routes.md)
-- [Strong Parameters Microchallenge](./strong_parameters.md)
-- [Virtual Attributes Microchallenge](./virtual_attributes_micro_challenge.md) 
-- [Rails + AJAX Microchallenge](./rails_ajax_micro_challenge.md)
+- [Memcached microchallenge](../microchallenges/memcached.md)
+- [Persistence microchallenge](../microchallenges/persistence.md)
+- [Custom Routing Challenge](../microchallenges/rails-routing.md)
+- [Strong Parameters](../microchallenges/strong-parameters.md)
+- [Mass Assignment Vulernability](../microchallenges/mass-assignment.md)
+- [Virtual Attributes](../microchallenges/virtual-attributes.md)
+- [Rails + AJAX](../microchallenges/rails-ajax.md)
 
 ### JavaScript
 - [OOJS & Jasmine Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
@@ -89,14 +91,14 @@ Readings:
  - Read [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ### Front-end
-- [Responsive Design microchallenge](./responsive_design.md)
-- [Html5 microchallenge](html5.md)
-- [Psuedo-selectors microchallenge](./psuedo_selectors.md)
-- [Psuedo-elements & icon fonts microchallenge](./psuedo_elements.md)
+- [Responsive Design microchallenge](../microchallenges/responsive_design.md)
+- [Html5 microchallenge](../microchallenges/html5.md)
+- [Psuedo-selectors microchallenge](../microchallenges/psuedo_selectors.md)
+- [Psuedo-elements & icon fonts microchallenge](../microchallenges/psuedo_elements.md)
 
 ### Other stuff
-- [Git with it](git-with-it)
-- [12 Factor microchallenge](12_factor.md)
+- [Git with it](../../../../git-with-it)
+- [12 Factor microchallenge](../microchallenges/12_factor.md)
 -----
 
 

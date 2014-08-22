@@ -6,26 +6,33 @@ Read the [section in the Overview on Rails](../README#rails).
 
 **Note: You are NOT allowed to use Rails generators this week**
 
+_Note #2: You should be pairing during all core hours, *including
+Wednesday*_
 
 ## Day 1: Intro
 
 - 9a - Welcome new phase 1 students
-- am 
+- am
   - Teach phase 2 something
   - [Do the self-assessment](./self-assessment.md)
 - 2p - Welcome to Phase 3
-- pm 
+- pm
   - **Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)**
 	- Choose [Railsy Talk Topic](./railsy_talk_topics.md)
   - Rails Q & A
-  - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge)
+  - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge) - Be sure to cover ...
+    - Routing: named routes, url helpers
+    - CRUD using form_for
+    - link_to with :method => :delete
+    - Mass assignment / strong parameters
 - 5:50pm Stand-up
 - 6pm
   - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
   - Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
-  - Prepare at least 5 questions *each* on Rails & Rspec
+  - _Prepare at least 5 questions *each* on Rails & Rspec_
+  - *Stretch*: [Rails microchallenges](#rails-microchallenges)
 
-## Day 2: Testing & Patterns
+## Day 2: Testing
 
 - 9a
   - Rails Q&A
@@ -43,11 +50,16 @@ Read the [section in the Overview on Rails](../README#rails).
 - 4:30pm - EE
 - 5:50pm - Standup
 - 6p 
-  - Micro-challenge: [Custom Routing
-Challenge](./custom_routes.md), [Virtual
-Attributes](./virtual_attributes_micro_challenge.md), [Rails + AJAX](./rails_ajax_micro_challenge.md)
-  - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/s/7lt81jhiwku612q/Rspec_Book.pdf)
   - **Prepare testing related questions based on your challenges**
+  - Prepare Railsy talk
+  - *Stretch*: [Rails microchallenges](#rails-microchallenges)
+
+### Rails Microchallenges
+- [Custom Routing Challenge](../microchallenges/rails-routing.md)
+- [Strong Parameters](../microchallenges/strong-parameters.md)
+- [Mass Assignment Vulernability](../microchallenges/mass-assignment.md)
+- [Virtual Attributes](../microchallenges/virtual-attributes.md)
+- [Rails + AJAX](../microchallenges/rails-ajax.md)
 
 
 ## Day 3: Stack Overflow Workshop
@@ -58,8 +70,7 @@ Attributes](./virtual_attributes_micro_challenge.md), [Rails + AJAX](./rails_aja
 - am 
   - [Stackoverflow Workshop](../../../../stackoverflow-workshop-challenge) - Release 1
   - Workshop Q & A
-  - [Stackoverflow
-Workshop](../../../../stackoverflow-workshop-challenge) - Release 2
+  - [Stackoverflow Workshop](../../../../stackoverflow-workshop-challenge) - Release 2
   - Workshop Q & A
 - 2p
   - Railsy Talks
@@ -75,6 +86,7 @@ Workshop](../../../../stackoverflow-workshop-challenge) - Release 4
   - Read up on good commit messages
     - [5 Tipes for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
     - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+  - *Stretch*: [Rails microchallenges](#rails-microchallenges)
 
 ## Day 4:  Group Project - Agile & Design Workshops
 [Group assignments](../../wiki)
@@ -88,12 +100,10 @@ This project should be created **with TDD** and using the **[group project proce
 
 - am
  	- Railsy Talks
- 	- Lecture: Review Group Project Process
+ 	- Lecture: Group Project Process, Git Workflow, & CI
  	- Choose group project
  	- Lecture: Agile Refresher
- 	- Create Trello and user stories
- 	- Present group trello & user stories
- 	- [Design & Frontend workshop](./design_workshop.md)
+ 	- Create & Trello, user stories, and README
 - pm
  	- Railsy Talks
   - [Design & Frontend workshop](./design_workshop.md)

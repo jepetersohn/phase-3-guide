@@ -3,7 +3,7 @@
 ## Required
 1. [Steven's self-assessment for incoming phase 3 students](self-assessment.md)
 - Go through [Learning Rails](./learning-rails.md)
-- [Build a Rails Blog](../../../../suild-a-rails-blog)
+- [Build a Rails Blog](../../../../build-a-rails-blog)
 - Deploy your Rails app to heroku
 - Write a list of questions you have about Rails
 
@@ -17,8 +17,3 @@
 
 ### Blog with ruby
 **Blog with jekyll or middleman**. Read [create a blog and a blog post](./blog.md)
-
-### Testing
-Learn about testing, rspec, TDD, and BDD
-* Watch [this presentation on TDD](http://www.youtube.com/watch?v=HhwElTL-mdI). Take markdown notes on the video and **share a link to your notes as a gist**.
-
