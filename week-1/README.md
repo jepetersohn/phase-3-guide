@@ -14,7 +14,7 @@ Wednesday*_
 - 9a - Welcome new phase 1 students
 - am
   - Teach phase 2 something
-  - [Do the self-assessment](./self-assessment.md)
+  - [Do the self-assessment](../../self-assessment.md)
 - 2p - Welcome to Phase 3
 - pm
   - **Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)**
