@@ -2,7 +2,7 @@
 
 [Groups, Resources, and more!](../../../wiki)
 
-Read the [section in the Overview on Rails](../README.md#rails).
+Read the [section in the Overview on Rails](../README.md#on-rails).
 
 **Note: You are NOT allowed to use Rails generators this week**
 
