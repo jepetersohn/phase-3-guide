@@ -2,7 +2,7 @@
 
 [Groups, Resources, and more!](../../../wiki)
 
-Read the [section in the Overview on Rails](../../../README.md#rails).
+Read the [section in the Overview on Rails](../README.md#rails).
 
 **Note: You are NOT allowed to use Rails generators this week**
 
@@ -14,7 +14,7 @@ Wednesday*_
 - 9a - Welcome new phase 1 students
 - am
   - Teach phase 2 something
-  - [Do the self-assessment](../../../self-assessment.md)
+  - [Do the self-assessment](../self-assessment.md)
 - 2p - Welcome to Phase 3
 - pm
   - **Read the [Phase 3 Guide](../README.md) and [Github Workflow](../git-workflow.md)**
@@ -55,11 +55,11 @@ Wednesday*_
   - *Stretch*: [Rails microchallenges](#rails-microchallenges)
 
 ### Rails Microchallenges
-- [Custom Routing Challenge](../../../microchallenges/rails-routing.md)
-- [Strong Parameters](../../../microchallenges/strong-parameters.md)
-- [Mass Assignment Vulernability](../../../microchallenges/mass-assignment.md)
-- [Virtual Attributes](../../../microchallenges/virtual-attributes.md)
-- [Rails + AJAX](../../../microchallenges/rails-ajax.md)
+- [Custom Routing Challenge](../microchallenges/rails-routing.md)
+- [Strong Parameters](../microchallenges/strong-parameters.md)
+- [Mass Assignment Vulernability](../microchallenges/mass-assignment.md)
+- [Virtual Attributes](../microchallenges/virtual-attributes.md)
+- [Rails + AJAX](../microchallenges/rails-ajax.md)
 
 
 ## Day 3: Stack Overflow Workshop
