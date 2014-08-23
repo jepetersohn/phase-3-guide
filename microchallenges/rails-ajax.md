@@ -1,12 +1,50 @@
-# Rails and AJAX
+# Microchallenge: Rails and AJAX
 
-This micro-challenge will help you brush up on AJAX and get practice using it in Rails.
+## Overview
 
-Create a new feature branch and AJAXify one of your forms. Good candidates include voting (if you're far enough in), commenting, posting answers, and signup.
+This micro-challenge will help reinforce your understanding of using AJAX with Rails. In order to attempt this challenge you'll need at least one form (post) and one get request to AJAXify.
 
-Make the user experience spectacular. You should think through decisions such as:
+There are actually 2 ways to use AJAX with Rails and we will try both.
 
-how will you handle invalid input or errors?
-do you want the server to return json or html?
+Begin each challenge by creating a new feature branch of the app you started building today (or any other app you've built). Name the branch whatever you'd like because we'll be throwing it away once we're done with this challenge.
 
-Please submit your solution via pull request to your project repo (not the guide).
+Consider:
+- How will you handle invalid input or errors?
+- Do you want the server to return json or html?
+
+## Challenge 1: remote: true
+
+Use the Rails form helper `remote: true` method.
+
+### Release 1
+
+Use ajax for the get request.  Insert the response into the DOM.
+
+### Release 2
+
+AJAXIFY the form.  Send the form data to the server and send back a success or error.
+
+
+
+## Challenge 2: jQuery AJAX
+
+For these releases, you will use good old jQuery &mdash; just like you did in Phase 2 with Sinatra!
+
+Easy Peasy! Right?
+
+Well ... Rails, for security reasons, makes this a little harder for us.
+
+Research Rails, jQuery, and csrf.
+
+*hint: there is more than one way to do this.  Look into setRequestHeader, ajax.setUp and beforeSend and try each one out!*
+
+### Release 1
+
+Use ajax for the get request.  Insert the response into the DOM.
+
+AJAXIFY the form
+
+### Release 2
+
+ the form.  Send the form data to the server and send back a success or error.
+
