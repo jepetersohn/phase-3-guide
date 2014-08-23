@@ -2,7 +2,7 @@
 # Week 2
 
 
-## Day 1: Web Performance
+## Day 1: Rails Patterns & Web Performance
 
 - am:
   - Choose [Gemsy talk topics](./gemsy_talk_topics.md)
@@ -99,6 +99,7 @@ Readings:
 ### Other stuff
 - [Git with it](../../../../git-with-it)
 - [12 Factor microchallenge](../microchallenges/12_factor.md)
+
 -----
 
 
