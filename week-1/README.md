@@ -18,7 +18,7 @@ Wednesday*_
 - 2p - Welcome to Phase 3
 - pm
   - **Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)**
-	- Choose [Railsy Talk Topic](./railsy_talk_topics.md)
+  - Choose [Railsy Talk Topic](./railsy_talk_topics.md)
   - Rails Q & A
   - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge) - Be sure to cover ...
     - Routing: named routes, url helpers
@@ -43,8 +43,8 @@ Wednesday*_
     - [Todo](../../../../rspec-drill-simple-todo-challenge)
   - [TDD Telephone](../../../../tdd-telephone-challenge)
 - 2pm
-	- Rspec Q & A
-	- Lecture: Intro to Rspec & Rails
+  - Rspec Q & A
+  - Lecture: Intro to Rspec & Rails
 - pm
   - [Rails / Rspec Challenge](../../../../sf-rspec-rails-challenge)
 - 4:30pm - EE
@@ -65,8 +65,8 @@ Wednesday*_
 ## Day 3: Stack Overflow Workshop
 
 - 9am
-	- Railsy Talks
-	- Testing Q & A
+  - Railsy Talks
+  - Testing Q & A
 - am 
   - [Stackoverflow Workshop](../../../../stackoverflow-workshop-challenge) - Release 1
   - Workshop Q & A
@@ -99,13 +99,13 @@ project with roughly equal complexity to the overflow challenge.*
 This project should be created **with TDD** and use the **[group project process](../group_project_process.md)**
 
 - am
- 	- Railsy Talks
- 	- Lecture: Group Project Process, Git Workflow, & CI
- 	- Choose group project
- 	- Lecture: Agile Refresher
- 	- Create & Trello, user stories, and README
+  - Railsy Talks
+  - Lecture: Group Project Process, Git Workflow, & CI
+  - Choose group project
+  - Lecture: Agile Refresher
+  - Create & Trello, user stories, and README
 - pm
- 	- Railsy Talks
+  - Railsy Talks
   - [Design & Frontend workshop](./design_workshop.md)
     - Lecture: Design fundamentals
     - Website personality
