@@ -17,7 +17,7 @@ Wednesday*_
   - [Do the self-assessment](../../../self-assessment.md)
 - 2p - Welcome to Phase 3
 - pm
-  - **Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)**
+  - **Read the [Phase 3 Guide](../../../README) and [Github Workflow](../../../git-workflow.md)**
   - Choose [Railsy Talk Topic](./railsy_talk_topics.md)
   - Rails Q & A
   - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge) - Be sure to cover ...
