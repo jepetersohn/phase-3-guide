@@ -112,17 +112,3 @@ friendship?
 
 As a starter.... `Friend.where....`
 
-## Seven:  Testing
-
-I'm tired of writing contrived prompts.
-
-Write a controller test in RSpec syntax that evaluates whether POSTing
-`name="larry"` returns a JSON object that has a cousin atttribute with the
-value `"Balki"`.
-
-## What's up Dogg
-
-If you have any questions or difficult areas, list them here so that I might
-remedy them for you.
-
-
