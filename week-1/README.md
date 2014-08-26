@@ -46,7 +46,7 @@ Wednesday*_
   - Rspec Q & A
   - Lecture: Intro to Rspec & Rails
 - pm
-  - [Rails / Rspec Challenge](../../../../sf-rspec-rails-challenge)
+  - [Rails / Rspec Challenge](../../../../rocket-paperplane-scissors)
 - 4:30pm - EE
 - 5:50pm - Standup
 - 6p 
