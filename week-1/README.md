@@ -68,19 +68,19 @@ Wednesday*_
   - Railsy Talks
   - Testing Q & A
 - am 
-  - [Stackoverflow Workshop](../../../../stackoverflow-workshop-challenge) - Release 1
+  - [Stackoverflow Workshop](../../../../stack-overflow-workshop-challenge) - Release 1
   - Workshop Q & A
-  - [Stackoverflow Workshop](../../../../stackoverflow-workshop-challenge) - Release 2
+  - [Stackoverflow Workshop](../../../../stack-overflow-workshop-challenge) - Release 2
   - Workshop Q & A
 - 2p
   - Railsy Talks
   - Lecture: BDD and Feature/Integration Testing
 - pm 
   - [Stackoverflow
-Workshop](../../../../stackoverflow-workshop-challenge) - Release 3
+Workshop](../../../../stack-overflow-workshop-challenge) - Release 3
   - Workshop Q & A
   - [Stackoverflow
-Workshop](../../../../stackoverflow-workshop-challenge) - Release 4
+Workshop](../../../../stack-overflow-workshop-challenge) - Release 4
 - 5:50pm - Standup
 - 6pm
   - Read up on good commit messages

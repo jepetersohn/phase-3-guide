@@ -64,9 +64,9 @@ week.
 ### Rails
 - [Refactor-this challenge](../../../../refactor-this-challenge)
 - [Stackoverflow
-Workshop](../../../../stackoverflow-workshop-challenge) - Release 5
+Workshop](../../../../stack-overflow-workshop-challenge) - Release 5
 - [Stackoverflow
-Workshop](../../../../stackoverflow-workshop-challenge) - Release 6
+Workshop](../../../../stack-overflow-workshop-challenge) - Release 6
 - [Todo MVC challenge](../../../todomvc-rails-challenge)
 - [Memcached microchallenge](../microchallenges/memcached.md)
 - [Persistence microchallenge](../microchallenges/persistence.md)
