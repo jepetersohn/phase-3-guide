@@ -46,7 +46,8 @@ Wednesday*_
   - Rspec Q & A
   - Lecture: Intro to Rspec & Rails
 - pm
-  - [Rails / Rspec Challenge](../../../../rocket-paperplane-scissors)
+  - [Rocket, Paper-plane, Scissors Rails with Rspec
+Challenge](../../../../rocket-paperplane-scissors) &mdash; Release 0-2
 - 4:30pm - EE
 - 5:50pm - Standup
 - 6p 
@@ -122,10 +123,8 @@ This project should be created **with TDD** and use the **[group project process
 
 ## Day 5: Group Project
 
-- 9am - Railsy Talks
 - am - contine working on Group Project
 - 2pm
-  - Railsy Talks
   - Group Demos
 - pm - Group Project Good Times (TM)
 - 5:45pm - Recap
@@ -135,5 +134,3 @@ This project should be created **with TDD** and use the **[group project process
 ## Weekend
 - Continue working on **Group Project**
 - _Week recap_: what did we learn? Am I confused/unsure about something? **Write specific questions about the week.**
-- **Read** [Uncle Bob Martin's "Where is the Foreman?"](http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html) and [Leon Gersing's "The Last Thing We Need"](http://leongersing.tumblr.com/post/77931655536/the-last-thing-we-need) and reflect on what sort of organization you want to work in.
-
