@@ -107,7 +107,7 @@ This project should be created **with TDD** and use the **[group project process
   - Create & Trello, user stories, and README
 - pm
   - Railsy Talks
-  - [Design & Frontend workshop](./design_workshop/)
+  - [Design & Frontend workshop](./design-workshop/)
     - Lecture: Design fundamentals
     - Website personality
     - Lecture: HTML5, CSS, SASS & visual styleguides
