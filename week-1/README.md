@@ -112,7 +112,7 @@ This project should be created **with TDD** and use the **[group project process
     - Website personality
     - Wireframes
     - Lecture: HTML5, CSS, SASS & visual styleguides
-    - Group visual styleguide
+    - Group visual styleguide - [visual styleguide](../../../../visual-styleguide-challenge)
     - Lecture: Styling in Rails
     - Group styling in Rails
 - 5:50pm - Standup
