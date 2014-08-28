@@ -107,16 +107,17 @@ This project should be created **with TDD** and use the **[group project process
   - Create & Trello, user stories, and README
 - pm
   - Railsy Talks
-  - [Design & Frontend workshop](./design_workshop.md)
+  - [Design & Frontend workshop](./design_workshop/)
     - Lecture: Design fundamentals
     - Website personality
-    - Wireframes
     - Lecture: HTML5, CSS, SASS & visual styleguides
     - Group visual styleguide - [visual styleguide](../../../../visual-styleguide-challenge)
     - Lecture: Styling in Rails
     - Group styling in Rails
+    - [Wireframe your group project site](../resources/wireframing.md)
 - 5:50pm - Standup
 - 6pm
+  - Finish the visual styleguide and wireframe for your group project
   - Start coding!
   - Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
 
