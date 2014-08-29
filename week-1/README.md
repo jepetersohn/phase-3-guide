@@ -1,8 +1,8 @@
 # Week 1
 
-[Groups, Resources, and more!](../../wiki)
+[Groups, Resources, and more!](../../../wiki)
 
-Read the [section in the Overview on Rails](../README#rails).
+Read the [section in the Overview on Rails](../README.md#on-rails).
 
 **Note: You are NOT allowed to use Rails generators this week**
 
@@ -14,11 +14,11 @@ Wednesday*_
 - 9a - Welcome new phase 1 students
 - am
   - Teach phase 2 something
-  - [Do the self-assessment](./self-assessment.md)
+  - [Do the self-assessment](../self-assessment.md)
 - 2p - Welcome to Phase 3
 - pm
-  - **Read the [Phase 3 Guide](../README) and [Github Workflow](../git-workflow.md)**
-	- Choose [Railsy Talk Topic](./railsy_talk_topics.md)
+  - **Read the [Phase 3 Guide](../README.md) and [Github Workflow](../git-workflow.md)**
+  - Choose [Railsy Talk Topic](./railsy_talk_topics.md)
   - Rails Q & A
   - [Sinatra to Rails Challenge](../../../../sinatra-to-rails-pick-1-of-3-challenge) - Be sure to cover ...
     - Routing: named routes, url helpers
@@ -43,10 +43,11 @@ Wednesday*_
     - [Todo](../../../../rspec-drill-simple-todo-challenge)
   - [TDD Telephone](../../../../tdd-telephone-challenge)
 - 2pm
-	- Rspec Q & A
-	- Lecture: Intro to Rspec & Rails
+  - Rspec Q & A
+  - Lecture: Intro to Rspec & Rails
 - pm
-  - [Rails / Rspec Challenge](../../../../sf-rspec-rails-challenge)
+  - [Rocket, Paper-plane, Scissors Rails with Rspec
+Challenge](../../../../rocket-paperplane-scissors) &mdash; Release 0-2
 - 4:30pm - EE
 - 5:50pm - Standup
 - 6p 
@@ -65,22 +66,22 @@ Wednesday*_
 ## Day 3: Stack Overflow Workshop
 
 - 9am
-	- Railsy Talks
-	- Testing Q & A
+  - Railsy Talks
+  - Testing Q & A
 - am 
-  - [Stackoverflow Workshop](../../../../stackoverflow-workshop-challenge) - Release 1
+  - [Stackoverflow Workshop](../../../../stack-overflow-workshop-challenge) - Release 1
   - Workshop Q & A
-  - [Stackoverflow Workshop](../../../../stackoverflow-workshop-challenge) - Release 2
+  - [Stackoverflow Workshop](../../../../stack-overflow-workshop-challenge) - Release 2
   - Workshop Q & A
 - 2p
   - Railsy Talks
   - Lecture: BDD and Feature/Integration Testing
 - pm 
   - [Stackoverflow
-Workshop](../../../../stackoverflow-workshop-challenge) - Release 3
+Workshop](../../../../stack-overflow-workshop-challenge) - Release 3
   - Workshop Q & A
   - [Stackoverflow
-Workshop](../../../../stackoverflow-workshop-challenge) - Release 4
+Workshop](../../../../stack-overflow-workshop-challenge) - Release 4
 - 5:50pm - Standup
 - 6pm
   - Read up on good commit messages
@@ -96,36 +97,35 @@ Workshop](../../../../stackoverflow-workshop-challenge) - Release 4
 example](../../../../overflow-challenge). You should create a group
 project with roughly equal complexity to the overflow challenge.*
 
-This project should be created **with TDD** and using the **[group project process](../group_project_process.md)**
+This project should be created **with TDD** and use the **[group project process](../group_project_process.md)**
 
 - am
- 	- Railsy Talks
- 	- Lecture: Group Project Process, Git Workflow, & CI
- 	- Choose group project
- 	- Lecture: Agile Refresher
- 	- Create & Trello, user stories, and README
+  - Railsy Talks
+  - Lecture: Group Project Process, Git Workflow, & CI
+  - Choose group project
+  - Lecture: Agile Refresher
+  - Create & Trello, user stories, and README
 - pm
- 	- Railsy Talks
-  - [Design & Frontend workshop](./design_workshop.md)
+  - Railsy Talks
+  - [Design & Frontend workshop](./design-workshop/)
     - Lecture: Design fundamentals
     - Website personality
-    - Wireframes
     - Lecture: HTML5, CSS, SASS & visual styleguides
-    - Group visual styleguide
+    - Group visual styleguide - [visual styleguide](../../../../visual-styleguide-challenge)
     - Lecture: Styling in Rails
     - Group styling in Rails
+    - [Wireframe your group project site](../resources/wireframing.md)
 - 5:50pm - Standup
 - 6pm
+  - Finish the visual styleguide and wireframe for your group project
   - Start coding!
   - Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
 
 
 ## Day 5: Group Project
 
-- 9am - Railsy Talks
 - am - contine working on Group Project
 - 2pm
-  - Railsy Talks
   - Group Demos
 - pm - Group Project Good Times (TM)
 - 5:45pm - Recap
@@ -135,5 +135,3 @@ This project should be created **with TDD** and using the **[group project proce
 ## Weekend
 - Continue working on **Group Project**
 - _Week recap_: what did we learn? Am I confused/unsure about something? **Write specific questions about the week.**
-- **Read** [Uncle Bob Martin's "Where is the Foreman?"](http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html) and [Leon Gersing's "The Last Thing We Need"](http://leongersing.tumblr.com/post/77931655536/the-last-thing-we-need) and reflect on what sort of organization you want to work in.
-
