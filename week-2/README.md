@@ -6,32 +6,32 @@
 
 - am:
   - Choose [Gemsy talk topics](./gemsy_talk_topics.md)
-	- Group Project [Demos](../group_project_process.md#demos)
-	- Lecture: Rails Patterns & Refactoring 
+  - Group Project [Demos](../group_project_process.md#demos)
+  - Lecture: Rails Patterns & Refactoring 
   - [Refactor-this challenge](../../../../refactor-this-challenge)
 - pm
-	- *in-person group project code review*
-	- Lecture: Web Performance
-	- [Karmaville challenge](../../../../karmaville)
-	- [AJAX with Tabs](../../../../ajax-tabs-challenge) &mdash; front-end
+  - *in-person group project code review*
+  - Lecture: Web Performance
+  - [Karmaville challenge](../../../../karmaville)
+  - [AJAX with Tabs](../../../../ajax-tabs-challenge) &mdash; front-end
 performance
 - 5:30pm Final Project Discussion
-- 5:50pm Stand-up
 - 6pm
-	- continue days challenges
+	- continue day's challenges
+	- Prepare Gem Talk
 	- *Stretch*: [Choice of Challenges](#choice-of-challenges)
 
 ## Day 2: JavaScript & Jasmine
 
 - am
-	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge) &mdash; Release 0 & 1
-	- Lecture: Jasmine and OOJS
-	- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
-- Release 2
+  - Breakout: OOJS review
+  - [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge) &mdash; Release 0 & 1
+  - Lecture: Jasmine and OOJS
+  - [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge) &mdash; Release 2
 - pm
 	- Talks
 	- [Choice of Challenges](#choice-of-challenges)
-  - 5:50pm Stand-up
+- 5:50pm Stand-up
 - 6pm
 	- Prepare for pitches
 	- [Choice of Challenges](#choice-of-challenges)
@@ -45,8 +45,8 @@ performance
 - 2pm - PITCHES!!
 - pm
 	- [Choice of Challenges](#choice-of-challenges)
-  - 5:50pm Stand-up
-- 6pm 
+- 5:50pm Stand-up
+- 6pm
  	- Start final projects
 week.
 
@@ -62,7 +62,6 @@ week.
 - APIs in Rails
 
 ### Rails
-- [Refactor-this challenge](../../../../refactor-this-challenge)
 - [Stackoverflow
 Workshop](../../../../stack-overflow-workshop-challenge) - Release 5
 - [Stackoverflow
@@ -77,10 +76,8 @@ Workshop](../../../../stack-overflow-workshop-challenge) - Release 6
 - [Rails + AJAX](../microchallenges/rails-ajax.md)
 
 ### Testing
-  - [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors) &mdash; Release 3
-- [Rails/Rspec Challenge with
-sessions](../../../../sf-rspec-rails-challenge)
+- [Rocket, Paper-plane, Scissors Rails with Rspec Challenge](../../../../rocket-paperplane-scissors) &mdash; Release 3 & 4
+- [Rails/Rspec Challenge with sessions](../../../../sf-rspec-rails-challenge)
 - [Rails/Rspec Challenge with HTTP auth](../../../../rails-rspec)
 - [Bank Account Rspec Drill](../../../../rspec-drill-bank-account-challenge)
 - [Cookie Rspec Drill](../../../../rspec-drill-test-a-cookie-challenge)
@@ -102,8 +99,8 @@ Readings:
 Readings:
 - Read [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - Read [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
- - Read [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
- - Read [Eloquent JavaScript](http://eloquentjavascript.net/)
+- Read [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
+- Read [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ### Front-end
 - [Responsive Design microchallenge](../microchallenges/responsive_design.md)
@@ -119,11 +116,11 @@ Readings:
 ### Professional Development
 - [Git with it](../../../../git-with-it)
 - [12 Factor microchallenge](../microchallenges/12_factor.md)
+- [Getting your rails app ready for the Major League](../resources/rails_app_major_league.md)
 
 Readings:
 - [Git pull vs. git pull rebase](http://stackoverflow.com/a/18930564)
-- [Git team workflows: merge or
-rebase?](http://blogs.atlassian.com/2013/10/git-team-workflows-merge-or-rebase/)
+- [Git team workflows: merge or rebase?](http://blogs.atlassian.com/2013/10/git-team-workflows-merge-or-rebase/)
 - [Git Rebase](http://git-scm.com/docs/git-rebase)
 
 ### Agile & Team Process
