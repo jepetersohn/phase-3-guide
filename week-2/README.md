@@ -90,6 +90,7 @@ Readings:
 
 ### JavaScript
 - [OOJS & Jasmine Cookies and Ovens Drill](../../../../behavior-drill-cookies-and-ovens-challenge)
+- [AJAX with Tabs](../../../../ajax-tabs-challenge) &mdash; write Jasmine tests for your JavaScript
 - Behavior Drill: [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge)
 - [miniQuery Challenge](../../../../miniQuery-challenge)
 - Behaviour Drill: [Post-Its 1](../../../../behavior-drill-post-it-board-v1-challenge)
