@@ -66,8 +66,8 @@ week.
 Workshop](../../../../stack-overflow-workshop-challenge) - Release 5
 - [Stackoverflow
 Workshop](../../../../stack-overflow-workshop-challenge) - Release 6
-- [Todo MVC challenge](../../../todomvc-rails-challenge)
-- [Memcached microchallenge](../microchallenges/memcached.md)
+- [Todo MVC challenge](../../../../todomvc-rails-challenge)
+- [Memcached microchallenge](../microchallenges/memcache.md)
 - [Persistence microchallenge](../microchallenges/persistence.md)
 - [Custom Routing Challenge](../microchallenges/rails-routing.md)
 - [Strong Parameters](../microchallenges/strong-parameters.md)
