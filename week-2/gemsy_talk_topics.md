@@ -44,7 +44,6 @@ Resources
 
 #### Server-initiated communication
 * Firebase
-* Pusher
 * Web sockets
 * Pub-Sub
 * long polling
@@ -66,7 +65,8 @@ Resources
 * Paperclip
 * Carrierwave
 * Dragonfly
-*
+
+
 #### Pagination, searching, sorting, and parsing
 
 * Kaminari
@@ -105,11 +105,11 @@ Resources
 #### Optimizing and alternative deployments
 
 * Unicorn
-* Bluepill
-* Vagrant
 * Deploying with AWS
 * Moving your database to RDS
 * Storing uploads on S3
+* Bluepill
+* Vagrant
 
 
 Resources

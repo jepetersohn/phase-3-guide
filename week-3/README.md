@@ -24,7 +24,7 @@ Create a [pull request for your code review](./code_review_process.md) *before* 
 	- Work on your project
 	- Booster sessions - your choice (optional)
 - 6pm
-	- Read [Getting your rails app ready for the Major League](./rails_app_major_league.md)
+	- Read [Getting your rails app ready for the Major League](../resources/rails_app_major_league.md)
 
 
 ## Day 3: Wrap up

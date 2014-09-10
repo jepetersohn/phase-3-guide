@@ -7,7 +7,7 @@
 - Deploy your Rails app to heroku
 - Write a list of questions you have about Rails
 
-[Rails Resources](../../rails-resources.md)
+[Rails Resources](../rails-resources.md)
 
 ## Stretch
 

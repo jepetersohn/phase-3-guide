@@ -9,6 +9,8 @@ Resources
 
 ### 1 - Analyze
 (30 mins)
+With your group, decide what the personality of your site.
+
 In pairs, find 2 websites that you both really like (both
 funtionality/content and visually) and answer the following questions:
 

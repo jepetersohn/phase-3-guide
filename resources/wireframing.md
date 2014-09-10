@@ -1,4 +1,4 @@
-# U1.W1: Wireframing
+# Wireframing
 
 ## Learning Competencies
 - Wireframe your group project

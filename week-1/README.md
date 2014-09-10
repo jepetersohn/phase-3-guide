@@ -27,6 +27,7 @@ Wednesday*_
     - Mass assignment / strong parameters
 - 5:50pm Stand-up
 - 6pm
+  - continue day's challenge
   - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
   - Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
   - _Prepare at least 5 questions *each* on Rails & Rspec_
@@ -50,9 +51,10 @@ Wednesday*_
 Challenge](../../../../rocket-paperplane-scissors) &mdash; Release 0-2
 - 4:30pm - EE
 - 5:50pm - Standup
-- 6p 
+- 6p
   - **Prepare testing related questions based on your challenges**
   - Prepare Railsy talk
+  - Review [Rails resources](../rails-resources.md)
   - *Stretch*: [Rails microchallenges](#rails-microchallenges)
 
 ### Rails Microchallenges
@@ -68,7 +70,7 @@ Challenge](../../../../rocket-paperplane-scissors) &mdash; Release 0-2
 - 9am
   - Railsy Talks
   - Testing Q & A
-- am 
+- am
   - [Stackoverflow Workshop](../../../../stack-overflow-workshop-challenge) - Release 1
   - Workshop Q & A
   - [Stackoverflow Workshop](../../../../stack-overflow-workshop-challenge) - Release 2
@@ -76,14 +78,14 @@ Challenge](../../../../rocket-paperplane-scissors) &mdash; Release 0-2
 - 2p
   - Railsy Talks
   - Lecture: BDD and Feature/Integration Testing
-- pm 
+- pm
   - [Stackoverflow
 Workshop](../../../../stack-overflow-workshop-challenge) - Release 3
   - Workshop Q & A
   - [Stackoverflow
 Workshop](../../../../stack-overflow-workshop-challenge) - Release 4
-- 5:50pm - Standup
 - 6pm
+  - finish Stackoverflow challenge - Releases 1-4
   - Read up on good commit messages
     - [5 Tipes for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
     - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
@@ -101,21 +103,20 @@ This project should be created **with TDD** and use the **[group project process
 
 - am
   - Railsy Talks
-  - Lecture: Group Project Process, Git Workflow, & CI
   - Choose group project
+  - Lecture/Workshop: Group Project Process, Git Workflow, & CI
   - Lecture: Agile Refresher
-  - Create & Trello, user stories, and README
+  - Create Trello, user stories, and README
 - pm
   - Railsy Talks
   - [Design & Frontend workshop](./design-workshop/)
     - Lecture: Design fundamentals
-    - Website personality
+    - Website personality & inspiration
     - Lecture: HTML5, CSS, SASS & visual styleguides
     - Group visual styleguide - [visual styleguide](../../../../visual-styleguide-challenge)
     - Lecture: Styling in Rails
     - Group styling in Rails
     - [Wireframe your group project site](../resources/wireframing.md)
-- 5:50pm - Standup
 - 6pm
   - Finish the visual styleguide and wireframe for your group project
   - Start coding!
@@ -125,10 +126,8 @@ This project should be created **with TDD** and use the **[group project process
 ## Day 5: Group Project
 
 - am - contine working on Group Project
-- 2pm
-  - Group Demos
-- pm - Group Project Good Times (TM)
-- 5:45pm - Recap
+- 2pm - Group Project Good Times (TM)
+- 5pm - Recap
 - 6pm
 	- **Write a blog post tutorial** on your Railsy Talk Topic.  Add the link to your blog post to the wiki.
 
