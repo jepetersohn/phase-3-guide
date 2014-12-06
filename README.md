@@ -129,7 +129,7 @@ teacher _last_.  When engaging with any of these parties, most especially the
 first party, it is absolutely paramount that you ask the question properly.
 80% of the time a question that would be asked of another or of a forum could
 be avoided entirely if the asker takes the time to formulate the question
-clearly Your teacher demands that you ask me focused, targeted questions that
+clearly.  Your teacher demands that you ask me focused, targeted questions that
 indicate the strength and character of your mental model.
 
 ### How to Ask Good Questions
