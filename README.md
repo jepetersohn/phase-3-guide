@@ -167,6 +167,27 @@ the problem, but if you're living a reality that will make statements of the
 form "I spend 3 hours on this one bug" true, ask for help.  You may be
 struggling with code which relies on a broken mental model.
 
+## On Interruption
+
+Developers' time is valuable and in the real world you will work alone much
+more than you will work paired. Your business value proposition (i.e. that you
+generate more revenue than you cost) requires that you generate value
+efficiently; this expectation holds for all of your peers as well. Please have
+some politness and respect for your interlocutor's time e.g.:
+
+> "Hey Irene, I see you're staring off into space, can you explain to me what
+this method does?"
+
+Shouting something that's on the top of your mind to someone who has headphones
+in may result them losing their focus. Assuming that other peoples' time and
+attention is yours is flat-out rude and is not tolerated professionally.  Be
+willing to accept deferral and to defer. It's not saying "I don't like you" or
+"I don't know," it's saying I'll be more receptive to you in just a little bit.
+Respect this.
+
+Incidentally, those whom you would interact with will be much more willing to
+help you a second time if you ask focused questions and write things down.
+
 ## Conclusion
 
 - Don't be attached to your code, my job is to be critical and opinionated :)
