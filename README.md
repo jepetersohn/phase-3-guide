@@ -45,15 +45,11 @@ You should read it all, but...
 
 ## Challenges
 
-- Daily standup at 9 a.m., each person will talk about what they've worked on yesterday (lessons learned from yesterday's challenges), what they're planing today and any blockers.
-- Phase 3 will try to simulate more real world experiences, and you should no longer think of yourselves as classmates but rather teammates or coworkers.
-- Challenges will be bigger and more vague. A lot of the problem will be how strategizing how to approach the problem: like debugging or researching a problem.
-- The emphasis of challenges are on the process of problem solving, not the solution.
-- Code quality is #1.
-- Challenges will be bigger and more vague. A lot of the problem will be how strategizing how to approach the problem: like debugging or researching a problem.
-- The emphasis of challenges is on the process of problem solving, not the
-  solution.  _We expect that you can complete any challenge at this point.  HOW
-you complete it is at stake_.
+Challenges will be bigger and more vague. A lot of the problem will be
+strategizing how to approach the problem: like debugging or researching a
+problem.  The emphasis of challenges is on the process of problem solving, not
+the solution.  _We expect that you can complete any challenge at this point.
+HOW you complete it is at stake_.  Code quality is #1.
 
 ## Rails
 
