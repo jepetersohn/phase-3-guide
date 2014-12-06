@@ -155,9 +155,9 @@ call this process "debugging."
 
 Have log files, unit tests, etc. handy when you engage these peers and we will
 be able to focus, solve, and move on.  If anyone asks for help but doesn't show
-you the respect of formulating a question, you should feel proud in asking them
-to formulate a clearer question for you.  All our time is precious and we
-must all show each other due respect.
+you the respect of formulating a question, you should ask them to formulate a
+clearer question for you.  All our time is precious and we must all show each
+other due respect.
 
 ## Conclusion
 
