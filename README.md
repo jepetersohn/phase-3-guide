@@ -72,20 +72,11 @@ generate` command, feel free).
 ## Feedback
 
 Don't be attached to your code, our job is to be critical and opinionated :)
-Occasionally a criticism will be reducible to a question of style.  Both of us
-are professional Rails developers.  We may occasionally give you guidance that
-is justified by "that's not idiomatic Rails."  That's "taste" and while we hope
-you have aquired some sense of it in the previous phases, we will try to help
-you further refine it during our time together.
-
-
-### On Taste
-
-![quote by Ira Glass on beginners](ira-glass-quote.jpg)
-
--- Ira Glass
-
-### On Feedback Style
+Occasionally a criticism will be reducible to a question of style.  Your
+teachers are professional Rails developers.  We may occasionally give you
+guidance that is justified by "that's not idiomatic Rails."  That's "taste" and
+while we hope you have aquired some sense of it in the previous phases, we will
+try to help you further refine it during our time together.
 
 In Phase 3, part of our goal is to debug your thought process.  If you say you
 are weak, we will give you exercises.  If you give us a bad process, we will ask
@@ -97,14 +88,20 @@ In short, we're going to ask you to be completely **responsible**.  Lamentably
 this expectation seems to have gone out of fashion these days, but that is not
 the case here.
 
+### On Taste
+
+![quote by Ira Glass on beginners](ira-glass-quote.jpg)
+
+-- Ira Glass
+
 ## De Sententiis (On Opinions)
 
 When someone gives you an observation, it is your obligation to hold them
 accountable to that opinion.  When a coach comes along and says "ERB sucks,
-HAML is the bomb" it is your **job** to ask that individiual:  "Wombat Salar,
-why do you say this?  What problem does this solve?  What companies are using
-this?  Who are the main contributors on this?  What's their philosophy?  What's
-the point of view behind this thing?"
+HAML is the bomb" it is your **job** to ask that individiual:  "Why do you say
+this?  What problem does this solve?  What companies are using this?  Who are
+the main contributors on this?  What's their philosophy?  What's the point of
+view behind this thing?"
 
 While it's important to leave your mind open for input, it's also important to
 know when you need *not* heed some advice.  As Kipling says in "If:"
