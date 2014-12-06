@@ -158,7 +158,7 @@ you the respect of formulating a question, you should ask them to formulate a
 clearer question for you.  All our time is precious and we must all show each
 other due respect.
 
-### Manage your Time
+### Manage Your Time
 
 That said, if you feel you are spending too much time on a question, **stop**
 and ask for help.  Try to ask for it in a way that means you've tried to debug
@@ -177,12 +177,16 @@ some politness and respect for your interlocutor's time e.g.:
 > "Hey Irene, I see you're staring off into space, can you explain to me what
 this method does?"
 
+or
+
+> "Coach Derpington, can you tell me how to create a JavaScript class?"
+
 Shouting something that's on the top of your mind to someone who has headphones
 in may result them losing their focus. Assuming that other peoples' time and
-attention is yours is flat-out rude and is not tolerated professionally.  Be
-willing to accept deferral and to defer. It's not saying "I don't like you" or
-"I don't know," it's saying I'll be more receptive to you in just a little bit.
-Respect this.
+attention is yours for the taking is flat-out rude and is not tolerated
+professionally.  Be willing to accept deferral and to defer. It's not saying "I
+don't like you" or "I don't know," it's saying "I'll be more receptive to you
+in just a little bit."  Respect this.
 
 Incidentally, those whom you would interact with will be much more willing to
 help you a second time if you ask focused questions and write things down.
