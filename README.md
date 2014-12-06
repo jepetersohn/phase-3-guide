@@ -64,8 +64,10 @@ views) from a blank editor screen is a skill you **must** develop.  An
 interviewer will be none-too-impressed if your ability to write a controller is
 hamstrung by access to the Rails generators.
 
-**EXCEPTION**:  You may feel free to `rails generate migration`.  Why?  Because
-figuring out time-stamps is irritating.
+**EXCEPTIONS**:  You may feel free to `rails generate migration`.  Why?  Because
+figuring out time-stamps is irritating.  Also if you install a gem (for
+instance `rspec-rails` which finalized its install by running a `rails
+generate` command, feel free).
 
 ## Feedback
 
