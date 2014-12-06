@@ -37,14 +37,8 @@ You should read it all, but...
 
 ## Daily Schedule
 
-- Daily standup at 9 a.m.
-  - Be on time, this will be an expectation upon graduation
-  - Each person will answer **the three questions**
-    - What you did yesterday (or, lessons learned from yesterday's challenges)
-    - What you plan to do today
-    - Any blockers
 - Lectures
-  - We will lecture around 9:15 and 2:00 daily
+  - We will lecture around 10:00 and 2:00 daily
   - ...but we will ocassionally have surprise break-outs
   - ...and we may occasionally drop lectures if we think we'll be interrupting
     your flow
