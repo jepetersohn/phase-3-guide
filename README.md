@@ -44,11 +44,11 @@ You should read it all, but...
 
 ## Challenges
 
-Challenges will be bigger and more vague. A lot of the problem will be
-strategizing how to approach the problem: like debugging or researching a
-problem.  The emphasis of challenges is on the process of problem solving, not
-the solution.  _We expect that you can complete any challenge at this point.
-HOW you complete it is at stake_.  Code quality is #1.
+Challenges will be bigger and more vague. A lot of the challenge's value will
+be realized in strategizing how to approach the problem.  The emphasis of
+challenges is on the process of problem solving and articulating a solution in
+code well.  _We expect that you can complete any challenge at this point.
+**HOW** you complete it is at stake_.  Code quality is #1.
 
 ## Rails
 
