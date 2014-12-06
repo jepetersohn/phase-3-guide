@@ -60,7 +60,7 @@ boilerplate code dozens of times in Sinatra skeleton, Rails will make it
 That said, Rails can become _too_ "zealous" in its code generation.  While we
 bless your *exploration* of the powers of `rails generate` **do not use it** in
 these challenges.  The ability to write Rails code (models, controllers, and
-views) from a blank editor screen is a skill you need to develop.  An
+views) from a blank editor screen is a skill you **must** develop.  An
 interviewer will be none-too-impressed if your ability to write a controller is
 hamstrung by access to the Rails generators.
 
