@@ -149,9 +149,9 @@ help.
 When you ask a question look for seams between "what I have here it what I
 expect" and "what I get back is not what I expect".  That tunnel that takes the
 "what you expect" and turns it into "what you didn't expect" is where your bug
-is.  If your that tunnel, i.e. your code, is small and focused, your bug should
-pop out.  If it is a snarl of spaghetti, it will be difficult to figure out.
-We call this process "debugging."
+is.  If that tunnel, i.e. your code, is small and focused, your bug should pop
+out.  If it is a snarl of spaghetti, it will be difficult to figure out.  We
+call this process "debugging."
 
 Have log files, unit tests, etc. handy when you engage these peers and we will
 be able to focus, solve, and move on.  If anyone asks for help but doesn't show
