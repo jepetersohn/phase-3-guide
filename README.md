@@ -159,6 +159,14 @@ you the respect of formulating a question, you should ask them to formulate a
 clearer question for you.  All our time is precious and we must all show each
 other due respect.
 
+### Manage your Time
+
+That said, if you feel you are spending too much time on a question, **stop**
+and ask for help.  Try to ask for it in a way that means you've tried to debug
+the problem, but if you're living a reality that will make statements of the
+form "I spend 3 hours on this one bug" true, ask for help.  You may be
+struggling with code which relies on a broken mental model.
+
 ## Conclusion
 
 - Don't be attached to your code, my job is to be critical and opinionated :)
