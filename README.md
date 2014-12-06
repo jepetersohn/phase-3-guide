@@ -2,13 +2,38 @@
 
 ## Welcome to Phase 3
 
-Welcome from your teachers.  Phase 3 is the most exciting
-phase here at DBC.  In this phase we no longer view you as students or
-developers-in-training, rather we look at you to be valuable, albeit junior,
-collaborators in the craft of software development.  This will define how we
-interact and how we assign and tackle challenges.  Similarly, and you should no
-longer think of yourselves as "classmates" but rather "teammates" or
-"coworkers."
+Welcome from your teachers.  Phase 3 is the most exciting phase here at DBC.
+In this phase we no longer view you as students or developers-in-training,
+rather we look at you to be valuable, albeit junior, collaborators in the craft
+of software development.  This will define how we interact and how we assign
+and tackle challenges.  Similarly, and you should no longer think of yourselves
+as "classmates" but rather "teammates" or "coworkers."
+
+## TL;DR
+
+You should read it all, but...
+
+* We're going to treat you like developers.  This means:
+  * Github based code review
+  * Pointed criticism
+  * Teachers won't ask "do you need help."  You're going to have to ask for it
+  * Don't be late
+  * Remember IKE
+  * Don't be lazy
+* We want to give you real-world, project-based challenges
+* Use Rails, but don't become a "Rails developer:" become a great developer and
+  the tech won't matter
+* Think critically
+  * Don't trust all you read or hear about fads and fashions in tech
+  * When asking for help form a Good Question
+  * When asked for help ensure you're being asked a Good Question.  Be Kind,
+    but guard your time
+* Be polite
+  * Realize if you start talking at someone you might break their train of
+  * thought
+  * Observe the headphone rule - this applies to staff and peers alike
+* Read the rest of this but uses these points as a cultural guide. You may need
+  to revisit this document multiple times
 
 ## Daily Schedule
 
