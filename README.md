@@ -17,11 +17,11 @@ You should read it all, but...
   * Github based code review
   * Pointed criticism
   * Teachers won't ask "do you need help."  You're going to have to ask for it
-  * Don't be late
   * Remember IKE
+  * Don't be late
   * Don't be lazy
 * We want to give you real-world, project-based challenges
-* Use Rails, but don't become a "Rails developer:" become a great developer and
+* Use Rails, but don't become a "Rails developer." Become a great developer and
   the tech won't matter
 * Think critically
   * Don't trust all you read or hear about fads and fashions in tech
@@ -29,8 +29,7 @@ You should read it all, but...
   * When asked for help ensure you're being asked a Good Question.  Be Kind,
     but guard your time
 * Be polite
-  * Realize if you start talking at someone you might break their train of
-  * thought
+  * Realize if you start talking at someone you might break their train of thought
   * Observe the headphone rule - this applies to staff and peers alike
 * Read the rest of this but uses these points as a cultural guide. You may need
   to revisit this document multiple times
