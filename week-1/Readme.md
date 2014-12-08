@@ -8,12 +8,12 @@
 - pm - [Intro to Rails challenge](../../../../intro-to-rails-challenge)
 - 6p
   - Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
-  - Prepare rails related questions based on your intro to rails challenge.
+  - Prepare Rails related questions based on your intro to Rails challenge.
   - [Get ready for testing](../../../../phase-3-guide/blob/master/week-1/discussions/rspec.md)
 
 ### Day 2 - Build an app and test it
 
-- 9a - Rails Q&A, link_to and form_for booster
+- 9a - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p - Testing refresher and Rack Test intro
 - pm - Let's test the app we built in the morning
@@ -24,7 +24,7 @@
   - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/sh/tms1v3cjny3khwv/02m1J7EK5s/Books/4%20Testing%20-%20TDD/The%20RSpec%20Book%20v2.pdf)
 
 ## Day 3: Capybara and TDD/BDD
-- 9a - Testing/Rspec Q&A / TDD (red green refactor) and Capybara Intro
+- 9a - Testing/Rspec Q&amp;A / TDD (red green refactor) and Capybara Intro
 - am - TDD the app you did yesterday (focus on model and controller testing) and add feature tests to it using capybara.
 - 2p - TDD live demo with feature testing.
 - pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
