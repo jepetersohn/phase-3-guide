@@ -34,3 +34,5 @@ Here's a typical (ideal) workflow:
 
 * Nowhere do you type `git merge`
 * Merging happens _via GitHub_.
+
+[Spike]: http://searchsoftwarequality.techtarget.com/definition/spike
