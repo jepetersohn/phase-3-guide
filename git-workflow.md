@@ -29,7 +29,6 @@ Here's a typical (ideal) workflow:
 6. `git push origin my_feature`
 7. `git checkout master`
 8. `git pull`
-9. [Start back at 1](http://youtu.be/rXPfovXw2tw)
 
 ## Important Notes
 
