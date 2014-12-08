@@ -3,8 +3,8 @@
 ### Day 1 - Intro
 
 - 9a - Welcome new phase 1 students
-- am - Teach phase 2 something.
-- 2p - Welcome to Phase 3
+- am - Phase 3 Orientation &amp; Building Frameworks
+- 2p - The Web Stack Application Problem, Hygenic `git`, Rails
 - pm - [Intro to Rails challenge](../../../../intro-to-rails-challenge)
 - 6p
   - Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
