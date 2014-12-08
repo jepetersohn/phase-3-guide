@@ -12,7 +12,7 @@
 
 Here's a typical (ideal) workflow:
 
-1. git checkout -b my_feature
+1. `git checkout -b my_feature`
 2. Work
   1.  [Spike][]: a timeboxed investigation
   2.  Test
