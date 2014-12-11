@@ -21,7 +21,6 @@
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
-  - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/sh/tms1v3cjny3khwv/02m1J7EK5s/Books/4%20Testing%20-%20TDD/The%20RSpec%20Book%20v2.pdf)
 
 ## Day 3: Capybara and TDD/BDD
 - 9a - Rails Q&amp;A Testing/Rspec Q&amp;A
@@ -37,31 +36,21 @@
   - What belongs in a model
   - Organize your code with modules and concerns
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
-- 2p - Agile lecture: how to plan a project in an Agile team environment
+- 2p - Agile lecture: how to plan a project in an Agile team environment / Unixy talks assignment
 - pm
   - [*overflow challenge](../../../../overflow-challenge)
 - 6p
   - Continue working on your [*overflow challenge](../../../../overflow-challenge)
   - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
-  - Read chapters 3 and 4 of [Rails Antipatterns](https://www.dropbox.com/sh/tms1v3cjny3khwv/XHUZ8ndPU1/Books/5%20Sinatra%20and%20Rails/Rails%20Antipatterns%20-%20Refactoring%20Best%20Practices.pdf)
 
 ## Day 5 - THE App
 - 9a - Ajax on Rails
 - am - [*overflow challenge](../../../../overflow-challenge)
-- 2p - Procs/Blocks/Lambdas
-- pm - [*overflow challenge](../../../../overflow-challenge)
+- 2p - Unixy Talks
 - 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
 - [read open source rails projects](http://www.opensourcerails.com/)
-- Go through all of our lectures and discussions:
-  - sweet test
-  - metaprogramming
-  - rails patterns
-  - exception and debugging
-  - rspec
-  - ajax on rails
-  - block/procs/lambdas
 - Continue working on [*overflow challenge](../../../../overflow-challenge).
 - Read [Uncle Bob Martin's "Where is the Foreman?"](http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html) and [Leon Gersing's "The Last Thing We Need"](http://leongersing.tumblr.com/post/77931655536/the-last-thing-we-need) and reflect on what sort of organization you want to work in.
