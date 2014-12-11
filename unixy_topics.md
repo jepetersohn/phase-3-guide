@@ -9,9 +9,9 @@ signal.
 Topic | Assignee
 ----- | --------
 `man` |
-`|` ("pipe")|
 `cat` |
-`tail`, `head` |
+`|` ("pipe"), `>`, `<`|
+`tail`, `tail -f`, `head` |
 `PATH`: setting, order, precendence |
 Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` |
 processes, `ps`, `kill`, `signals` |
