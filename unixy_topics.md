@@ -6,10 +6,6 @@ weeks.  Developers who show familiarity and facility in the Unix environment
 environment.  Failure to demonstrate a certain level of comfort is a negative
 signal.
 
-Given that these topics are harder and may require more research, you are to
-pair on them.  Please sign up as pairs.  Someone may have to solo given our odd
-number ;)
-
 Topic | Assignee
 ----- | --------
 `sed`, `tr` |
