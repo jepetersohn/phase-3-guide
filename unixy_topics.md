@@ -6,17 +6,30 @@ weeks.  Developers who show familiarity and facility in the Unix environment
 environment.  Failure to demonstrate a certain level of comfort is a negative
 signal.
 
+## Friday
+
 Topic | Assignee
 ----- | --------
-`man` |
-`cat` |
-`|` ("pipe"), `>`, `<`|
-`tail`, `tail -f`, `head` |
-`PATH`: setting, order, precendence |
-Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` |
-processes, `ps`, `kill`, `signals` |
-`bundler` |
-`sed`, `tr` |
-`awk` |
-`argv`, `argc` |
-`initd` to shell prompt |
+`man` | Karina Carmona
+`grep` | Beatrix Carroll
+`cat` | Margarita Reyes
+`|` (pipe), `>`, `<`| Zahid Jethani
+`tail`, `tail -f`, `head` | William Storey
+
+## Monday
+
+Topic | Assignee
+----- | --------
+`PATH`: setting, order, precendence | Matthew Huff
+Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` | Christopher Coles
+processes, `ps`, `kill`, `signals` |  Dakota W Meadows
+`bundler` | Patricia Carbajal, Dmitriy Istomin
+`sed`, `tr` | Patrick Torpey
+
+## Tuesday
+
+Topic | Assignee
+----- | --------
+`awk` | Mason Norsworthy
+`argv`, `argc` | Liam McCartney
+`initd` | Alex Yanai
