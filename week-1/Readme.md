@@ -16,8 +16,7 @@
 
 - 9a - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
-- 2p - Testing refresher and Rack Test intro
-- pm - Let's test the app we built in the morning
+- 2p - Build a Rails app live
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
@@ -25,10 +24,10 @@
   - Read chapters 10-12 of the [Rspec Book](https://www.dropbox.com/sh/tms1v3cjny3khwv/02m1J7EK5s/Books/4%20Testing%20-%20TDD/The%20RSpec%20Book%20v2.pdf)
 
 ## Day 3: Capybara and TDD/BDD
-- 9a - Testing/Rspec Q&amp;A / TDD (red green refactor) and Capybara Intro
-- am - TDD the app you did yesterday (focus on model and controller testing) and add feature tests to it using capybara.
-- 2p - TDD live demo with feature testing.
+- 9a - Rails Q&amp;A Testing/Rspec Q&amp;A
+- 2p - TDD live demo with feature testing / TDD (red green refactor) and Capybara Intro
 - pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
+- 5p - Refactoring Tests: Feature tests unto Controller and Model
 - 6p
   - [Rspec Rails challenge](../../../../sf-rspec-rails-challenge)
 
