@@ -8,13 +8,15 @@ signal.
 
 Topic | Assignee
 ----- | --------
+`man` |
+`|` ("pipe")|
+`cat` |
+`tail`, `head` |
+`PATH`: setting, order, precendence |
+Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` |
+processes, `ps`, `kill`, `signals` |
+`bundler` |
 `sed`, `tr` |
 `awk` |
-`man`, `tail`, `head` |
-Shell paths: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` |
-`PATH`: setting, order, precendence |
-`bundler` |
 `argv`, `argc` |
-`include` &amp; `require` |
-processes, `ps`, `kill`, `signals` |
 `initd` to shell prompt |
