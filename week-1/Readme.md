@@ -46,7 +46,7 @@
 ## Day 5 - THE App
 - 9a - Ajax on Rails
 - am - [*overflow challenge](../../../../overflow-challenge)
-- 2p - [Unixy Talks](../../unixy_topics.md)
+- 2p - [Unixy Talks](../../../unixy_topics.md)
 - 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
