@@ -25,6 +25,7 @@ Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcu
 processes, `ps`, `kill`, `signals` |  Dakota W Meadows
 `bundler` | Patricia Carbajal, Dmitriy Istomin
 `sed`, `tr` | Patrick Torpey
+`man` | Karina Carmona
 
 ## Tuesday
 
