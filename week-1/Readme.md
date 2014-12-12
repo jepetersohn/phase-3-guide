@@ -46,7 +46,7 @@
 ## Day 5 - THE App
 - 9a - Ajax on Rails
 - am - [*overflow challenge](../../../../overflow-challenge)
-- 2p - Unixy Talks
+- 2p - [Unixy Talks](../../../unixy_talks.md)
 - 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
@@ -54,3 +54,4 @@
 - [read open source rails projects](http://www.opensourcerails.com/)
 - Continue working on [*overflow challenge](../../../../overflow-challenge).
 - Read [Uncle Bob Martin's "Where is the Foreman?"](http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html) and [Leon Gersing's "The Last Thing We Need"](http://leongersing.tumblr.com/post/77931655536/the-last-thing-we-need) and reflect on what sort of organization you want to work in.
+
