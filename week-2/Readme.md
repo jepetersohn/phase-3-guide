@@ -5,6 +5,7 @@
 - 11a - AJAX and Rails
 - 12 - [Markdown Challenge](../../../../markdown-widget-challenge)
 - 6p
+  - [Twooter and Ajax and Rails](./discussions/twooter_rails_ajax/text.md)
   - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
   - [Karmaville 1](../../../../karma-ville-1-too-slow-challenge)
   - Rescheduled Topics
