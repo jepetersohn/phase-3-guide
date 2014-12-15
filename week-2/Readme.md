@@ -1,15 +1,14 @@
 ## Week 2
 
-### Day 1 Performance
-- 9a - Projects presentations
-- am
-  - [Karmaville 1](../../../../karma-ville-1-too-slow-challenge)
-  - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
-- 2p - Test mocks, stubs and doubles
-- pm - [Ajax Tabs](../../../../ajax-tabs-challenge)
+### Day 1 Ajax and JavaScript in Rails
+- 10a - Projects presentations
+- 11a - AJAX and Rails
+- 12 - [Markdown Challenge](../../../../markdown-widget-challenge)
 - 6p
-  - [Javascript the Right way](http://jstherightway.org/)
-  - [Awesome Menus](../../../../awesome-menus-challenge)
+  - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
+  - [Karmaville 1](../../../../karma-ville-1-too-slow-challenge)
+  - Rescheduled Topics
+    - Test mocks, stubs and doubles
 
 ### Day 2 Javascript Patterns
 
