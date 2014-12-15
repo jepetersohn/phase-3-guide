@@ -3,7 +3,7 @@
 ### Day 1 Ajax and JavaScript in Rails
 - 10a - Projects presentations
 - 11a - AJAX and Rails
-- 12 - [Markdown Challenge](../../../../markdown-widget-challenge)
+- 12 - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
 - 6p
   - [Twooter and Ajax and Rails](./discussions/twooter_rails_ajax/text.md)
   - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
