@@ -1,38 +1,34 @@
 ## Week 2
 
 ### Day 1 Ajax and JavaScript in Rails
+
 - 10a - Projects presentations
 - 11a - AJAX and Rails
-- 12 - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
-- 6p
-  - [Twooter and Ajax and Rails](./discussions/twooter_rails_ajax/text.md)
-  - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
-  - [Karmaville 1](../../../../karma-ville-1-too-slow-challenge)
-  - Rescheduled Topics
-    - Test mocks, stubs and doubles
+      - [Twooter and Ajax and Rails](./discussions/twooter_rails_ajax/text.md)
+- 12  - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
+- 6p  - Markdown Challenge
 
-### Day 2 Javascript Patterns
+### Day 2 Advanced Javascript
 
-- 9a - Javascript modules (object literals, module pattern and IIFE)
-- am - [Build miniQuery](../../../../miniQuery-challenge)
-- 2p - miniQuery live, Q & A
-- pm - Javascript scopes
+- 9a - Q&amp;A
+  - [Build miniQuery](../../../../miniQuery-challenge)
+- 2p - miniQuery live, Q&amp;A
+- pm - Scope in JavaScript
+  - Closures
+  - Callbacks
   - [Build miniQuery](../../../../miniQuery-challenge)
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-  - [Post it board v1](../../../../behavior-drill-post-it-board-v1-challenge)
-  - [Post it board v2](../../../../behavior-drill-post-it-board-v2-challenge)
 
 ### Day 3 Client-side heavy apps
 
-- 9a - Ajax/Ajax on Rails booster
-- am - [build a thick client on Rails](../../../../build-a-thick-client-on-rails-challenge)
+- 9a - JS MVC
+     - Livecode miniQuery
+     - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - 2p
-   - link_to and form_for booster
-   - ActiveRecord booster
-- pm - [build a thick client on Rails](../../../../build-a-thick-client-on-rails-challenge)
+     - Livecode Demo
+     - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - 6p
-  - Work on your project pitch
   - Review the week:
     - What did we learn?
     - What was confusing/unclear?
@@ -42,16 +38,13 @@
 
 ### Day 4 Final Project
 
-- 9a - Project pitches and team selections
-- am - Get with your team and plan your project
-- 2p - Model, View and Controller relationships in Rails.
-- pm - Work on your project.
+- Work on your project.
 
 ### Day 5 Final Project
 
-- 9a - Project standup (each team will give 1 update)
-- am - Work on your project.
-- 2p - live code tabs challenge
+- 9:30a - Project standup (each team will give 1 update)
+  - Consulting hours
+- 4pm - MVP Demo
 - pm - Work on your project.
 
 
