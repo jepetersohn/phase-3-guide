@@ -6,6 +6,7 @@
 - 11a - AJAX and Rails
       - [Twooter and Ajax and Rails](./discussions/twooter_rails_ajax/text.md)
 - 12  - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
+-  2  - Unixy Talks
 - 6p  - Markdown Challenge
 
 ### Day 2 Advanced Javascript
@@ -49,4 +50,5 @@
 
 
 ## Weekend Finish MVP
+
 Your project MVP must be fully done, tested and ready to be presented on Monday.
