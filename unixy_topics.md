@@ -10,27 +10,26 @@ signal.
 
 Topic | Assignee
 ----- | --------
-`man` | Karina Carmona
-`grep` | Beatrix Carroll
-`cat` | Margarita Reyes
-`|` (pipe), `>`, `<`| Zahid Jethani
-`tail`, `tail -f`, `head` | William Storey
+`man` | 
+`grep` |
+`cat` | 
+`|` (pipe), `>`, `<`| 
+`tail`, `tail -f`, `head` | 
 
 ## Monday
 
 Topic | Assignee
 ----- | --------
-`PATH`: setting, order, precendence | Matthew Huff
-Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` | Christopher Coles
-processes, `ps`, `kill`, `signals` |  Dakota W Meadows
-`bundler` | Patricia Carbajal, Dmitriy Istomin
-`sed`, `tr` | Patrick Torpey
-`man` | Karina Carmona
+`PATH`: setting, order, precendence | 
+Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` | Christopher
+processes, `ps`, `kill`, `signals` |  
+`bundler` | 
+`sed`, `tr` | 
 
 ## Tuesday
 
 Topic | Assignee
 ----- | --------
-`awk` | Mason Norsworthy
-`argv`, `argc` | Liam McCartney
-`initd` | Alex Yanai
+`awk` | 
+`argv`, `argc` | 
+`initd` | 
