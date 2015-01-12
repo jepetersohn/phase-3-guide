@@ -4,7 +4,7 @@
 
 - 9a - Welcome new phase 1 students
 - am - Phase 3 Orientation &amp; Building Frameworks
-- 2p - The Web Stack Application Problem and Learning to Play with Rails
+- 2p - The Web Stack Application Problem and Learning to Play with Rails; Assign Unixy Topics
 - pm - [Intro to Rails challenge](../../../../intro-to-rails-challenge)
 - 5pm - Hygienic `git`
 - 6p
