@@ -6,7 +6,7 @@
 - am - Phase 3 Orientation &amp; Building Frameworks
 - 2p - The Web Stack Application Problem and Learning to Play with Rails; Assign Unixy Topics
 - pm - [Intro to Rails challenge](../../../../intro-to-rails-challenge)
-- 5pm - Hygienic `git`
+- 5pm - Q&amp;A with Steven about getting started with Rails
 - 6p
   - Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
   - Prepare Rails related questions based on your intro to Rails challenge.
@@ -16,7 +16,7 @@
 
 - 9a - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
-- 2p - Build a Rails app live
+- 2p - Hygienic `git` &amp; Build a Rails app live
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
