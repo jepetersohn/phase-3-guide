@@ -10,26 +10,26 @@ signal.
 
 Topic | Assignee
 ----- | --------
-`man` | 
-`grep` |
-`cat` | 
-`|` (pipe), `>`, `<`| 
-`tail`, `tail -f`, `head` | 
+`man` | Kevin
+`grep` |Dylan
+`cat` | Nick
+`|` (pipe), `>`, `<`|  Hailey, Clifton
+`tail`, `tail -f`, `head` | Frank
 
 ## Monday
 
 Topic | Assignee
 ----- | --------
-`PATH`: setting, order, precendence | 
-Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` | Christopher
-processes, `ps`, `kill`, `signals` |  
-`bundler` | 
-`sed`, `tr` | 
+`PATH`: setting, order, precendence |  Steph
+Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` | Peter
+processes, `ps`, `kill`, `signals` |  Jorge, Dan Chan
+`bundler` | Luke and Carl
+`sed`, `tr` | Mike and Kedz
 
 ## Tuesday
 
 Topic | Assignee
 ----- | --------
-`awk` | 
-`argv`, `argc` | 
-`initd` | 
+`awk` | Brian
+`argv`, `argc` | Don
+`initd` | Daniel
