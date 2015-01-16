@@ -11,7 +11,6 @@ signal.
 Topic | Assignee
 ----- | --------
 `man` | Kevin
-`grep` |Dylan
 `cat` | Nick
 `|` (pipe), `>`, `<`|  Hailey, Clifton
 `tail`, `tail -f`, `head` | Frank
@@ -20,6 +19,7 @@ Topic | Assignee
 
 Topic | Assignee
 ----- | --------
+`grep` |Dylan
 `PATH`: setting, order, precendence |  Steph
 Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` | Peter
 processes, `ps`, `kill`, `signals` |  Jorge, Dan Chan
