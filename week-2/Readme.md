@@ -22,7 +22,7 @@
 - 9a - Big JS Q&amp; JS MVC
      - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - 2p
--    - EE / Journaling / Reflection (10m)
+     - EE / Journaling / Reflection (10m)
      - Livecode Demo
      - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - 6p
@@ -37,7 +37,7 @@
 
 - 9am - 9:25: PITCH DAY
 - 2pm
-  - EE / Journaling / Reflection (10m)
+     - EE / Journaling / Reflection (10m)
 - Final Projects
 
 ### Day 5 Final Project
@@ -45,7 +45,7 @@
 - 9 - Project standup (each team will give 1 update)
   - Consulting hours
 - 2pm
-  - EE / Journaling / Reflection (10m)
+     - EE / Journaling / Reflection (10m)
 - 5pm - MVP Demo
 - pm - Work on your project.
 - 
