@@ -19,7 +19,7 @@
 
 ### Day 3 Client-side heavy apps
 
-- 9a - Big JS Q&ampA; JS MVC
+- 9a - Big JS Q&amp; JS MVC
      - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - 2p
      - Livecode Demo
