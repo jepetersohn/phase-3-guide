@@ -3,8 +3,10 @@
 ### Day 1 Ajax and JavaScript in Rails
 
 - 9a - Projects presentations
-- 10 - Async &amp; `Promise()`
-- 11a - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
+- 10 - Async &amp; `Promise()
+- 11a 
+   - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
+   -  Code reviews
 -  2  - Unixy Talks &amp; MVC
 - 5p  - Markdown Challenge live
 
