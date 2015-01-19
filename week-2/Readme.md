@@ -3,19 +3,19 @@
 ### Day 1 Ajax and JavaScript in Rails
 
 - 9a - Projects presentations
-- 10 - Async &amp; `Promise()
+- 10 - Closures &amp; Scoping
 - 11a 
    - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
    -  Code reviews
--  2  - Unixy Talks &amp; MVC
+- 4 - Async &amp; `Promise()`
 - 5p  - Markdown Challenge live
 
 ### Day 2 Advanced Javascript
 
-- 9a - Closures &amp; Scoping
-- 10  [Build miniQuery](../../../../miniQuery-challenge)
-- 2 Unixy Talks
-- 5p - miniQuery live, Q&amp;A
+- 9a - Namespace &amp; IIFE
+- 10 - Unixy Talks &amp; [Build miniQuery](../../../../miniQuery-challenge)
+- 2 - miniQuery live, Q&amp;A Part I
+- 5p - miniQuery live, Q&amp;A Part II 
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
