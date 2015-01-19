@@ -12,9 +12,10 @@
 
 ### Day 2 Advanced Javascript
 
-- 9a - Namespace &amp; IIFE
-- 10 - Unixy Talks &amp; [Build miniQuery](../../../../miniQuery-challenge)
-- 2 - miniQuery live, Q&amp;A Part I
+- 9a - Unixy Talks &amp; Namespace &amp; IIFE
+- 10 - [Build miniQuery](../../../../miniQuery-challenge)
+- Code Reviews
+- 2 - Unixy Talks
 - 5p - miniQuery live, Q&amp;A Part II 
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
