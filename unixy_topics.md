@@ -21,7 +21,7 @@ Topic | Assignee
 ----- | --------
 `grep` |Dylan
 `PATH`: setting, order, precendence |  Steph
-Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` | Peter
+Shell path navigation: absolute/relative paths(`~!`, `.`, `..`): expanded shortcuts, `cd` | Peter
 processes, `ps`, `kill`, `signals` |  Jorge, Dan Chan
 `bundler` | Luke and Carl
 `sed`, `tr` | Mike and Kedz
