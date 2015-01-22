@@ -5,16 +5,15 @@
 - 9a - Projects presentations
 - 10 - Closures &amp; Scoping
 - 11a 
+   - Unixy Talks
    - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
-   -  Code reviews
 - 4 - Async &amp; `Promise()`
 - 5p  - Markdown Challenge live
 
 ### Day 2 Advanced Javascript
 
-- 9a - Unixy Talks &amp; Namespace &amp; IIFE
+- 9a - Namespace &amp; IIFE &amp; Module Pattern
 - 10 - [Build miniQuery](../../../../miniQuery-challenge)
-- Code Reviews
 - 2 - Unixy Talks
 - 5p - miniQuery live, Q&amp;A Part II 
 - 6p - Javascript readings:
@@ -25,9 +24,8 @@
 - 9a - Big JS Q&amp; JS MVC
      - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - 2p
-     - EE / Journaling / Reflection (10m)
+- 5p
      - Livecode Demo
-     - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - 6p
   - Review the week:
     - What did we learn?
@@ -39,8 +37,7 @@
 ### Day 4 Final Project
 
 - 9am - 9:25: PITCH DAY
-- 2pm
-     - EE / Journaling / Reflection (10m)
+- Preflection - 10m
 - Final Projects
 
 ### Day 5 Final Project
