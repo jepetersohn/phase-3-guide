@@ -37,7 +37,7 @@ You should read it all, but...
 ## Daily Schedule
 
 - Lectures
-  - We will lecture around 10:00 and 2:00 daily
+  - We will lecture around 9:00 and 2:00 daily
   - ...but we will ocassionally have surprise break-outs
   - ...and we may occasionally drop lectures if we think we'll be interrupting
     your flow
@@ -190,6 +190,16 @@ in just a little bit."  Respect this.
 
 Incidentally, those whom you would interact with will be much more willing to
 help you a second time if you ask focused questions and write things down.
+
+## Three Agreements
+
+We expect continued adherence to the three agreements
+
+>Three Agreements
+>
+>Integrity: We do what we say we will do. We do things that reflect our values.
+>Kindness: We go beyond being deliberately nice to each other. Sometimes kindness means having a hard conversation.
+>Whole Self: We bring our keen intellects, strong work ethics, and quirky personalities with us every day. We respect the good and bad in each other; relishing the good days and the bad.
 
 ## Conclusion
 
