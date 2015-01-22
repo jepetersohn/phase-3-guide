@@ -197,8 +197,8 @@ We expect continued adherence to the three agreements
 
 >Three Agreements
 >
->Integrity: We do what we say we will do. We do things that reflect our values.
->Kindness: We go beyond being deliberately nice to each other. Sometimes kindness means having a hard conversation.
+>Integrity: We do what we say we will do. We do things that reflect our values.  
+>Kindness: We go beyond being deliberately nice to each other. Sometimes kindness means having a hard conversation.  
 >Whole Self: We bring our keen intellects, strong work ethics, and quirky personalities with us every day. We respect the good and bad in each other; relishing the good days and the bad.
 
 ## Conclusion
