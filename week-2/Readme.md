@@ -37,7 +37,12 @@
 ### Day 4 Final Project
 
 - 9am - 9:25: PITCH DAY
-- Preflection - 10m
+- Preflection
+   - Who I hope to be as a developer after this project
+   - Coder Waterline
+      - "People see me as X"
+      - "But really I'm Y"
+      - "And I'm most afraid of Z in this project"
 - Final Projects
 
 ### Day 5 Final Project
