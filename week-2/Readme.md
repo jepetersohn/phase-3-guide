@@ -34,6 +34,11 @@
     - Do I have questions?
     - Am I lost? Do I need a booster?
 
+
+> “When the final design seems too simple for the amount of work you’ve put in, then you know you’re done.” - Rich Hickey
+
+
+
 ### Day 4 Final Project
 
 - 9am - 9:25: PITCH DAY
