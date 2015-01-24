@@ -91,6 +91,11 @@ the case here.
 
 ![quote by Ira Glass on beginners](ira-glass-quote.jpg)
 
+While you're fighting through the process of learning to exercise your
+creative desires in terms of your tastes, remember to [Do It Anyway][]
+
+[Do It Anyway]: https://medium.com/human-parts/do-it-anyway-aea83405b60e
+
 -- Ira Glass
 
 ## De Sententiis (On Opinions)
