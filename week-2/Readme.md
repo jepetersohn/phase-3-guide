@@ -49,7 +49,7 @@
       - "But really I'm Y"
       - "And I'm most afraid of Z in this project"
 - [Final Project Guidelines](./final_project_guidelines.md)
-- Final Projects
+- Start Work on Final Projects
 
 ### Day 5 Final Project
 
