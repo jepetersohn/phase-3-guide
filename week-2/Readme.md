@@ -48,6 +48,7 @@
       - "People see me as X"
       - "But really I'm Y"
       - "And I'm most afraid of Z in this project"
+- [Final Project Guidelines](./final_project_guidelines.md)
 - Final Projects
 
 ### Day 5 Final Project
@@ -55,10 +56,10 @@
 - 9 - Project standup (each team will give 1 update)
   - Consulting hours
 - 2pm
-     - EE / Journaling / Reflection (10m)
+   - EE / Journaling / Reflection (10m)
 - 5pm - MVP Demo
 - pm - Work on your project.
-- 
+
 ## Weekend Finish MVP
 
 Your project MVP must be fully done, tested and ready to be presented on Monday.
