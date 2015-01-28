@@ -40,6 +40,3 @@ code.  Friday and Tuesday will be consultation days.
 Will be presented on Monday and will be reviewed by the teachers on the same
 day.
 
-## Feature Freeze
-
-Tuesday at midnightl
