@@ -28,6 +28,8 @@ Each team will present to teachers and get direct feedback. Exact schedule to be
 - 9a - Project standup (each team will give 1 update)
 - 2pm EE / Journaling / Reflection (10m)
   - Career Advice from [Gayle Laakmann McDowell](http://www.quora.com/What-are-the-top-10-pieces-of-career-advice-Gayle-Laakmann-McDowell-would-give-to-future-software-engineers/answer/Gayle-Laakmann-McDowell)
+- 4pm:  Dry runs and feedback
+- 5:30: Sustainable Engineering
 - pm - Work on presentation and project final touches
 
 ### Day 5 Presentation and graduation time!
