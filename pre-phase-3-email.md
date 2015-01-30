@@ -2,6 +2,12 @@ Greetings,
 
 Welcome to Phase III.  As your instructor(s) will further detail, we need to go fast in this phase so that we can make the best final projects possible, as well as prepare you for the job market.
 
+In order to prepare yourselves for next week you will need to invest time this weekend (~ 16-20 hours) to be at peak performance on next Monday.
+
+1.  Type along with Cows on Rails (below)
+2.  Work through the [intro-to-rails-challenge](../../../intro-to-rails-challenge)
+
+
 We will spend several of our opening hours together getting to understand Rails.  As a friendly (and, frankly, silly) introduction to doing work with Rails, NYC's own Steven Cassidy has prepared the following type-along exercise.  The concepts presented here are not exhaustive, but typing along will help you establish important landmarks in the Rails ecosystem.
 
 Please "type along" &mdash; don't merely _read along_ and get the knowledge about what to do in your fingers
@@ -12,7 +18,11 @@ developers can learn so many languages to a basic level of proficiency quickly.
 
 Excelsior!
 
+Your Phase III teachers
+
 ----
+
+### Cows on Rails
 
 If you want to try the "error driven development" we did today, the basic steps are as follows. I found doing this very helpful when I was first learning rails. Rails should pick up changes automatically when you save files. You may want to git init . in your app folder after creating the app and commit your steps as you make them so you can get back to any state of your application later. 
 
