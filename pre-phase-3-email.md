@@ -8,7 +8,9 @@ In order to prepare yourselves for next week you will need to invest time this
 weekend (~16-20 hours) to be at peak performance on next Monday.
 
 1.  Type along with Cows on Rails (below)
-2.  Work through the [intro-to-rails-challenge](../../../intro-to-rails-challenge)
+2.  Work through the [intro-to-rails-challenge](https://github.com/eastern-moose-2014/intro-to-rails-challenge)
+
+## Cows on Rails (~ 1 hour)
 
 We will spend several of our opening hours together getting to understand
 Rails.  As a friendly (and, frankly, silly) introduction to doing work with
@@ -16,17 +18,37 @@ Rails, NYC's own Steven Cassidy has prepared the following type-along exercise.
 The concepts presented here are not exhaustive, but typing along will help you
 establish important landmarks in the Rails ecosystem.
 
-Please "type along" &mdash; don't merely _read along_: get the knowledge about
-what to do in your fingers _as well as_ your brain.  Also note the _process_
-described in this document.  It was written by an industry veteran with years
-of experience.  In this document he shows you how professionals engage in
-_directed play_ to get their bearings.  This skill can be applied to _any_
-language and is the _key_ as to how experienced developers can learn so many
-languages to a basic level of proficiency quickly.
+We recommend you have this file open in a browser and that you follow the steps
+in a terminal window.  Please "type along" &mdash; don't merely _read along_:
+get the knowledge about what to do in your fingers _as well as_ your brain.
+Also note the _process_ described in this document.  It was written by an
+industry veteran with years of experience.  In this document he shows you how
+professionals engage in _directed play_ to get their bearings.  This skill can
+be applied to _any_ language and is the _key_ as to how experienced developers
+can learn so many languages to a basic level of proficiency quickly.
 
-Excelsior!
+## Intro To Rails Challenge (~ 10 hours)
 
-Your Phase III teachers
+This is a challenge unlike others you have seen.  It's an exploratory
+challenge.  It is comprised of 13 branches that you are to visit.  Each branch
+features a changed Readme.md to guide you in your exploration of Rails.  **You
+should be able to bounce the theories presented in this exercise off of the
+practical work you did in Cows on Rails**.  As you explore each of the branches
+take notes: What are the key files? What is the assumption that's made here.
+
+* You **will not** be sumitting pull requests based on changes
+* This challenge forms the "required vocabulary" for our first week
+
+Please record and research any questions you might have.  Come Monday we'll be
+jumping into the deep end of Rails
+
+## Bugs Clarifications Etc.
+
+Your instructor(s) is an e-mail addict and will see any emails that you send
+detailing "X doesn't work" or "Y isn't there" &mdash; even nights and weekends.
+Please pass them along if you have issues.  Otherwise &mdash; excelsior!
+
+-- Your Phase III teachers
 
 ----
 
@@ -206,23 +228,23 @@ So let's create a couple of cows. Rails gives back a lot of output to tell us wh
 
     2.1.1 :003 > Cow.create({name: 'Flossy', breed: 'holstein'})
 
-   (0.2ms)  BEGIN
-  SQL (18.3ms)  INSERT INTO "cows" ("breed", "created_at", "name", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["breed", "holstein"], ["created_at", "2014-10-04 22:37:44.524753"], ["name", "Flossy"], ["updated_at", "2014-10-04 22:37:44.524753"]]
-   (0.6ms)  COMMIT
- => #<Cow id: 1, name: "Flossy", breed: "holstein", created_at: "2014-10-04 22:37:44", updated_at: "2014-10-04 22:37:44"> 
+       (0.2ms)  BEGIN
+      SQL (18.3ms)  INSERT INTO "cows" ("breed", "created_at", "name", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["breed", "holstein"], ["created_at", "2014-10-04 22:37:44.524753"], ["name", "Flossy"], ["updated_at", "2014-10-04 22:37:44.524753"]]
+       (0.6ms)  COMMIT
+     => #<Cow id: 1, name: "Flossy", breed: "holstein", created_at: "2014-10-04 22:37:44", updated_at: "2014-10-04 22:37:44"> 
 
 
     2.1.1 :004 > Cow.create({name: 'Daisy', breed: 'angus'})
 
-   (0.2ms)  BEGIN
-  SQL (0.4ms)  INSERT INTO "cows" ("breed", "created_at", "name", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["breed", "angus"], ["created_at", "2014-10-04 22:38:07.026496"], ["name", "Daisy"], ["updated_at", "2014-10-04 22:38:07.026496"]]
-   (7.1ms)  COMMIT
- => #<Cow id: 2, name: "Daisy", breed: "angus", created_at: "2014-10-04 22:38:07", updated_at: "2014-10-04 22:38:07"> 
+     (0.2ms)  BEGIN
+      SQL (0.4ms)  INSERT INTO "cows" ("breed", "created_at", "name", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["breed", "angus"], ["created_at", "2014-10-04 22:38:07.026496"], ["name", "Daisy"], ["updated_at", "2014-10-04 22:38:07.026496"]]
+       (7.1ms)  COMMIT
+     => #<Cow id: 2, name: "Daisy", breed: "angus", created_at: "2014-10-04 22:38:07", updated_at: "2014-10-04 22:38:07"> 
 
 
-2.1.1 :005 > Cow.all
-  Cow Load (0.8ms)  SELECT "cows".* FROM "cows"
- => #<ActiveRecord::Relation [#<Cow id: 1, name: "Flossy", breed: "holstein", created_at: "2014-10-04 22:37:44", updated_at: "2014-10-04 22:37:44">, #<Cow id: 2, name: "Daisy", breed: "angus", created_at: "2014-10-04 22:38:07", updated_at: "2014-10-04 22:38:07">]> 
+    2.1.1 :005 > Cow.all
+    Cow Load (0.8ms)  SELECT "cows".* FROM "cows"
+   => #<ActiveRecord::Relation [#<Cow id: 1, name: "Flossy", breed: "holstein", created_at: "2014-10-04 22:37:44", updated_at: "2014-10-04 22:37:44">, #<Cow id: 2, name: "Daisy", breed: "angus", created_at: "2014-10-04 22:38:07", updated_at: "2014-10-04 22:38:07">]> 
 
 So we can now add a bit of behavior to our cow. Add this method to cow.rb:
 
