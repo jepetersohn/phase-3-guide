@@ -39,8 +39,8 @@ You should read it all, but...
 - Lectures
   - We will lecture around 9:00 and 2:00 daily
   - ...but we will ocassionally have surprise break-outs
-  - ...and we may occasionally drop lectures if we think we'll be interrupting
-    your flow
+  - ...and we may occasionally drop lectures if we think we'll be interrupting your flow
+  - Will feature only one laptop, _mine_.  Invest in a pen or pencil as well as a notebook that make you happy
 
 ## Challenges
 
