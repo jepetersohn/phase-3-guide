@@ -116,9 +116,10 @@ know when you need *not* heed some advice.  As Kipling says in "If:"
 
 ## Review
 
-We will do our best to pair with all of you several times throughout the phase.
-We will be conducting code reviews for specific challenges. Some of these will
-happen on github's pull requests and others will happen live, face to face.
+Github review is the most scalable way for us to give you feedback on your
+code.  It is also the format you will be using in your professional career.
+If @-mentioend in a github review, your teachers will try to provide some feedback.
+We will also be conducting code reviews for specific challenges.
 
 ## Questions
 
@@ -194,7 +195,10 @@ don't like you" or "I don't know," it's saying "I'll be more receptive to you
 in just a little bit."  Respect this.
 
 Incidentally, those whom you would interact with will be much more willing to
-help you a second time if you ask focused questions and write things down.
+help you a second time if you ask focused questions (and for extra points)
+write things down.
+
+[Artist's rendering of the above](http://cdn.themetapicture.com/media/funny-programmer-comic-understand-message.jpg)
 
 ## Three Agreements
 
@@ -203,7 +207,7 @@ We expect continued adherence to the three agreements
 >Three Agreements
 >
 >Integrity: We do what we say we will do. We do things that reflect our values.  
->Kindness: We go beyond being deliberately nice to each other. Sometimes kindness means having a hard conversation.  
+>Kindness: We go beyond being deliberately nice to each other. Sometimes kindness means having a hard conversation. 
 >Whole Self: We bring our keen intellects, strong work ethics, and quirky personalities with us every day. We respect the good and bad in each other; relishing the good days and the bad.
 
 ## Conclusion
