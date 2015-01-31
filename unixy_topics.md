@@ -29,7 +29,7 @@ processes, `ps`, `kill`, `signals` |
 
 Topic | Assignee
 ----- | --------
-`[bundler](http://bundler.io)` | 
+[`bundler`](http://bundler.io) | 
 `sed`, `tr` |
 `awk` | 
 `argv`, `argc` | 
