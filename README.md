@@ -65,7 +65,7 @@ hamstrung by access to the Rails generators.
 
 **EXCEPTIONS**:  You may feel free to `rails generate migration`.  Why?  Because
 figuring out time-stamps is irritating.  Also if you install a gem (for
-instance `rspec-rails` which finalized its install by running a `rails
+instance `rspec-rails` which finalizes its install by running a `rails
 generate` command, feel free).
 
 ## Feedback
