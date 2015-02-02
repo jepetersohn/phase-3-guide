@@ -6,7 +6,7 @@ weeks.  Developers who show familiarity and facility in the Unix environment
 environment.  Failure to demonstrate a certain level of comfort is a negative
 signal.
 
-## Friday
+## Tuesday
 
 Topic | Assignee
 ----- | --------
@@ -16,7 +16,7 @@ Topic | Assignee
 `|` (pipe), `>`, `<`, `STDOUT`, `STDERR`, `STDIN`| Alex
 `tail`, `tail -f`, `head` | Mai
 
-## Monday
+## Wednesday
 
 Topic | Assignee
 ----- | --------
@@ -25,7 +25,7 @@ Shell path navigation: absolute/relative paths(`~`, `.`, `..`, `-`): expanded sh
 processes, `ps`, `kill`, `signals` | Daniella
 `initd`, `pstree` | Ashley
 
-## Tuesday
+## Thursday
 
 Topic | Assignee
 ----- | --------
