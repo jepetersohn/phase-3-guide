@@ -12,7 +12,7 @@ Use the Github Graphs Timecard graph.  It will show you when you're working.  Yo
 
 ## Don't Abuse Chemicals
 
-I've overheard in seeral final projects that students were abusing Adderall to get through the final project. In no circumstance should you follow this technique.  If it's prescribed to you by a licensed medical pratcitioner, fine; but you should not **ab**use pharmacology in the pursuit of your goals.
+I've overheard in several final projects that students were abusing Adderall to get through the final project. In no circumstance should you follow this technique.  If it's prescribed to you by a licensed medical pratcitioner, fine; but you should not **ab**use pharmacology in the pursuit of your goals.
 
 ## Do Ask for Help When Interpersonal Conflict Is Unmanageable
 
