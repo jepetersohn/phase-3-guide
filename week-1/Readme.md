@@ -6,7 +6,7 @@
 - am - Phase 3 Orientation &amp; Building Frameworks
 - 2p
   - Journaling Exercise: Where I want to be at the end of Phase III
-  - Assign [Unixy Topics](../../../unixy_topics.md)
+  - Assign [Unixy Topics](../../../../unixy_topics.md)
   - The Web Stack Application Problem
   - Learning to Play with Rails
 - pm - Migration Challenge
