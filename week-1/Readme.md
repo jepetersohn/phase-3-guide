@@ -5,6 +5,7 @@
 - 9a - Welcome new phase 1 students
 - am - Phase 3 Orientation &amp; Building Frameworks
 - 2p
+  - Journaling Exercise: Where I want to be at the end of Phase III
   - Assign Unixy Topics
   - The Web Stack Application Problem
   - Learning to Play with Rails
@@ -19,7 +20,9 @@
 
 - 9a - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
-- 2p - Hygienic `git` &amp; Build a Rails app live
+- 2p
+  - Hygienic `git` &amp; Build a Rails app live
+  - Journaling: "_ars est celare artem_: True art is to conceal art"
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
@@ -27,7 +30,10 @@
 
 ## Day 3: Capybara and TDD/BDD
 - 9a - Rails Q&amp;A Testing/Rspec Q&amp;A
-- 2p - TDD live demo with feature testing / TDD (red green refactor) and Capybara Intro
+- 2p
+  - Respond: "A change in perspective is worth 80 IQ points. Perspective is
+    worth 80 IQ points."
+  - TDD live demo with feature testing / TDD (red green refactor) and Capybara Intro
 - pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
 - 5p - Refactoring Tests: Feature tests unto Controller and Model
 - 6p
@@ -39,7 +45,10 @@
   - What belongs in a model
   - Organize your code with modules and concerns
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
-- 2p - Agile lecture: how to plan a project in an Agile team environment / Unixy talks assignment
+- 2p
+  - Agile lecture: how to plan a project in an Agile team environment
+  - Journaling: "Reflect on a challenge that blew up that you later regretted.
+    What could you have done to de-escalate tension?"
 - pm
   - [*overflow challenge](../../../../overflow-challenge)
 - 6p
