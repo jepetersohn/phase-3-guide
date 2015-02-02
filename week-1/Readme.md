@@ -18,7 +18,9 @@
 
 ### Day 2 - Build an app and test it
 
-- 9a - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
+- 9a
+  - Guest Lecture: Alex Qin on JavaScript Promises
+  - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
   - Hygienic `git` &amp; Build a Rails app live
