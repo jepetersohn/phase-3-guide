@@ -40,10 +40,12 @@
   - [Rspec Rails challenge](../../../../sf-rspec-rails-challenge)
 
 ## Day 4: Rails Patterns and Debugging
-- 9a - Rails Patterns intro:
-  - What belongs in the controller
-  - What belongs in a model
-  - Organize your code with modules and concerns
+- 9a
+  - Rails Patterns intro:
+    - What belongs in the controller
+    - What belongs in a model
+    - Organize your code with modules and concerns
+  - Asset Pipeline
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
   - Agile lecture: how to plan a project in an Agile team environment
