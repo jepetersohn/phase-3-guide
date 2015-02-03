@@ -21,13 +21,13 @@
 
 - 9a
   - **Developer Strategy of the Day**:  "_What is the nature of X_?"
-  - ~~Guest Lecture: Alex Qin on JavaScript Promises~~  She fell ill :(
   - Journaling:  "What is the 1:1 map?"
-  - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
+  - Resourceful Routing: what Rails does _really_ well
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
+  - Unixy talks
+  - Rails Q&amp;A, `link_to` and `form_for`
   - Hygienic `git` &amp; Build a Rails app live
-  - Journaling: "_ars est celare artem_: True art is to conceal art"
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
