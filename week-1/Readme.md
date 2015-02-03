@@ -5,6 +5,7 @@
 - 9a - Welcome new phase 1 students
 - am - Phase 3 Orientation &amp; Building Frameworks
 - 2p
+  - **Developer Strategy of the Day**:  Sux / Rox
   - Journaling Exercise: Where I want to be at the end of Phase III
   - Assign [Unixy Topics](../../../../unixy_topics.md)
   - The Web Stack Application Problem
@@ -19,7 +20,9 @@
 ### Day 2 - Build an app and test it
 
 - 9a
-  - Guest Lecture: Alex Qin on JavaScript Promises
+  - **Developer Strategy of the Day**:  "_What is the nature of X_?"
+  - ~~Guest Lecture: Alex Qin on JavaScript Promises~~  She fell ill :(
+  - Journaling:  "What is the 1:1 map?"
   - Rails Q&amp;A, link\_to and form\_for: what Rails does _really_ well
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
@@ -31,7 +34,9 @@
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
 
 ## Day 3: Capybara and TDD/BDD
-- 9a - Rails Q&amp;A Testing/Rspec Q&amp;A
+- 9a 
+  - **Developer Strategy of the Day**:  Fewest streps to verification
+  - Rails Q&amp;A Testing/Rspec Q&amp;A
 - 2p
   - Respond: "A change in perspective is worth 80 IQ points. Perspective is
     worth 80 IQ points."
