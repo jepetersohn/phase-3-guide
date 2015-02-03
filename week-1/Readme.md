@@ -23,11 +23,12 @@
   - **Developer Strategy of the Day**:  "_What is the nature of X_?"
   - Journaling:  "What is the 1:1 map?"
   - Resourceful Routing: what Rails does _really_ well
+  - Rails Q&amp;A, `link_to` and `form_for`
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
   - Unixy talks
-  - Rails Q&amp;A, `link_to` and `form_for`
-  - Hygienic `git` &amp; Build a Rails app live
+  - Streams and the Machine
+- 5p - Hygienic `git` &amp; Build a Rails app live
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
