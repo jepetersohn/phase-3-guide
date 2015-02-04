@@ -37,7 +37,7 @@
 ## Day 3: Capybara and TDD/BDD
 - 9a 
   - **Developer Strategy of the Day**:  Fewest steps to verification
-  - Rails Q&amp;A Testing/Rspec Q&amp;A
+  - Rails Q&amp;A, Feature Testing with RSpec
 - 2p
   - Respond: "A change in perspective is worth 80 IQ points. Perspective is
     worth 80 IQ points."
