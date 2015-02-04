@@ -39,11 +39,9 @@
   - **Developer Strategy of the Day**:  Fewest steps to verification
   - Rails Q&amp;A, Feature Testing with RSpec
 - 2p
-  - Respond: "A change in perspective is worth 80 IQ points. Perspective is
-    worth 80 IQ points."
   - Unixy Talks
-  - "A-ha Moments" / Rails Q&amp;A
-  - TDD live demo with feature testing / TDD (red green refactor) and Capybara Intro
+  - Steven works with your code
+  - TDD live demo with feature testing 
 - pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
 - 5p - Refactoring Tests: Feature tests unto Controller and Model
 - 6p
@@ -51,6 +49,7 @@
 
 ## Day 4: Rails Patterns and Debugging
 - 9a
+  - TDD / Red-Green-Refactor
   - Rails Patterns intro:
     - What belongs in the controller
     - What belongs in a model
