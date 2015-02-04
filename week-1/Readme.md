@@ -41,6 +41,8 @@
 - 2p
   - Respond: "A change in perspective is worth 80 IQ points. Perspective is
     worth 80 IQ points."
+  - Unixy Talks
+  - "A-ha Moments" / Rails Q&amp;A
   - TDD live demo with feature testing / TDD (red green refactor) and Capybara Intro
 - pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
 - 5p - Refactoring Tests: Feature tests unto Controller and Model
