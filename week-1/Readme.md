@@ -33,6 +33,7 @@
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
+- :exclamation: :exclamation: :exclamation: **IMPORTANT** :exclamation: :exclamation: :exclamation: : Tomorrow is a _long_ day.  We're at the peak moment where we're using many of the components of Rails all at the same time.  Get a good night's rest, bring a healthy lunch and positive attitude tomorrow
 
 ## Day 3: Capybara and TDD/BDD
 - 9a 
