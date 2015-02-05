@@ -59,8 +59,6 @@
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
   - Agile lecture: how to plan a project in an Agile team environment
-  - Journaling: "Reflect on a challenge that blew up that you later regretted.
-    What could you have done to de-escalate tension?"
 - pm
   - [*overflow challenge](../../../../overflow-challenge)
 - 6p
@@ -68,12 +66,12 @@
   - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
 
 ## Day 5 - THE App
-- 9a - Ajax on Rails
+- 10a 
+  - Ajax on Rails
 - am - [*overflow challenge](../../../../overflow-challenge)
 - 2p -
   - Journaling: "What did you do this week that moved you closer to reaching
     your goals?"
-  - [Unixy Talks](../../../unixy_topics.md)
 - 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
