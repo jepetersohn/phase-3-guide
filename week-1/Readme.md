@@ -66,8 +66,7 @@
   - [Agile Lean Resources](https://gist.github.com/jeffreywescott/5223873)
 
 ## Day 5 - THE App
-- 10a 
-  - Ajax on Rails
+- 10a - Week 1 Review, Final Project discussion, Standup
 - am - [*overflow challenge](../../../../overflow-challenge)
 - 2p -
   - Journaling: "What did you do this week that moved you closer to reaching
@@ -76,5 +75,6 @@
 
 ## Weekend
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
-- Continue working on [*overflow challenge](../../../../overflow-challenge).
+- Continue working on [*overflow challenge](../../../../overflow-challenge)
+- Implement Markdown-Widget on your overflow (Sunday evening)
 
