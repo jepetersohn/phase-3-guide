@@ -20,8 +20,7 @@
 
 ### Day 3 Client-side heavy apps
 
-- 9a - Lil' Twitter Challenge
-     - [lil-twitter-challenge](../../../../lil-twitter-challenge)
+- 9a - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
 - 5p
      - Livecode Demo
 - 6p
