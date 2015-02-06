@@ -3,27 +3,25 @@
 ### Day 1 Ajax and JavaScript in Rails
 
 - 9a - Projects presentations
-- 10 - Closures &amp; Scoping
+- 10 - JS MVC from Scratch in Markdown Challenge
 - 11a 
-   - Unixy Talks
-   - [Markdown Challenge](../../../../markdown-widget-challenge) &amp; Code Reviews
-- 4 - Async &amp; `Promise()`
+   - [Grocery List Challenge](../../../../grocery-list-challenge)
+- 4 - JavaScript Power Tools: Scoping, Closures, and `Promise()`
 - 5p  - Markdown Challenge live
 
 ### Day 2 Advanced Javascript
 
-- 9a - Namespace &amp; IIFE &amp; Module Pattern
+- 9a - JavaScript Patterns: Namespace, IIFE, &amp; Module Pattern (_Oh My!_)
 - 10 - [Build miniQuery](../../../../miniQuery-challenge)
-- 2 - Unixy Talks
+- 2 - miniQuery live, Part I
 - 5p - miniQuery live, Q&amp;A Part II 
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Day 3 Client-side heavy apps
 
-- 9a - Big JS Q&amp; JS MVC
-     - [Grocery List](../../../../behavior-drill-grocery-list-challenge)
-- 2p
+- 9a - Lil' Twitter Challenge
+     - [lil-twitter-challenge](../../../../lil-twitter-challenge)
 - 5p
      - Livecode Demo
 - 6p
@@ -37,12 +35,10 @@
 
 > “When the final design seems too simple for the amount of work you’ve put in, then you know you’re done.” - Rich Hickey
 
-
-
 ### Day 4 Final Project
 
 - 9am - 9:25: PITCH DAY
-- Preflection
+- 9:30-10:30 Team Selection &amp; "Preflection"
    - Who I hope to be as a developer after this project
    - Coder Waterline
       - "People see me as X"
