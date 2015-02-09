@@ -1,26 +1,29 @@
 ## Week 2
 
-### Day 1 Ajax and JavaScript in Rails
+_Oh heck, I'm sick.  Adjusted schedule...._
 
-- 9a - Projects presentations
-- 10 - JS MVC from Scratch in Markdown Challenge
-- 11a 
-   - [Grocery List Challenge](../../../../grocery-list-challenge)
-- 4 - JavaScript Power Tools: Scoping, Closures, and `Promise()`
-- 5p  - Markdown Challenge live
+### Day 1 Advanced Javascript
 
-### Day 2 Advanced Javascript
-
-- 9a - JavaScript Patterns: Namespace, IIFE, &amp; Module Pattern (_Oh My!_)
-- 10 - [Build miniQuery](../../../../miniQuery-challenge)
-- 2 - miniQuery live, Part I
-- 5p - miniQuery live, Q&amp;A Part II 
+- 9a - Demos
+- _Steven will provide code review on the group projects via GitHub_
+- 10 - Research the following pattern in JavaScript: Namespace
+- 11 - [Build miniQuery](../../../../miniQuery-challenge)
+- 5 - _MiniQuery Solution will be provided for your review by Steven_
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+### Day 2 Ajax and JavaScript in Rails
+- 9:30 - MiniQuery Q&amp;A
+- 9:30 - 10 - JS MVC from Scratch in Markdown Challenge
+- 11a 
+   - [Grocery List Challenge](../../../../grocery-list-challenge)
+- 4 - 
+- 5p  - Markdown Challenge live
+
 ### Day 3 Client-side heavy apps
 
-- 9a - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
+- 9:00 - 10 JavaScript Power Tools: Scoping, Closures, and `Promise()`
+- 9:30 - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
 - 5p
      - Livecode Demo
 - 6p
