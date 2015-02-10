@@ -16,7 +16,7 @@ _Oh heck, I'm sick.  Adjusted schedule...._
 - 9:30 - MiniQuery Q&amp;A
 - 9:30 - 10 - JS MVC from Scratch in Markdown Challenge
 - 11a 
-   - [Grocery List Challenge](../../../../grocery-list-challenge)
+   - [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge)
 - 4 - 
 - 5p  - Markdown Challenge live
 
