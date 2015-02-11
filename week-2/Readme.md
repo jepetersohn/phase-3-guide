@@ -1,7 +1,5 @@
 ## Week 2
 
-_Oh heck, I'm sick.  Adjusted schedule...._
-
 ### Day 1 Advanced Javascript
 
 - 9a - Demos
@@ -13,17 +11,15 @@ _Oh heck, I'm sick.  Adjusted schedule...._
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Day 2 Ajax and JavaScript in Rails
-- 9:30 - MiniQuery Q&amp;A
-- 9:30 - 10 - JS MVC from Scratch in Markdown Challenge
+- 9:00 - Markdown Challenge Q&A
 - 11a 
    - [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge)
-- 4 - 
-- 5p  - Markdown Challenge live
+- 2 - JavaScript Power Tools: Scoping, Closures, and `Promise()`
+- pm - Grocery List
 
 ### Day 3 Client-side heavy apps
 
-- 9:00 - 10 JavaScript Power Tools: Scoping, Closures, and `Promise()`
-- 9:30 - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
+- 9:00 - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
 - 5p
      - Livecode Demo
 - 6p
