@@ -153,4 +153,4 @@ must all show each other due respect.
 
 ### Student Handbook
 
-The [student handbook](../../..student-handbook) has information about DBC's agreements, policies, and rules. Please review it.
+The [student handbook](../../../student-handbook) has information about DBC's agreements, policies, and rules. Please review it.
