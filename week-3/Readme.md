@@ -26,6 +26,7 @@ I will jump on your team as the lead engineer. I will conduct code review, test 
 Each team will present to teachers and get direct feedback. Exact schedule to be posted.
 
 - 9a - Project standup (each team will give 1 update)
+  - [Steven's Notes on Presentations](./sgharms-presentation-notes.md)
 - 2pm EE / Journaling / Reflection (10m)
   - Career Advice from [Gayle Laakmann McDowell](http://www.quora.com/What-are-the-top-10-pieces-of-career-advice-Gayle-Laakmann-McDowell-would-give-to-future-software-engineers/answer/Gayle-Laakmann-McDowell)
 - 4pm:  Dry runs and feedback
