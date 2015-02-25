@@ -74,6 +74,7 @@
 - 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
+
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
 - Continue working on [*overflow challenge](../../../../overflow-challenge)
 - Implement [Markdown-Widget on your overflow (Sunday evening)](../../../../markdown-widget-challenge)
