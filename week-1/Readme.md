@@ -6,28 +6,32 @@
 - am - Phase 3 Orientation &amp; Building Frameworks
 - 2p
   - **Developer Strategy of the Day**:  Sux / Rox
-  - Journaling Exercise: Where I want to be at the end of Phase III
+  - Journaling Exercise:
+    - Where I want to be at the end of Phase III
+    - 3 concrete steps that will help ensure I attain my goal
   - Assign [Unixy Topics](../../../unixy_topics.md)
-  - The Web Stack Application Problem
-  - Learning to Play with Rails
-- pm - Migration Challenge
-- 5pm - Q&amp;A with Steven about getting started with Rails
+  - **Lecture**: The Web Stack Application Problem
+  - **Demo**: Learning to Play with Rails
+- pm - Continue migrating your audition
+- 5pm - Q&amp;A with instructor about getting started with Rails
 - 6p Auxiliary Learning
-  - Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
-  - Prepare Rails related questions based on your intro to Rails challenge.
-  - [Get ready for testing](../../../../phase-3-guide/blob/master/week-1/discussions/rspec.md)
+  - [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+  - [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)
 
 ### Day 2 - Build an app and test it
 
 - 9a
   - **Developer Strategy of the Day**:  "_What is the nature of X_?"
-  - Journaling:  "What is the 1:1 map?"
-  - Resourceful Routing: what Rails does _really_ well
-  - Rails Q&amp;A, `link_to` and `form_for`
+  - Journaling:  "What is the 1:1 map?  What is a map that perfectly represents its territory?"
+  - **Lecutre**: Resourceful Routing: what Rails does _really_ well
+  - Rails Q&amp;A, `link_to` and `form_for`, examples of [Rails Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
   - Unixy talks
-  - Streams and the Machine
+  - Rails Patterns intro:
+    - What belongs in the controller
+    - What belongs in a model
+    - Organize your code with modules and concerns
 - 5p - Hygienic `git` &amp; Build a Rails app live
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
@@ -36,25 +40,20 @@
 - :exclamation: :exclamation: :exclamation: **IMPORTANT** :exclamation: :exclamation: :exclamation: : Tomorrow is a _long_ day.  We're at the peak moment where we're using many of the components of Rails all at the same time.  Get a good night's rest, bring a healthy lunch and positive attitude tomorrow
 
 ## Day 3: Capybara and TDD/BDD
-- 9a 
+- 9a
   - **Developer Strategy of the Day**:  Fewest steps to verification
   - Rails Q&amp;A, Feature Testing with RSpec
 - 2p
   - Unixy Talks
-  - Steven works with your code
-  - TDD live demo with feature testing 
-- pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
-- 5p - Refactoring Tests: Feature tests unto Controller and Model
-- 6p
-  - [Rspec Rails challenge](../../../../sf-rspec-rails-challenge)
+  - TDD / Red-Green-Refactor live demo with feature testing
+  - Refactoring Tests: Feature tests unto Controller and Model
+- pm - Add tests to your portfolio app
+- 5p - Instructor works with your code
+- 6p - Work with Testing
+    - [Todo MVC challenge](../../../../todomvc-rails-challenge)
 
 ## Day 4: Rails Patterns and Debugging
 - 9a
-  - TDD / Red-Green-Refactor
-  - Rails Patterns intro:
-    - What belongs in the controller
-    - What belongs in a model
-    - Organize your code with modules and concerns
   - Asset Pipeline
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
@@ -68,13 +67,17 @@
 ## Day 5 - THE App
 - 10a - Week 1 Review, Final Project discussion, Standup
 - am - [*overflow challenge](../../../../overflow-challenge)
-- 2p -
+- 2p - Mocks, Stubs, Doubles
+    - **Lecture**: Live demo of mocks, stubs, and doubles
+    - [Additional Reference](./discussions/mocks-stubs-doubles/README.md)
   - Journaling: "What did you do this week that moved you closer to reaching
     your goals?"
+- 5p - MVP demo of THE App
 - 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
+
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
 - Continue working on [*overflow challenge](../../../../overflow-challenge)
 - Implement [Markdown-Widget on your overflow (Sunday evening)](../../../../markdown-widget-challenge)
-
+- Why Rails hated(hates?) JavaScript - Since 2005 and exploring `Content-type`

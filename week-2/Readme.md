@@ -3,7 +3,7 @@
 ### Day 1 Advanced Javascript
 
 - 9a - Demos
-- _Steven will provide code review on the group projects via GitHub_
+- _Code review on the group projects via GitHub_
 - 10 - Research the following pattern in JavaScript: Namespace
 - 11 - [Build miniQuery](../../../../miniQuery-challenge)
 - 5 - _MiniQuery Solution will be provided for your review by Steven_
@@ -38,11 +38,11 @@
 - 9am - 9:25: PITCH DAY
 - 9:30-10:30 Team Selection &amp; "Preflection"
    - Who I hope to be as a developer after this project
-   - Coder Waterline
+   - Coder Waterline, while teams are built
       - "People see me as X"
       - "But really I'm Y"
       - "And I'm most afraid of Z in this project"
-- [Final Project Guidelines](./final_project_guidelines.md)
+- [Final Project Guidelines](./final-project-directions/Readme.md)
 - Start Work on Final Projects
 
 ### Day 5 Final Project

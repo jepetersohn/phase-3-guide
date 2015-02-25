@@ -1,15 +1,3 @@
-Greetings,
-
-Welcome to Phase III.  As your instructor(s) will further detail, we need to go
-fast in this phase so that we can make the best final projects possible, as
-well as prepare you for the job market.
-
-In order to prepare yourselves for next week you will need to invest time this
-weekend (~16-20 hours) to be at peak performance on next Monday.
-
-1.  Type along with Cows on Rails (below)
-2.  Work through the [intro-to-rails-challenge](https://github.com/eastern-moose-2014/intro-to-rails-challenge)
-
 ## Cows on Rails (~ 1 hour)
 
 We will spend several of our opening hours together getting to understand
@@ -26,31 +14,6 @@ industry veteran with years of experience.  In this document he shows you how
 professionals engage in _directed play_ to get their bearings.  This skill can
 be applied to _any_ language and is the _key_ as to how experienced developers
 can learn so many languages to a basic level of proficiency quickly.
-
-## Intro To Rails Challenge (~ 10 hours)
-
-This is a challenge unlike others you have seen.  It's an exploratory
-challenge.  It is comprised of 13 branches that you are to visit.  Each branch
-features a changed Readme.md to guide you in your exploration of Rails.  **You
-should be able to bounce the theories presented in this exercise off of the
-practical work you did in Cows on Rails**.  As you explore each of the branches
-take notes: What are the key files? What is the assumption that's made here.
-
-* You **will not** be sumitting pull requests based on changes
-* This challenge forms the "required vocabulary" for our first week
-
-Please record and research any questions you might have.  Come Monday we'll be
-jumping into the deep end of Rails
-
-## Bugs Clarifications Etc.
-
-Your instructor(s) is an e-mail addict and will see any emails that you send
-detailing "X doesn't work" or "Y isn't there" &mdash; even nights and weekends.
-Please pass them along if you have issues.  Otherwise &mdash; excelsior!
-
--- Your Phase III teachers
-
-----
 
 ### Cows on Rails
 
@@ -296,3 +259,4 @@ Some things to think about:
 * Inside a rails action try adding p request as the first line to see what information about the request from the browser is readily available to you. Try p params as well.
 * Try generating a "scaffold" for another model.  The documentation is at http://guides.rubyonrails.org/command_line.html 
 * Take a look at the files it generates. Note the use of helpers like link_to, form_for and so on. Try listing out as many as you can find and read their documentation.
+
