@@ -38,7 +38,7 @@
 - 9am - 9:25: PITCH DAY
 - 9:30-10:30 Team Selection &amp; "Preflection"
    - Who I hope to be as a developer after this project
-   - Coder Waterline
+   - Coder Waterline, while teams are built
       - "People see me as X"
       - "But really I'm Y"
       - "And I'm most afraid of Z in this project"
