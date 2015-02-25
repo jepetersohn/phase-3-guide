@@ -22,13 +22,16 @@
 
 - 9a
   - **Developer Strategy of the Day**:  "_What is the nature of X_?"
-  - Journaling:  "What is the 1:1 map?"
-  - Resourceful Routing: what Rails does _really_ well
-  - Rails Q&amp;A, `link_to` and `form_for`
+  - Journaling:  "What is the 1:1 map?  What is a map that perfectly represents its territory?"
+  - **Lecutre**: Resourceful Routing: what Rails does _really_ well
+  - Rails Q&amp;A, `link_to` and `form_for`, examples of [Rails Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
   - Unixy talks
-  - Streams and the Machine
+  - Rails Patterns intro:
+    - What belongs in the controller
+    - What belongs in a model
+    - Organize your code with modules and concerns
 - 5p - Hygienic `git` &amp; Build a Rails app live
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
