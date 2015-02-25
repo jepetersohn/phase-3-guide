@@ -54,11 +54,6 @@
 
 ## Day 4: Rails Patterns and Debugging
 - 9a
-  - TDD / Red-Green-Refactor
-  - Rails Patterns intro:
-    - What belongs in the controller
-    - What belongs in a model
-    - Organize your code with modules and concerns
   - Asset Pipeline
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
