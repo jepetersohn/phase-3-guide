@@ -6,17 +6,30 @@ weeks.  Developers who show familiarity and facility in the Unix environment
 environment.  Failure to demonstrate a certain level of comfort is a negative
 signal.
 
+## Tuesday
+
 Topic | Assignee
 ----- | --------
 `man` |
-`|` ("pipe")|
 `cat` |
-`tail`, `head` |
+`grep`|
+`|` (pipe), `>`, `<`, `STDOUT`, `STDERR`, `STDIN` |
+`tail`, `tail -f`, `head` |
+
+## Wednesday
+
+Topic | Assignee
+----- | --------
 `PATH`: setting, order, precendence |
-Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` |
+Shell path navigation: absolute/relative paths(`~`, `.`, `..`, `-`): expanded shortcuts, `cd` |
 processes, `ps`, `kill`, `signals` |
-`bundler` |
+`initd`, `pstree` |
+
+## Thursday
+
+Topic | Assignee
+----- | --------
+[`bundler`](http://bundler.io) |
 `sed`, `tr` |
 `awk` |
 `argv`, `argc` |
-`initd` to shell prompt |
