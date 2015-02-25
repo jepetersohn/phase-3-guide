@@ -13,7 +13,7 @@
   - **Lecture**: The Web Stack Application Problem
   - **Demo**: Learning to Play with Rails
 - pm - Continue migrating your audition
-- 5pm - Q&amp;A with Steven about getting started with Rails
+- 5pm - Q&amp;A with instructor about getting started with Rails
 - 6p Auxiliary Learning
   - [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
   - [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)

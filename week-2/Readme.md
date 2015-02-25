@@ -3,7 +3,7 @@
 ### Day 1 Advanced Javascript
 
 - 9a - Demos
-- _Steven will provide code review on the group projects via GitHub_
+- _Code review on the group projects via GitHub_
 - 10 - Research the following pattern in JavaScript: Namespace
 - 11 - [Build miniQuery](../../../../miniQuery-challenge)
 - 5 - _MiniQuery Solution will be provided for your review by Steven_
