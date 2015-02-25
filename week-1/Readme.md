@@ -67,7 +67,9 @@
 ## Day 5 - THE App
 - 10a - Week 1 Review, Final Project discussion, Standup
 - am - [*overflow challenge](../../../../overflow-challenge)
-- 2p -
+- 2p - Mocks, Stubs, Doubles
+    - **Lecture**: Live demo of mocks, stubs, and doubles
+    - [Additional Reference](./discussions/mocks-stubs-doubles/README.md)
   - Journaling: "What did you do this week that moved you closer to reaching
     your goals?"
 - 5p - MVP demo of THE App
