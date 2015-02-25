@@ -70,6 +70,7 @@
 - 2p -
   - Journaling: "What did you do this week that moved you closer to reaching
     your goals?"
+- 5p - MVP demo of THE App
 - 6p - [*overflow challenge](../../../../overflow-challenge)
 
 ## Weekend
