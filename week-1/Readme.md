@@ -40,17 +40,17 @@
 - :exclamation: :exclamation: :exclamation: **IMPORTANT** :exclamation: :exclamation: :exclamation: : Tomorrow is a _long_ day.  We're at the peak moment where we're using many of the components of Rails all at the same time.  Get a good night's rest, bring a healthy lunch and positive attitude tomorrow
 
 ## Day 3: Capybara and TDD/BDD
-- 9a 
+- 9a
   - **Developer Strategy of the Day**:  Fewest steps to verification
   - Rails Q&amp;A, Feature Testing with RSpec
 - 2p
   - Unixy Talks
-  - Steven works with your code
-  - TDD live demo with feature testing 
-- pm - [Todo MVC challenge](../../../../todomvc-rails-challenge)
-- 5p - Refactoring Tests: Feature tests unto Controller and Model
-- 6p
-  - [Rspec Rails challenge](../../../../sf-rspec-rails-challenge)
+  - TDD / Red-Green-Refactor live demo with feature testing
+  - Refactoring Tests: Feature tests unto Controller and Model
+- pm - Add tests to your portfolio app
+- 5p - Instructor works with your code
+- 6p - Work with Testing
+    - [Todo MVC challenge](../../../../todomvc-rails-challenge)
 
 ## Day 4: Rails Patterns and Debugging
 - 9a
