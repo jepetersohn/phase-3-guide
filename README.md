@@ -89,7 +89,7 @@ the case here.
 
 ### On Taste
 
-![quote by Ira Glass on beginners](ira-glass-quote.jpg)
+![quote by Ira Glass on beginners](./img/ira-glass-quote.jpg)
 
 While you're fighting through the process of learning to exercise your
 creative desires in terms of your tastes, remember to [Do It Anyway][]
