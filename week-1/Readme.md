@@ -33,6 +33,7 @@
     - What belongs in a model
     - Organize your code with modules and concerns
 - 5p - Hygienic `git` &amp; Build a Rails app live
+  - [git-with-it-challenge](../../../../git-with-it-challenge)
 - 6p - Testing Drills:
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
