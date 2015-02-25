@@ -74,3 +74,15 @@ but you should not **ab**use pharmacology in the pursuit of your goals.
 Your instructors have seen projects encounter, survive, and move past
 interpersonal worries.  Do not keep these concerns to yourself, reach out to
 us.
+
+## GETTING STARTED
+
+1.  Create a repo underneath your cohort organization
+2.  Create a README.md in said repo
+3.  In the README provide:
+  * Project name
+  * Your names
+  * Your Trello Board
+  * Any working agreements
+4. _Later..._ after ideation, provide the user stories which comprise your MVP
+5. Set up Continuous Integration where applicable (CircleCI, Travis)
