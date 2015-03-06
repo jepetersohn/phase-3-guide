@@ -58,7 +58,7 @@
   - Asset Pipeline
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
-  - Agile lecture: how to plan a project in an Agile team environment
+  - [Agile lecture: how to plan a project in an Agile team environment](./discussions/agile_outline.md)
 - pm
   - [*overflow challenge](../../../../overflow-challenge)
 - 6p
