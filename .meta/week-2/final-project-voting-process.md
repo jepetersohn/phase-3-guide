@@ -55,5 +55,7 @@ The teams should:
   * Link to Trello board
   * Stories that comprise the MVP
 
+The Cohort Lead should:
+  * Send a copy to Sarena
 ## Finish
 
