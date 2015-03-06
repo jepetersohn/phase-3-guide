@@ -11,7 +11,9 @@ steer away from hodge-podges of various techniques that create Frankencode?
 How to understand the role of CoffeeScript or Turbolinks?
 
 In this document I want to take a look at how AJAX and Rails integration
-evolved from a historical / discovery perspective.  This guide leads the reader
+evolved from an historical / discovery perspective.  In the early portion we
+will pay special attention to basic interactions between the HTTP protocol
+and the Rails server.  This guide leads the reader
 to build up an application that allows the reader to "re-discover" the
 conversations and decisions Rails developers made while integrating the various
 AJAX approaches into the framework.
