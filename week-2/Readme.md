@@ -4,18 +4,19 @@
 
 - 9a - Demos
 - _Code review on the group projects via GitHub_
-- 10 - Research the following pattern in JavaScript: Namespace
-- 11 - [Build miniQuery](../../../../miniQuery-challenge)
-- 5 - _MiniQuery Solution will be provided for your review by Steven_
+- 10 - Advanced JavaScript
+  - Choosing your patterns: IIFE, Module, Namespace
+  - Closures, scope, higher-order functions
+  - _MiniQuery Solution will be provided for your review by Steven_
+  - [Markdown Widget Challenge](../../../../markdown-widget-challenge)
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Day 2 Ajax and JavaScript in Rails
 - 9:00 - Markdown Challenge Q&A
-- 11a 
-   - [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge)
-- 2 - JavaScript Power Tools: Scoping, Closures, and `Promise()`
-- pm - Grocery List
+- 10a [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge) 
+- 2 - JavaScript Power Tools: `Promise()`
+- pm - Grocery List Review
 
 ### Day 3 Client-side heavy apps
 
