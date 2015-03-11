@@ -81,4 +81,9 @@
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
 - Continue working on [*overflow challenge](../../../../overflow-challenge)
 - Implement [Markdown-Widget on your overflow (Sunday evening)](../../../../markdown-widget-challenge)
-- Why Rails hated(hates?) JavaScript - Since 2005 and exploring `Content-type`
+- Rails videos by Steven
+  - [Rails and HTTP][]
+  - [Rails and AJAX Over Time][]
+
+[Rails and HTTP]: https://talks.devbootcamp.com/rails-and-http
+[Rails and AJAX Over Time]:https://talks.devbootcamp.com/rails-and-ajax-over-time
