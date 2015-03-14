@@ -17,7 +17,7 @@ You should read it all, but...
   * Github based code review
   * Pointed criticism
   * Teachers won't ask "do you need help."  You're going to have to ask for it
-  * Remember IKE
+  * Remember Integrity, Kindness, &amp; Whole Self
   * Don't be late
   * Don't be lazy
 * We want to give you real-world, project-based challenges
