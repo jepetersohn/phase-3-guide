@@ -18,8 +18,9 @@ You should read it all, but...
   * Pointed criticism
   * Teachers won't ask "do you need help."  You're going to have to ask for it
   * Remember Integrity, Kindness, &amp; Whole Self
-  * Don't be late
-  * Don't be lazy
+  * Don't be {late, lazy}
+  * We _probably_ won't do "solo day."  The challenges are hard enough and we're preparing you for a gigantic
+    group project.
 * We want to give you real-world, project-based challenges
 * Use Rails, but don't become a "Rails developer." Become a great developer and
   the tech won't matter
