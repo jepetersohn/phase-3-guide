@@ -3,15 +3,19 @@
 ### Day 1 - Intro
 
 - 9a - Welcome new phase 1 students
-- am - Phase 3 Orientation &amp; Building Frameworks
-- 2p
-  - **Developer Strategy of the Day**:  Sux / Rox
+- am 
+  - Phase 3 Orientation  
   - Journaling Exercise:
     - Where I want to be at the end of Phase III
     - 3 concrete steps that will help ensure I attain my goal
+  - **Developer Strategy of the Morning**:  Sux / Rox  
+  - Building Frameworks
+    - **Lecture**: Building an Interactive Web
+- 2p
   - Assign [Unixy Topics](../../../unixy_topics.md)
-  - **Lecture**: The Web Stack Application Problem
+  - **Developer Strategy of the Afternoon**:  Focused Play
   - **Demo**: Learning to Play with Rails
+  - Rails Q&amp;A (time / energy permitting)
 - pm - Continue migrating your audition
 - 5pm - Q&amp;A with instructor about getting started with Rails
 - 6p Auxiliary Learning
@@ -23,7 +27,7 @@
 - 9a
   - **Developer Strategy of the Day**:  "_What is the nature of X_?"
   - Journaling:  "What is the 1:1 map?  What is a map that perfectly represents its territory?"
-  - **Lecutre**: Resourceful Routing: what Rails does _really_ well
+  - **Lecture**: Resourceful Routing: what Rails does _really_ well
   - Rails Q&amp;A, `link_to` and `form_for`, examples of [Rails Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
