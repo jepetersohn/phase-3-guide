@@ -23,6 +23,8 @@ longer think of yourselves as "classmates" but rather "teammates" or
   - ...but we will ocassionally have surprise break-outs
   - ...and we may occasionally drop lectures if we think we'll be interrupting
     your flow
+- Pace &amp; Schedule
+  - I reserve the right to change the schedule and accelerate / collapse days depending on the pace of the cohort
 
 ## Challenges
 
