@@ -37,8 +37,8 @@
     - What belongs in a model
     - Organize your code with modules and concerns
 - 5p - Hygienic `git` &amp; Build a Rails app live
-  - [git-with-it-challenge](../../../../git-with-it-challenge)
-- 6p - Testing Drills:
+  - [git-with-it-challenge](../../../../git-with-it-challenge) - **Mandatory** we will review this tomorrow
+- 6p - Auxiliary Testing Drills (if you're weak on RSpec):
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
@@ -46,6 +46,7 @@
 
 ## Day 3: Capybara and TDD/BDD
 - 9a
+  - Review Hygienic git
   - **Developer Strategy of the Day**:  Fewest steps to verification
   - Rails Q&amp;A, Feature Testing with RSpec
 - 2p
