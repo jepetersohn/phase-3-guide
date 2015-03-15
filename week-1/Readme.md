@@ -26,7 +26,7 @@
 
 - 9a
   - **Developer Strategy of the Day**:  "_What is the nature of X_?"
-  - Journaling:  "What is the 1:1 map?  What is a map that perfectly represents its territory?"
+  - Journaling:  "What is the 1:1 map?  What is a map that perfectly represents its territory?" _For more meditations on representation and intention, visit [Yudkowsky's blog: Less Wrong](http://www.yudkowsky.net/rational/the-simple-truth)_
   - **Lecture**: Resourceful Routing: what Rails does _really_ well
   - Rails Q&amp;A, `link_to` and `form_for`, examples of [Rails Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
