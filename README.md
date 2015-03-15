@@ -51,6 +51,23 @@ challenges is on the process of problem solving and articulating a solution in
 code well.  _We expect that you can complete any challenge at this point.
 **HOW** you complete it is at stake_.  Code quality is #1.
 
+## Developer Strategies
+
+During our instructional portion of this phase (before the final project) we
+will discuss "Developer Strategies."  These are meta-techniques that will help
+you understand problems in life, problems in code, and problems in the human
+heart.
+
+These are meta disciplines that are common to all thinkers, tinkers, and makers:
+they debug faulty prose, faulty engines, faulty software, faulty communication.
+
+As Neal Stephenson wrote in _Cryptonomicon_:
+
+> Randy counts four men in addition to  Amy and
+the pilot two Caucasians  and two Filipinos. All of them are fiddling around
+with engines or diving gear in a way Randy recognizes, through many cultural
+and technological barriers, as debugging.
+
 ## Rails
 
 Rails is a powerful tool.  While you've had to write and re-write the same
