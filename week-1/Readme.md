@@ -52,20 +52,24 @@
   - Review Hygienic git
   - **Developer Strategy of the Day**:  Fewest steps to verification
   - Rails Q&amp;A, Feature Testing with RSpec
+  - Build a Rails TODO app TDD style
 - 2p
-  - Unixy Talks
+  - [Unixy Topics][]
   - TDD / Red-Green-Refactor live demo with feature testing
   - Refactoring Tests: Feature tests unto Controller and Model
-- pm - Add tests to your portfolio app
-- 5p - Instructor works with your code
+- 5p - Add testing to your Sinatra to Rails App OR your audition app OR 
+- 5p - 5:30 - Instructor works with your code
 - 6p - Work with Testing
-    - [Todo MVC challenge](../../../../todomvc-rails-challenge)
+  - [Reference TDD](../../../../todomvc-rails-challenge)
+ 
 
 ## Day 4: Rails Patterns and Debugging
 - 9a
+  - **Developer Strategy of the Day**:  [Transformations, Streams, and the Machine][steven-blog]
   - Asset Pipeline
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
+  - [Unixy Topics][]
   - [Agile lecture: how to plan a project in an Agile team environment](./discussions/agile_outline.md)
 - pm
   - [*overflow challenge](../../../../overflow-challenge)
@@ -98,3 +102,4 @@
 [Rails and HTTP]: https://talks.devbootcamp.com/rails-and-http
 [Rails and AJAX Over Time]:https://talks.devbootcamp.com/rails-and-ajax-over-time
 [Unixy Topics]: ./unixy_topics.md
+[steven-blog]: http://stevengharms-blog.herokuapp.com/blog/2015/01/19/streams-and-the-soul-of-the-machine/
