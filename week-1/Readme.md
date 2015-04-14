@@ -85,6 +85,7 @@
   - Standup
 - am - [*overflow challenge](../../../../overflow-challenge)
 - 2p - 
+  - [Unixy Topics][]
   - Journaling: "What did you do this week that moved you closer to reaching
     your goals?"
 - 5p - MVP demo of THE App
@@ -95,7 +96,7 @@
 - Week recap: what did we learn? Am I confused/unsure about something? Write specific questions about the week.
 - Continue working on [*overflow challenge](../../../../overflow-challenge)
 - Implement [Markdown-Widget on your overflow (Sunday evening)](../../../../markdown-widget-challenge)
-- Rails videos by Steven
+- Rails videos by Steven (font is small (sorry, will rerecord), watch in HD!)
   - [Rails and HTTP][]
   - [Rails and AJAX Over Time][]
 
