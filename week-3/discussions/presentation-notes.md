@@ -1,6 +1,6 @@
 # Good Presentation
 
-## The Imprortance of Presentation
+## The Importance of Presentation
 
 * How many things do we take a whole day for at DBC: Roman Numerals, a day of
   working on a final project, etc.  It's a way of communicating "this is
@@ -120,6 +120,13 @@ You _can_ show _some_ code but you need to be very focused about it.
 
 ## Peeves
   * Don't show me login
+
+## Questions from the Audience
+  
+* If asked a rather technical question and you don't know, don't riff and try to come up with an answer.  A competent querent will detect when you go into BS mode and you will have done that publicly
+* If you think you understand the question **and** can answer do so.  BUT if you get feedback that you didn't really address their question, offer to take the question after the presentation
+* If you get confused by a question, delay with a joke: "Uhm, I heard you ask me if we ever iterated over an array in this project, but right now I'm so thankful that I made it through that presentation that I can't think straight, can we discuss this over some hummus in a minute?"
+* In short, delay until you feel like you can own the space in which the question is asked.  As Sun Tzu said: "The general who wins the battle makes many calculations in his temple before the battle is fought. The general who loses makes but few calculations beforehand."
 
 ## Reference
   * A successful 10 year corporate career
