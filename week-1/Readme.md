@@ -5,20 +5,21 @@
 - 9a - Welcome new phase 1 students
 - am 
   - Phase 3 Orientation  
-  - Journaling Exercise:
-    - Where I want to be at the end of Phase III
-    - 3 concrete steps that will help ensure I attain my goal
   - **Developer Strategy of the Morning**:  Sux / Rox  
   - Building Frameworks
     - **Lecture**: Building an Interactive Web
 - 2p
-  - Assign [Unixy Topics](../../../unixy_topics.md)
+  - Assign [Unixy Topics][]
+  - Journaling Exercise:
+    - Where I want to be at the end of Phase 3
+    - 3 concrete steps that will help ensure I attain my goal
   - **Developer Strategy of the Afternoon**:  Focused Play
   - **Demo**: Learning to Play with Rails
-  - Rails Q&amp;A (time / energy permitting)
-- pm - Continue migrating your audition
-- 5pm - Q&amp;A with instructor about getting started with Rails
-- 6p Auxiliary Learning
+    - `link_to` and `form_for`, `form_tag` and routes lite (more tomorrow!)
+    - Examples of [Rails Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+- 5p Rails Q&amp;A (time / energy permitting)
+- pm 
+  - Continue migrating your audition
   - [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
   - [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)
 
@@ -94,3 +95,4 @@
 
 [Rails and HTTP]: https://talks.devbootcamp.com/rails-and-http
 [Rails and AJAX Over Time]:https://talks.devbootcamp.com/rails-and-ajax-over-time
+[Unixy Topics]: ./unixy_topics.md
