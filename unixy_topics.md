@@ -16,6 +16,8 @@ Topic | Assignee
 Shell path navigation: absolute/relative paths(`!`, `.`, `..`): expanded shortcuts, `cd` |
 processes, `ps`, `kill`, `signals` |
 `bundler` |
+`find` |
+`grep` |
 `sed`, `tr` |
 `awk` |
 `argv`, `argc` |
