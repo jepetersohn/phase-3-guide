@@ -5,7 +5,6 @@
 - 9a - Welcome new phase 1 students
 - am 
   - Phase 3 Orientation  
-  - **Developer Strategy of the Morning**:  Sux / Rox  
   - Building Frameworks
     - **Lecture**: Building an Interactive Web
 - 2p
@@ -13,20 +12,18 @@
   - Journaling Exercise:
     - Where I want to be at the end of Phase 3
     - 3 concrete steps that will help ensure I attain my goal
-  - **Developer Strategy of the Afternoon**:  Focused Play
   - **Demo**: Learning to Play with Rails
     - `link_to` and `form_for`, `form_tag` and routes lite (more tomorrow!)
     - Examples of [Rails Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+  - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 5p Rails Q&amp;A (time / energy permitting)
 - pm 
-  - Continue migrating your audition
   - [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
   - [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)
 
 ### Day 2 - Build an app and test it
 
 - 9a
-  - **Developer Strategy of the Day**:  "_What is the nature of X_?"
   - Journaling:  
     - "What is the 1:1 map?"
     - "What is a map that perfectly represents its territory?"
@@ -50,7 +47,6 @@
 ## Day 3: Capybara and TDD/BDD
 - 9a
   - Review Hygienic git
-  - **Developer Strategy of the Day**:  Fewest steps to verification
   - Rails Q&amp;A, Feature Testing with RSpec
   - Build a Rails TODO app TDD style
 - 2p
@@ -65,7 +61,6 @@
 
 ## Day 4: Rails Patterns and Debugging
 - 9a
-  - **Developer Strategy of the Day**:  [Transformations, Streams, and the Machine][steven-blog]
   - Asset Pipeline
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
