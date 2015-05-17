@@ -8,7 +8,7 @@ In order to prepare yourselves for next week you will need to invest time this
 weekend (~16-20 hours) to be at peak performance on next Monday.
 
 1.  Type along with Cows on Rails (below)
-2.  Work through the [intro-to-rails-challenge](https://github.com/eastern-moose-2014/intro-to-rails-challenge)
+2.  Work through the [intro-to-rails-challenge](../../../intro-to-rails-challenge)
 
 ## Cows on Rails (~ 1 hour)
 
