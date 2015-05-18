@@ -10,10 +10,10 @@ signal.
 
 Topic | Assignee
 ----- | --------
-`man` |
-`cat`, `grep` |
-`|` (pipe), `>`, `<`, `STDOUT`, `STDERR`, `STDIN` |
-`tail`, `tail -f`, `head` |
+`man` | Sid
+`cat`, `grep` | Ace
+`|` (pipe), `>`, `<`, `STDOUT`, `STDERR`, `STDIN` | Ari
+`tail`, `tail -f`, `head` |  Dora
 
 ## Wednesday
 
