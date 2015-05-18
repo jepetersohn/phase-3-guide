@@ -19,15 +19,15 @@ Topic | Assignee
 
 Topic | Assignee
 ----- | --------
-`PATH`: setting, order, precendence |
-Shell path navigation: absolute/relative paths(`~`, `.`, `..`, `-`): expanded shortcuts, `cd` |
-processes, `ps`, `kill`, `signals` |
-`initd`, `pstree` |
+`PATH`: setting, order, precendence | Scott
+Shell path navigation: absolute/relative paths(`~`, `.`, `..`, `-`): expanded shortcuts, `cd` | Brendan
+processes, `ps`, `kill`, `signals` | Sherman
+`initd`, `pstree` | Tanya
 
 ## Thursday
 
 Topic | Assignee
 ----- | --------
-[`bundler`](http://bundler.io) |
-`sed`, `awk` , `tr` |
-`argv`, `argc` |
+[`bundler`](http://bundler.io) | Alex
+`sed`, `awk` , `tr` | Luis
+`argv`, `argc` | Steven
