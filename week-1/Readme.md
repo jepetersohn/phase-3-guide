@@ -5,8 +5,8 @@
 - 9a - Welcome new phase 1 students
 - am 
   - Phase 3 Orientation  
-  - Building Frameworks
-    - **Lecture**: Building an Interactive Web
+  - Learning to Play with Rails
+  - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
   - Assign [Unixy Topics][]
   - Journaling Exercise:
@@ -15,7 +15,6 @@
   - **Demo**: Learning to Play with Rails
     - `link_to` and `form_for`, `form_tag` and routes lite (more tomorrow!)
     - Examples of [Rails Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
-  - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 5p Rails Q&amp;A (time / energy permitting)
 - pm 
   - [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
