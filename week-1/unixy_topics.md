@@ -11,8 +11,7 @@ signal.
 Topic | Assignee
 ----- | --------
 `man` |
-`cat` |
-`grep`|
+`cat`, `grep` |
 `|` (pipe), `>`, `<`, `STDOUT`, `STDERR`, `STDIN` |
 `tail`, `tail -f`, `head` |
 
@@ -30,6 +29,5 @@ processes, `ps`, `kill`, `signals` |
 Topic | Assignee
 ----- | --------
 [`bundler`](http://bundler.io) |
-`sed`, `tr` |
-`awk` |
+`sed`, `awk` , `tr` |
 `argv`, `argc` |
