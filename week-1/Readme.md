@@ -31,36 +31,34 @@
 - am - [Let's build an app without tests](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 - 2p
   - [Unixy Topics][]
-  - Rails Patterns intro (Learning from **your** auditions!):
-    - What belongs in the controller
-    - What belongs in a model
-    - Organize your code with modules and concerns
-- 5p - Hygienic `git`
-  - [git-with-it-challenge](../../../../git-with-it-challenge) - **Mandatory** we will review this tomorrow
+- pm Rails and testing with Rspec
+  - [rspec rails challenge](../../../../sf-rspec-rails-challenge)
 - 6p - Auxiliary Testing Drills (if you're weak on RSpec):
   - [Bank Account](../../../../rspec-drill-bank-account-challenge)
   - [Cookie](../../../../rspec-drill-test-a-cookie-challenge)
   - [Todo](../../../../rspec-drill-simple-todo-challenge)
-- :exclamation: :exclamation: :exclamation: **IMPORTANT** :exclamation: :exclamation: :exclamation: : Tomorrow is a _long_ day.  We're at the peak moment where we're using many of the components of Rails all at the same time.  Get a good night's rest, bring a healthy lunch and positive attitude tomorrow
 
 ## Day 3: Capybara and TDD/BDD
 - 9a
-  - Review Hygienic git
   - Rails Q&amp;A, Feature Testing with RSpec
   - Build a Rails TODO app TDD style
+  - [Reference TDD](../../../../todomvc-rails-challenge)
 - 2p
   - [Unixy Topics][]
   - TDD / Red-Green-Refactor live demo with feature testing
   - Refactoring Tests: Feature tests unto Controller and Model
-- 5p - Add testing to your Sinatra to Rails App OR your audition app OR 
-- 5p - 5:30 - Instructor works with your code
+  - Rails Patterns intro (Learning from **your** auditions!):
+    - What belongs in the controller
+    - What belongs in a model
+- 5p - Hygienic `git`
+  - [git-with-it-challenge](../../../../git-with-it-challenge) - **Mandatory** we will review this tomorrow
 - 6p - Work with Testing
-  - [Reference TDD](../../../../todomvc-rails-challenge)
  
 
 ## Day 4: Rails Patterns and Debugging
 - 9a
-  - Asset Pipeline
+  - Talk: Refactoring Pokemon
+  - Review Hygienic git
 - am - [Refactor-this challenge](../../../../refactor-this-challenge)
 - 2p
   - [Unixy Topics][]
