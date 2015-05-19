@@ -222,7 +222,7 @@ image_tag('icon.png', alt: 'Welcome to my blog')
 <%= render 'comments' %>
 # renders `app/views/posts/_comments.html.erb`
 
-<%= render 'comment', collection: @post.comments %>
+<%= render partial: 'comment', collection: @post.comments %>
 # renders `app/views/posts/_comment.html.erb` for each Comment
 
 <%= render @comments %>
