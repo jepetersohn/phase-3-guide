@@ -172,7 +172,7 @@ end
 # <a href="/" class="home">Home</a>
 ```
 
-#### `button_tag`
+#### `button_to`
 
 ```ruby
 <%= button_to('Upvote', post_vote_path(@post)) %>
