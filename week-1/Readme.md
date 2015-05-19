@@ -46,7 +46,6 @@
 - 2p
   - [Unixy Topics][]
   - TDD / Red-Green-Refactor live demo with feature testing
-  - Refactoring Tests: Feature tests unto Controller and Model
   - Rails Patterns intro (Learning from **your** auditions!):
     - What belongs in the controller
     - What belongs in a model
