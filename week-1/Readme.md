@@ -75,8 +75,8 @@
   - Standup
 - am - [*overflow challenge](../../../../overflow-challenge)
 - 2p - 
-  - **Lecture**: Live demo of mocks, stubs, and doubles
-  - [Additional Reference](./discussions/mocks-stubs-doubles/README.md)
+  - Project standup
+  - [Reading - mocks, stubs and doubles](./discussions/mocks-stubs-doubles/README.md)
   - Journaling: "What did you do this week that moved you closer to reaching
     your goals?"
 - 5p - MVP demo of THE App
