@@ -70,13 +70,13 @@
 
 ## Day 5 - THE App
 - 10a - 
-  - **Lecture**: Live demo of mocks, stubs, and doubles
-  - [Additional Reference](./discussions/mocks-stubs-doubles/README.md)
+  - **Breakout**: Setting up continuous integration with Travis CI
   - Final Project discussion
   - Standup
 - am - [*overflow challenge](../../../../overflow-challenge)
 - 2p - 
-  - [Unixy Topics][]
+  - **Lecture**: Live demo of mocks, stubs, and doubles
+  - [Additional Reference](./discussions/mocks-stubs-doubles/README.md)
   - Journaling: "What did you do this week that moved you closer to reaching
     your goals?"
 - 5p - MVP demo of THE App
