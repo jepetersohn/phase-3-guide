@@ -7,7 +7,7 @@
 - 10 - Advanced JavaScript
   - Choosing your patterns: IIFE, Module, Namespace
   - Closures, scope, higher-order functions
-  - _MiniQuery Solution will be provided for your review by Steven_
+  - Thinking about MVC in JavaScript
   - [Markdown Widget Challenge](../../../../markdown-widget-challenge)
 - 2p - Careers introduction with Shar'nee
 - 6p - Javascript readings:
