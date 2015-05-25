@@ -5,11 +5,13 @@
 - 9a - Demos
 - _Code review on the group projects via GitHub_
 - 10 - Advanced JavaScript
-  - Choosing your patterns: IIFE, Module, Namespace
-  - Closures, scope, higher-order functions
   - Thinking about MVC in JavaScript
   - [Markdown Widget Challenge](../../../../markdown-widget-challenge)
 - 2p - Careers introduction with Shar'nee
+  - Choosing your patterns: IIFE, Module, Namespace
+  - Closures, scope, higher-order functions
+  - If you finish markdown.... start [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge) 
+
 - 6p - Javascript readings:
   - [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
