@@ -17,13 +17,20 @@
 
 ### Day 2 Ajax and JavaScript in Rails
 - 9:00 - Markdown Challenge Q&A
-- 10a [Grocery List Challenge](../../../../behavior-drill-grocery-list-challenge) 
-- 2 - JavaScript Power Tools: `Promise()`
-- pm - Grocery List Review
+- 10a - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
+- 2 - **Talk** Grocery List Review  + Templates in JS
+
+- pm - 
 
 ### Day 3 Client-side heavy apps
 
-- 9:00 - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
+- 9:00 - **Talk** Lil Twitter review. Promises in JS.
+  - **JS Spike day**  - We'll explore different js frameworks and maybe implement a simple app.
+   * Backbone
+   * React
+   * Meteor
+   * Angular
+   * Ember
 - 5p
      - Livecode Demo
 - 6p
