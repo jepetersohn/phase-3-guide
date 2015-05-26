@@ -20,7 +20,7 @@
 - 10a - [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
 - 2 - **Talk** Grocery List Review  + Templates in JS
 
-- pm - 
+- pm - Continue [Lil' Twitter Challenge](../../../../lil-twitter-challenge)
 
 ### Day 3 Client-side heavy apps
 
