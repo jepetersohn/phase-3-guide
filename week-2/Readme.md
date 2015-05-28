@@ -62,7 +62,7 @@
   - Consulting hours
 - 2pm
    - EE / Journaling / Reflection (10m)
-- 5pm - MVP Demo
+- 5pm - MVP explanation to the group - what's in and what's out
 - pm - Work on your project.
 
 ## Weekend Finish MVP
